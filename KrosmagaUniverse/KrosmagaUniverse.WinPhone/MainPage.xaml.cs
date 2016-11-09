@@ -27,6 +27,7 @@ namespace KrosmagaUniverse.WinPhone
             this.InitializeComponent();
 
             this.NavigationCacheMode = NavigationCacheMode.Required;
+            string dbPath = FileAccessHelper.GetLocalFilePath("KrosUniDB.db");
 
             LoadApplication(new KrosmagaUniverse.App());
         }
@@ -45,6 +46,41 @@ namespace KrosmagaUniverse.WinPhone
             // Windows.Phone.UI.Input.HardwareButtons.BackPressed event.
             // If you are using the NavigationHelper provided by some templates,
             // this event is handled for you.
+        }
+    }
+
+    public class FileAccessHelper
+    {
+        public static string GetLocalFilePath(string filename)
+        {
+            string path = Windows.Storage.ApplicationData.Current.LocalFolder.Path;
+            string dbPath = Path.Combine(path, filename);
+
+            CopyDatabaseIfNotExists(dbPath);
+
+            return dbPath;
+        }
+
+        public static void CopyDatabaseIfNotExists(string dbPath)
+        {
+            var storageFile = IsolatedStorageFile.GetUserStoreForApplication();
+
+            if (!storageFile.FileExists(dbPath))
+            {
+                using (var resourceStream = Application.get(new Uri("KrosUniDB.db", UriKind.Relative)).Stream)
+                {
+                    using (var fileStream = storageFile.CreateFile(dbPath))
+                    {
+                        byte[] readBuffer = new byte[4096];
+                        int bytes = -1;
+
+                        while ((bytes = resourceStream.Read(readBuffer, 0, readBuffer.Length)) > 0)
+                        {
+                            fileStream.Write(readBuffer, 0, bytes);
+                        }
+                    }
+                }
+            }
         }
     }
 }

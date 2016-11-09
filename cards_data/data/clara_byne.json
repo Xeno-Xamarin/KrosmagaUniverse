@@ -1,0 +1,18 @@
+{
+  "$type": "Assets.Code.Editor.Helpers.SimpleCardDataExporter+SimpleData, Assembly-CSharp-Editor",
+  "Id": 35,
+  "Name": "clara_byne",
+  "CardType": "Summon",
+  "CostAP": 1,
+  "Life": 1,
+  "Attack": 1,
+  "MovementPoint": 3,
+  "Families": [
+    2
+  ],
+  "IsToken": false,
+  "Rarity": 0,
+  "GodType": 2,
+  "Extension": 1,
+  "LinkedCards": []
+}

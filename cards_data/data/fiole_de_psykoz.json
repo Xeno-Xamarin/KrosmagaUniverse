@@ -1,0 +1,18 @@
+{
+  "$type": "Assets.Code.Editor.Helpers.SimpleCardDataExporter+SimpleData, Assembly-CSharp-Editor",
+  "Id": 518,
+  "Name": "fiole_de_psykoz",
+  "CardType": "Spell",
+  "CostAP": 6,
+  "Life": 0,
+  "Attack": 0,
+  "MovementPoint": 0,
+  "Families": [
+    3
+  ],
+  "IsToken": false,
+  "Rarity": 2,
+  "GodType": 3,
+  "Extension": 1,
+  "LinkedCards": []
+}

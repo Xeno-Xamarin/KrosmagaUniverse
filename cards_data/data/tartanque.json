@@ -1,0 +1,18 @@
+{
+  "$type": "Assets.Code.Editor.Helpers.SimpleCardDataExporter+SimpleData, Assembly-CSharp-Editor",
+  "Id": 313,
+  "Name": "tartanque",
+  "CardType": "Summon",
+  "CostAP": 3,
+  "Life": 1,
+  "Attack": 1,
+  "MovementPoint": 3,
+  "Families": [
+    52
+  ],
+  "IsToken": false,
+  "Rarity": 2,
+  "GodType": 0,
+  "Extension": 1,
+  "LinkedCards": []
+}

@@ -1,4 +1,7 @@
-﻿using System;
+﻿using FreshMvvm;
+using KrosmagaUniverse.KrosData;
+using KrosmagaUniverse.PageModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,22 +12,38 @@ namespace KrosmagaUniverse
 {
     public class App : Application
     {
+        static ControleurGererDataAccess dbUtils;
         public App()
         {
             // The root page of your application
-            MainPage = new ContentPage
+            //MainPage = new Pages.RootPage();
+
+            var masterDetailNav = new ThemedMasterDetailNavigationContainer();
+            masterDetailNav.Init("KrosmagaUniverse","menu.png");
+            masterDetailNav.AddTitle<CardPageModel>("Outils",null);
+            masterDetailNav.AddPageWithIcon<ClassSelectionPageModel>("Rien", "krosmozv2.png");
+            masterDetailNav.AddPageWithIcon<ClassSelectionPageModel>("DeckBuilder", "krosmozv2.png");
+            masterDetailNav.AddPageWithIcon<CardModernPageModel>("Liste des Cartes", "krosmozv2.png");
+            masterDetailNav.AddPageWithIcon<ClassSelectionPageModel>("Decks", "krosmozv2.png");
+            masterDetailNav.AddTitle<CardPageModel>("Actualités", null);
+            masterDetailNav.AddPageWithIcon<ClassSelectionPageModel>("News & Patch", "krosmozv2.png");
+            masterDetailNav.AddPageWithIcon<ClassSelectionPageModel>("Streams & Vidéos", "krosmozv2.png");
+            masterDetailNav.AddTitle<CardPageModel>("Autres", null);
+            masterDetailNav.AddPageWithIcon<ClassSelectionPageModel>("Note cette app", "krosmozv2.png");
+            masterDetailNav.AddPageWithIcon<ClassSelectionPageModel>("Paramètres", "krosmozv2.png");
+            MainPage = masterDetailNav;
+            MainPage.BackgroundColor = Color.Red;
+        }
+        public static ControleurGererDataAccess DAUtil
+        {
+            get
             {
-                Content = new StackLayout
+                if (dbUtils == null)
                 {
-                    VerticalOptions = LayoutOptions.Center,
-                    Children = {
-                        new Label {
-                            XAlign = TextAlignment.Center,
-                            Text = "Welcome to Xamarin Forms!"
-                        }
-                    }
+                    dbUtils = new ControleurGererDataAccess();
                 }
-            };
+                return dbUtils;
+            }
         }
 
         protected override void OnStart()

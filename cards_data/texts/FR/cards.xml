@@ -1,0 +1,2489 @@
+<Card cardid=539>
+  <name>Abragland</name>
+  <descr><b>APPARITION :</b>
+Gagne +1 <b>AT</b> par Arakne
+en jeu.</descr>
+</Card>
+<Card cardid=106>
+  <name>Abraknyde</name>
+  <descr><b>MORT :</b>
+Invoque 2 Araknes
+autour de lui.</descr>
+</Card>
+<Card cardid=298>
+  <name>Abraknyde Ancestral</name>
+  <descr><b>MORT :</b> Invoque 2 Corbacs autour de lui.</descr>
+</Card>
+<Card cardid=529>
+  <name>Abraxane</name>
+  <descr><b>APPARITION :</b>
+Soigne une invocation
+de 2 <b>PV</b>.</descr>
+</Card>
+<Card cardid=73>
+  <name>Acide Sandoz</name>
+  <descr>Piochez 1 carte quand une invocation est soignée.</descr>
+</Card>
+<Card cardid=446>
+  <name>Adamai</name>
+  <descr><b>APPARITION :</b>
+Remonte dans la main
+de son propriétaire une invocation ayant 3 <b>AT</b>
+ou moins.</descr>
+</Card>
+<Card cardid=329>
+  <name>Adamaï</name>
+  <descr><b>APPARITION :</b>
+Remonte dans la main
+de son propriétaire une invocation ayant 5 <b>AT</b>
+ou moins.</descr>
+</Card>
+<Card cardid=61>
+  <name>Adamaï</name>
+  <descr><b>APPARITION :</b>
+Remonte une invocation dans la main de son propriétaire.</descr>
+</Card>
+<Card cardid=1440>
+  <name>Affaiblissement</name>
+  <descr>Fait chuter à 1 l'<b>AT</b> d'une invocation.</descr>
+</Card>
+<Card cardid=505>
+  <name>Aiguille</name>
+  <descr>Inflige 2 dégâts
+ou 5 dégâts si vous avez
+au moins 5 <b>PA</b> dans
+votre <b>réserve</b>.</descr>
+</Card>
+<Card cardid=492>
+  <name>Alargix</name>
+  <descr><b>DÉBUT DU TOUR :</b>
+Récupère tous ses <b>PV</b>.</descr>
+</Card>
+<Card cardid=395>
+  <name>Alibert</name>
+  <descr><b>APPARITION :</b>
+Ajoute une Poêle
+à votre main.</descr>
+</Card>
+<Card cardid=53>
+  <name>Alibert</name>
+  <descr><b>APPARITION :</b>
+Ajoute une Blanquette
+à votre main.</descr>
+</Card>
+<Card cardid=221>
+  <name>Alibert</name>
+  <descr><b>APPARITION :</b>
+Ajoute un Lait de Bambou
+à votre main.</descr>
+</Card>
+<Card cardid=351>
+  <name>Amalia</name>
+  <descr><b>APPARITION :</b>
+Invoquez une Poupée Gonflable.</descr>
+</Card>
+<Card cardid=215>
+  <name>Amalia</name>
+  <descr><b>APPARITION :</b>
+Invoquez une Poupée Folle.</descr>
+</Card>
+<Card cardid=459>
+  <name>Amalia</name>
+  <descr><b>APPARITION :</b>
+Inflige 4 dégâts aux invocations adverses
+de sa ligne.</descr>
+</Card>
+<Card cardid=113>
+  <name>Amsrad Cépaisset</name>
+  <descr>Bannit 5 cartes de votre défausse pour l'invoquer.</descr>
+</Card>
+<Card cardid=89>
+  <name>Anathar</name>
+  <descr><b>CONTRE COUP :</b>
+Tant qu'il est en vie, Anathar prend le contôle de son adversaire.</descr>
+</Card>
+<Card cardid=137>
+  <name>Appel à la Baston</name>
+  <descr>Piochez 4 cartes.
+Gardez les invocations et défaussez les autres.</descr>
+</Card>
+<Card cardid=165>
+  <name>Arakne</name>
+  <descr><b>BLESSÉ</b> :
+Gagne +1 <b>PM</b>.</descr>
+</Card>
+<Card cardid=496>
+  <name>Arakne Albinos</name>
+  <descr><b>APPARITION :</b>
+Remonte une de vos invocations dans votre main.</descr>
+</Card>
+<Card cardid=497>
+  <name>Arakne Brodeuse</name>
+  <descr><b>APPARITION :</b>
+Remonte dans la main adverse une invocation ayant 2 <b>AT</b> ou moins.</descr>
+</Card>
+<Card cardid=404>
+  <name>Arakne Majeure</name>
+  <descr><b>APPARITION :</b>
+Remonte une invocation dans la main de son propriétaire.</descr>
+</Card>
+<Card cardid=40>
+  <name>Arakne Spectrale</name>
+  <descr>Remonte dans votre main
+si il lui reste 1 <b>PV</b>.</descr>
+</Card>
+<Card cardid=175>
+  <name>Araknoplasme</name>
+  <descr>Donne +1 <b>AT</b> et +1 <b>AR</b> à vos autres Araknes quand une invocation remonte dans la main de son propriétaire.</descr>
+</Card>
+<Card cardid=383>
+  <name>Arbre à Chachas</name>
+  <descr><b>MUR</b>
+<b>CONTRE COUP :</b> Ajoute 1 Chacha à votre main.</descr>
+</Card>
+<Card cardid=504>
+  <name>Archille</name>
+  <descr><b>INITIATIVE</b></descr>
+</Card>
+<Card cardid=512>
+  <name>Armée des Ombres</name>
+  <descr>Récupérez les Srams de votre défausse.</descr>
+</Card>
+<Card cardid=225>
+  <name>Armure Sanguine</name>
+  <descr>Confère +5 <b>AR</b>
+à une invocation.</descr>
+</Card>
+<Card cardid=184>
+  <name>Aroma Bome</name>
+  <descr>Gagne +1 <b>AT</b> et +1 <b>AR</b>
+quand une invocation
+est soignée.</descr>
+</Card>
+<Card cardid=377>
+  <name>Asprogik Mils</name>
+  <descr><b>APPARITION :</b>
+Echange son <b>AT</b> avec une autre invocation.</descr>
+</Card>
+<Card cardid=1>
+  <name>Assoiffé</name>
+  <descr>Bannit 4 cartes de votre défausse pour infliger 5 dégâts.</descr>
+</Card>
+<Card cardid=143>
+  <name>Atcham</name>
+  <descr>50% de chances de ne pas subir les dégâts qu'il reçoit.</descr>
+</Card>
+<Card cardid=268>
+  <name>Atcham</name>
+  <descr>50% de chances de ne pas subir les dégâts qu'il reçoit.</descr>
+</Card>
+<Card cardid=239>
+  <name>Atcham</name>
+  <descr>50% de chances de ne pas subir les dégâts qu'il reçoit.</descr>
+</Card>
+<Card cardid=292>
+  <name>Attirance</name>
+  <descr><b>Attire</b> une invocation adverse de 7 cases.</descr>
+</Card>
+<Card cardid=485>
+  <name>Autorité</name>
+  <descr>L'invocation ciblée <b>charge</b> jusqu'au Dofus adverse.</descr>
+</Card>
+<Card cardid=544>
+  <name>Az</name>
+  <descr><b>CHEF :</b>
++2 <b>AT</b> aux invocations alliées.</descr>
+</Card>
+<Card cardid=84>
+  <name>Azraoül</name>
+  <descr>Se <b>téléporte</b> derrière son adversaire après un combat.</descr>
+</Card>
+<Card cardid=409>
+  <name>Bakara</name>
+  <descr><b>APPARITION :</b>
+Récupérez le dernier sort parti dans votre défausse.</descr>
+</Card>
+<Card cardid=523>
+  <name>Bakara</name>
+  <descr><b>APPARITION :</b>
+Récupérez les 2 derniers sorts partis dans votre défausse.</descr>
+</Card>
+<Card cardid=251>
+  <name>Bakara</name>
+  <descr><b>APPARITION :</b>
+Récupérez le dernier sort parti dans votre défausse et le dernier parti dans la défausse adverse.</descr>
+</Card>
+<Card cardid=361>
+  <name>Baraklud</name>
+  <descr><b>APPARITION :</b>
+Soigne une invocation ou un Dofus de 2 <b>PV</b>.</descr>
+</Card>
+<Card cardid=385>
+  <name>Baron Sramedi</name>
+  <descr><b>MORT :</b> Remonte dans votre main si vous avez au moins 10 cartes dans votre défausse.</descr>
+</Card>
+<Card cardid=189>
+  <name>Bas les Pattes</name>
+  <descr>Placez une invocation sur la pioche de son propriétaire.</descr>
+</Card>
+<Card cardid=69>
+  <name>Bébé Phorreur</name>
+  <descr><b>MORT :</b> Piochez 1 carte.</descr>
+</Card>
+<Card cardid=531>
+  <name>Bébé Tofu</name>
+  <descr><b>MORT :</b> Vos Tofus
+<b>chargent</b> de 1 case.</descr>
+</Card>
+<Card cardid=456>
+  <name>Bellaphone</name>
+  <descr><b>MORT :</b>
+Remonte dans votre main l'invocation qui a détruit la Bellaphone.</descr>
+</Card>
+<Card cardid=489>
+  <name>Ben Debouche</name>
+  <descr><b>APPARITION :</b>
+Soigne toutes vos invocations de 3 <b>PV</b>.</descr>
+</Card>
+<Card cardid=229>
+  <name>Bernardo de la Carpett</name>
+  <descr><b>INCIBLABLE</b></descr>
+</Card>
+<Card cardid=572>
+  <name>Betty Boubz</name>
+  <descr><b>PORTÉE :</b> 1-3
+<b>CONTRE COUP :</b>
+Recule de 2 cases.</descr>
+</Card>
+<Card cardid=322>
+  <name>Black Tiwabbit</name>
+  <descr><b>APPARITION :</b>
+Inflige 1 dégât.</descr>
+</Card>
+<Card cardid=110>
+  <name>Black Wabbit</name>
+  <descr><b>APPARITION :</b>
+Inflige 2 dégâts.</descr>
+</Card>
+<Card cardid=220>
+  <name>Blanquette</name>
+  <descr>Rend tous les <b>PV</b> à une invocation.</descr>
+</Card>
+<Card cardid=16>
+  <name>Bluff</name>
+  <descr>Échangez la position
+de 2 de vos Dofus.</descr>
+</Card>
+<Card cardid=407>
+  <name>Bombe</name>
+  <descr>Inflige 2 dégâts.</descr>
+</Card>
+<Card cardid=416>
+  <name>Bond</name>
+  <descr><b>Téléporte</b> une invocation
+de 3 cases.</descr>
+</Card>
+<Card cardid=245>
+  <name>Bond du Félin</name>
+  <descr><b>Téléporte</b> une invocation
+de 1d6 case(s).</descr>
+</Card>
+<Card cardid=471>
+  <name>Boo</name>
+  <descr>Invoque un Boo
+à côté de lui s'il survit
+à une attaque.</descr>
+</Card>
+<Card cardid=29>
+  <name>Boufette</name>
+  <descr><b>APPARITION :</b>
+Soigne vos autres Bouftous de 2 <b>PV</b>.</descr>
+</Card>
+<Card cardid=376>
+  <name>Boufton Blanc</name>
+  <descr>Gagne +1 <b>AT</b> tant
+que vous avez un autre Bouftou en jeu.</descr>
+</Card>
+<Card cardid=556>
+  <name>Boufton Noir</name>
+  <descr>Gagne +1 <b>AR</b> tant
+que vous avez un autre Bouftou en jeu.</descr>
+</Card>
+<Card cardid=119>
+  <name>Bouftou Céleste</name>
+  <descr><b>INCIBLABLE</b>
+<b>APPARITION :</b>
+Récupérez le dernier Bouftou parti dans votre défausse.</descr>
+</Card>
+<Card cardid=178>
+  <name>Bouftou Dominant</name>
+  <descr><b>APPARITION :</b>
+Donne +1 <b>AR</b> à vos autres Bouftous.</descr>
+</Card>
+<Card cardid=159>
+  <name>Bouftou du Printemps</name>
+  <descr><b>DÉBUT DU TOUR :</b>
+Gagne +1 <b>AR</b>.</descr>
+</Card>
+<Card cardid=33>
+  <name>Bouftou Male</name>
+  <descr><b>MORT :</b> Le prisme allié de sa ligne apparait à nouveau.</descr>
+</Card>
+<Card cardid=36>
+  <name>Bouftou Noir</name>
+  <descr></descr>
+</Card>
+<Card cardid=372>
+  <name>Bouftou Royal</name>
+  <descr><b>APPARITION :</b>
+Inflige 2 dégâts aux invocations de sa ligne.</descr>
+</Card>
+<Card cardid=486>
+  <name>Bouftou Sauvage</name>
+  <descr></descr>
+</Card>
+<Card cardid=470>
+  <name>Bould Erdash</name>
+  <descr><b>GARDE DU CORPS</b></descr>
+</Card>
+<Card cardid=177>
+  <name>Bowne Piauch</name>
+  <descr><b>APPARITION :</b>
+Chaque joueur pioche 1 carte de la pioche adverse.</descr>
+</Card>
+<Card cardid=477>
+  <name>Brûlure Temporelle</name>
+  <descr>Inflige 2 dégâts.
+Ajoute 1 <b>PA</b> à votre <b>réserve</b>.</descr>
+</Card>
+<Card cardid=152>
+  <name>Buisson</name>
+  <descr>Transforme une <b>Graine</b> alliée en <b>Buisson</b>.</descr>
+</Card>
+<Card cardid=507>
+  <name>Buisson</name>
+  <descr>Vous pouvez invoquer un allié sur un buisson.</descr>
+</Card>
+<Card cardid=200>
+  <name>Bwork Chevaucheur</name>
+  <descr><b>COUP DE GRACE :</b>
+Change de ligne.</descr>
+</Card>
+<Card cardid=452>
+  <name>Cactoblong</name>
+  <descr><b>APPARITION :</b>
+S'inflige 2 dégâts.</descr>
+</Card>
+<Card cardid=174>
+  <name>Canar</name>
+  <descr><b>MORT :</b>
+Ajoute à votre main un sort Krosmique de votre pioche.</descr>
+</Card>
+<Card cardid=326>
+  <name>Cawotte</name>
+  <descr><b>MUR</b>
+<b>FIN DU TOUR :</b>
+Soigne vos Wabbits
+de 1 <b>PV</b>.</descr>
+</Card>
+<Card cardid=6>
+  <name>Chacha</name>
+  <descr>Transforme une invocation en Chacha allié.</descr>
+</Card>
+<Card cardid=151>
+  <name>Chacha</name>
+  <descr></descr>
+</Card>
+<Card cardid=368>
+  <name>Chacha Or</name>
+  <descr>Remplace vos
+autres Chachas par des Chachas Or.</descr>
+</Card>
+<Card cardid=198>
+  <name>Chafer Archer </name>
+  <descr><b>PORTÉE :</b> 1-3
+<b>MORT :</b> 50% de chances d'invoquer un Chafer.</descr>
+</Card>
+<Card cardid=97>
+  <name>Chafer d'Elite </name>
+  <descr><b>MORT :</b>
+50% de chances d'invoquer un Chafer Lancier.</descr>
+</Card>
+<Card cardid=238>
+  <name>Chafer Lancier</name>
+  <descr><b>MORT :</b>
+50% de chances d'invoquer un Chafer.</descr>
+</Card>
+<Card cardid=533>
+  <name>Chafer</name>
+  <descr></descr>
+</Card>
+<Card cardid=360>
+  <name>Chafer Translucide</name>
+  <descr><b>INCIBLABLE</b>
+<b>MORT :</b> 50% de chances d'invoquer un Chafer d'Elite.</descr>
+</Card>
+<Card cardid=386>
+  <name>Chaferfu</name>
+  <descr>Se <b>téléporte</b> de 2 cases quand un allié meurt.
+<b>MORT  :</b> 50% de chances d'invoquer un Chafer d'Elite.</descr>
+</Card>
+<Card cardid=379>
+  <name>Charge</name>
+  <descr>L'invocation ciblée
+<b>charge</b> de 2 cases.</descr>
+</Card>
+<Card cardid=19>
+  <name>Chasseur</name>
+  <descr>Piochez 1 carte.
+Elle coûte 0 <b>PA</b> si c'est
+une invocation, sinon défaussez-la.</descr>
+</Card>
+<Card cardid=476>
+  <name>Chatar</name>
+  <descr><b>APPARITION :</b>
+Gagne +2 <b>AT OU</b> part
+dans la main adverse.</descr>
+</Card>
+<Card cardid=336>
+  <name>Chauve Souris</name>
+  <descr><b>APPARITION :</b>
+Défausse 1 carte aléatoire de votre main.</descr>
+</Card>
+<Card cardid=436>
+  <name>Chauve Souris Dodue</name>
+  <descr>Soigne de 1 <b>PV</b> vos autres invocations quand elle blesse un adversaire.</descr>
+</Card>
+<Card cardid=296>
+  <name>Chef de Guerre Bouftou</name>
+  <descr><b>CHEF :</b>
++1 <b>AT</b> à vos autres Bouftous.</descr>
+</Card>
+<Card cardid=133>
+  <name>Chef Grouilleux</name>
+  <descr><b>CHEF :</b>
++1 <b>PM</b> à vos autres invocations.</descr>
+</Card>
+<Card cardid=279>
+  <name>Chuchoteurs Arbaletriers</name>
+  <descr><b>PORTÉE :</b> 1-2</descr>
+</Card>
+<Card cardid=319>
+  <name>Chuchoteurs Fantassins</name>
+  <descr></descr>
+</Card>
+<Card cardid=324>
+  <name>Chuchoteurs Porte-Etendard</name>
+  <descr><b>CHEF :</b>
++1 <b>AT</b> à vos autres Chuchoteurs.</descr>
+</Card>
+<Card cardid=78>
+  <name>Chuck Maurice</name>
+  <descr><b>INITIATIVE</b></descr>
+</Card>
+<Card cardid=35>
+  <name>Clara Byne</name>
+  <descr><b>PORTÉE :</b> 1-2
+<b>APPARITION :</b>
+Inflige 1 dégât.</descr>
+</Card>
+<Card cardid=60>
+  <name>Cochon</name>
+  <descr><b>MORT :</b> Vos invocations récupèrent 1 <b>PV</b>.</descr>
+</Card>
+<Card cardid=247>
+  <name>Compulsion</name>
+  <descr>Confère +2 <b>AT</b> et +2 <b>AR</b>
+à une invocation.</descr>
+</Card>
+<Card cardid=461>
+  <name>Comte Harebourg</name>
+  <descr>Tant qu'il est en jeu,
+double les <b>PA</b> obtenus par vos prismes.</descr>
+</Card>
+<Card cardid=511>
+  <name>Comte Harebourg</name>
+  <descr><b>APPARITION :</b>
+Récupère les prismes <b>PA</b> adverses.</descr>
+</Card>
+<Card cardid=574>
+  <name>Comte Harebourg</name>
+  <descr><b>APPARITION :</b>
+Détruit tous les prismes.</descr>
+</Card>
+<Card cardid=445>
+  <name>Corbac Chef</name>
+  <descr><b>CHEF :</b> +1 <b>PM</b> à vos
+autres Corbacs.</descr>
+</Card>
+<Card cardid=144>
+  <name>Corbac</name>
+  <descr></descr>
+</Card>
+<Card cardid=63>
+  <name>Corbacassin</name>
+  <descr><b>MORT :</b>
+Inflige 1 dégât autour de lui.</descr>
+</Card>
+<Card cardid=259>
+  <name>Corum</name>
+  <descr><b>MORT :</b>
+Invoque une Momie.</descr>
+</Card>
+<Card cardid=213>
+  <name>Coup de Sang</name>
+  <descr>Confère à une invocation autant d'<b>AT</b> qu'elle a de <b>PV</b>.</descr>
+</Card>
+<Card cardid=479>
+  <name>Crapaud Mufle</name>
+  <descr>Gagne +1 <b>AT</b> et +1 <b>AR</b> chaque fois que vous jouez un sort.</descr>
+</Card>
+<Card cardid=482>
+  <name>Craps</name>
+  <descr>Inflige 7 dégâts
+répartis aléatoirement
+entre tous les Dofus.</descr>
+</Card>
+<Card cardid=176>
+  <name>Craqueboule</name>
+  <descr><b>RÉSISTANCE :</b> 1</descr>
+</Card>
+<Card cardid=262>
+  <name>Craqueboule Chuchoté</name>
+  <descr><b>RÉSISTANCE :</b> 1
+<b>MORT :</b> Invoque un Chuchoteur Porte-Etendard.</descr>
+</Card>
+<Card cardid=412>
+  <name>Craqueboule Or</name>
+  <descr><b>CHEF :</b> Augmente de 1 la <b>résistance</b> de vos autres craqueleurs.</descr>
+</Card>
+<Card cardid=540>
+  <name>Craqueleur</name>
+  <descr><b>RÉSISTANCE :</b> 1</descr>
+</Card>
+<Card cardid=290>
+  <name>Craqueleur Ancestral</name>
+  <descr><b>RÉSISTANCE :</b> 1
+<b>MORT :</b> Invoque un Craqueboule</descr>
+</Card>
+<Card cardid=291>
+  <name>Craqueleur Chuchoté</name>
+  <descr><b>RÉSISTANCE :</b> 1
+<b>MORT :</b> Invoque des Chuchoteurs Fantassins.</descr>
+</Card>
+<Card cardid=501>
+  <name>Craqueleur Royal</name>
+  <descr><b>RÉSISTANCE :</b> 1
+<b>CHEF :</b> +1 <b>AT</b> à vos autres Craqueleurs.</descr>
+</Card>
+<Card cardid=519>
+  <name>Criblage</name>
+  <descr>Inflige à un Dofus
+autant de dégâts que de Crâs alliés en jeu.</descr>
+</Card>
+<Card cardid=435>
+  <name>Dark Vlad</name>
+  <descr>Inflige ses dégâts sur chaque cases autour de lui à chaque fois qu'il attaque.</descr>
+</Card>
+<Card cardid=509>
+  <name>Dé du Chacha</name>
+  <descr>Ajoutez 1d6 Chacha(s)
+à votre main.</descr>
+</Card>
+<Card cardid=278>
+  <name>Dé du Chateux</name>
+  <descr>Inflige 1d6 dégât(s).
+Dévoile le Dofus adverse de la ligne sur 3 ou moins.</descr>
+</Card>
+<Card cardid=414>
+  <name>Dé Ecaflip</name>
+  <descr>Inflige 1d6 dégât(s). Récupérez ce sort
+sur 3 ou moins.</descr>
+</Card>
+<Card cardid=41>
+  <name>Dé Rebondissant</name>
+  <descr>Inflige 1d6 dégât(s) aux invocations adverses.
+(Coûte 1 <b>PA</b> de moins par Chacha en jeu.)</descr>
+</Card>
+<Card cardid=515>
+  <name>Defhi Croquets</name>
+  <descr><b>INITIATIVE</b>
+<b>APPARITION :</b>
+<b>Charge</b> de 1d6 case(s).</descr>
+</Card>
+<Card cardid=1545>
+  <name>Démasqué</name>
+  <descr>Dévoilez un Dofus.</descr>
+</Card>
+<Card cardid=226>
+  <name>Dente le Remonteur</name>
+  <descr>Se pose gratuitement si vous avez au moins 5 <b>PA</b> dans votre <b>réserve</b>.</descr>
+</Card>
+<Card cardid=227>
+  <name>Dephasage</name>
+  <descr>Confère <b>inciblable</b>
+à une invocation.</descr>
+</Card>
+<Card cardid=42>
+  <name>Dernier Recours</name>
+  <descr>Supprime la portée
+d'une invocation et double son attaque.</descr>
+</Card>
+<Card cardid=65>
+  <name>Deserboss</name>
+  <descr><b>APPARITION :</b>
+Inflige 1 dégât à toutes les invocations situées dans le camp adverse.</descr>
+</Card>
+<Card cardid=68>
+  <name>Désynchronisation</name>
+  <descr>Dépense vos <b>PA</b> restants pour infliger l'équivalent
+en dégâts.</descr>
+</Card>
+<Card cardid=267>
+  <name>Détournement</name>
+  <descr>L'invocation ciblée
+change de ligne.</descr>
+</Card>
+<Card cardid=216>
+  <name>Dévouement</name>
+  <descr>Transforme une invocation en Momie alliée.</descr>
+</Card>
+<Card cardid=248>
+  <name>Diod Dewit</name>
+  <descr><b>APPARITION :</b>
+Place un Sinistro
+sur un Dofus.</descr>
+</Card>
+<Card cardid=551>
+  <name>Do</name>
+  <descr></descr>
+</Card>
+<Card cardid=302>
+  <name>Dodu</name>
+  <descr><b>APPARITION :</b>
+Transforme une de vos <b>Graines</b> en Poupée Folle.</descr>
+</Card>
+<Card cardid=402>
+  <name>Don Rascailles</name>
+  <descr><b>PORTÉE :</b> 1-3
+<b>APPARITION :</b>
+Détruisez un prisme.</descr>
+</Card>
+<Card cardid=81>
+  <name>Dragon Cochon</name>
+  <descr></descr>
+</Card>
+<Card cardid=469>
+  <name>Dragon Cochon</name>
+  <descr></descr>
+</Card>
+<Card cardid=565>
+  <name>Dragon Cochon</name>
+  <descr></descr>
+</Card>
+<Card cardid=411>
+  <name>Dureden Taillair</name>
+  <descr><b>BLESSÉ :</b>
++2 <b>AT</b> et +1 <b>PM</b></descr>
+</Card>
+<Card cardid=575>
+  <name>Ebranler</name>
+  <descr><b>Assomme</b> une invocation pour 1 tour.</descr>
+</Card>
+<Card cardid=550>
+  <name>Echaenge</name>
+  <descr>Chaque joueur pioche 1 carte chez son adversaire.</descr>
+</Card>
+<Card cardid=338>
+  <name>Edass le Trouble Fête</name>
+  <descr><b>BLESSÉ :</b>
+Gagne +2 <b>AT</b> et <b>initiative</b>.</descr>
+</Card>
+<Card cardid=155>
+  <name>Ejipe</name>
+  <descr>Se <b>téléporte</b> derrière son adversaire après avoir été attaqué au corps à corps.</descr>
+</Card>
+<Card cardid=55>
+  <name>Eksa Soth</name>
+  <descr><b>PORTÉE :</b> 1-3
+<b>COUP DE GRÂCE :</b>
+Piochez 1 carte.</descr>
+</Card>
+<Card cardid=417>
+  <name>Elely</name>
+  <descr><b>APPARITION :</b>
+<b>Charge</b> d'autant de cases
+qu'il y a d'invocations adverses en jeu.</descr>
+</Card>
+<Card cardid=483>
+  <name>Eliacube</name>
+  <descr><b>MUR</b>
+Ajoute 1 <b>PA</b> à votre
+<b>réserve</b> quand une invocation meurt.</descr>
+</Card>
+<Card cardid=15>
+  <name>Empereur Gelax</name>
+  <descr>Invoque une autre Gelée aléatoire autour de lui s'il survit à une attaque.</descr>
+</Card>
+<Card cardid=120>
+  <name>Engrais</name>
+  <descr>Vos Sadidas et vos Poupées <b>chargent</b>.</descr>
+</Card>
+<Card cardid=107>
+  <name>Epouventrail</name>
+  <descr><b>MUR</b></descr>
+</Card>
+<Card cardid=375>
+  <name>Equité</name>
+  <descr>Fait chuter à 1 l'<b>AT</b>
+des invocations.</descr>
+</Card>
+<Card cardid=439>
+  <name>Eratz le Revendicateur</name>
+  <descr><b>APPARITION :</b>
+Donne <b>initiative</b> à une invocation.</descr>
+</Card>
+<Card cardid=481>
+  <name>Esquive</name>
+  <descr>Repousse une invocation alliée de 4 cases.</descr>
+</Card>
+<Card cardid=444>
+  <name>Evangelyne</name>
+  <descr><b>PORTÉE :</b> 1-3
+Gagne +2 <b>portée</b> si vous avez un autre membre de la Confrérie du Tofu en jeu.</descr>
+</Card>
+<Card cardid=493>
+  <name>Evangelyne</name>
+  <descr><b>PORTÉE :</b> 1-4
+Gagne +2 <b>portée</b> si vous avez un autre membre de la Confrérie du Tofu en jeu.</descr>
+</Card>
+<Card cardid=340>
+  <name>Evangelyne</name>
+  <descr><b>PORTÉE :</b> 1-5
+Gagne +2 <b>portée</b> si vous avez un autre membre de la Confrérie du Tofu en jeu.</descr>
+</Card>
+<Card cardid=86>
+  <name>Éventrail</name>
+  <descr>Inflige 3 dégâts
+aux invocations adverses d'une ligne.</descr>
+</Card>
+<Card cardid=517>
+  <name>Excarnus</name>
+  <descr>Vos autres Bouftous remontent dans votre main quand ils meurent. </descr>
+</Card>
+<Card cardid=23>
+  <name>Fan</name>
+  <descr><b>APPARITION :</b>
+<b>Charge</b> si Khan Karkass est en jeu.</descr>
+</Card>
+<Card cardid=11>
+  <name>Fantome Cra</name>
+  <descr><b>PORTÉE :</b> 1-2
+<b>INCIBLABLE</b></descr>
+</Card>
+<Card cardid=121>
+  <name>Felida</name>
+  <descr><b>COUP DE GRÂCE :</b>
+Ajoute un sort Bond
+à votre main.</descr>
+</Card>
+<Card cardid=422>
+  <name>Fiole de Douleur</name>
+  <descr>Inflige 2 dégâts.</descr>
+</Card>
+<Card cardid=250>
+  <name>Fiole de Frayeur</name>
+  <descr>Inflige <b>silence</b> à une invocation et la repousse de 3 cases.</descr>
+</Card>
+<Card cardid=518>
+  <name>Fiole de Psykoz</name>
+  <descr>Prenez le contrôle d'une invocation adverse ayant 3 <b>AT</b> ou moins jusqu'à la fin du tour.</descr>
+</Card>
+<Card cardid=348>
+  <name>Fiole de Torpeur</name>
+  <descr><b>Assomme</b> une invocation pour 1 tour.</descr>
+</Card>
+<Card cardid=167>
+  <name>Fiole Infectee</name>
+  <descr>Echangez l'<b>AT</b>
+de 2 invocations.</descr>
+</Card>
+<Card cardid=358>
+  <name>Flaqueux</name>
+  <descr><b>PORTÉE :</b> 1-2</descr>
+</Card>
+<Card cardid=318>
+  <name>Flèche chercheuse</name>
+  <descr>Inflige 1 dégât,
+si l'invocation est détruite récupérez ce sort.</descr>
+</Card>
+<Card cardid=10>
+  <name>Flèche Criblante</name>
+  <descr>Inflige 3 dégâts à une invocation et 1 dégât au Dofus adverse.</descr>
+</Card>
+<Card cardid=337>
+  <name>Flèche d'Immolation</name>
+  <descr>Inflige 2 dégâts,
+si l’invocation meurt piochez une carte.</descr>
+</Card>
+<Card cardid=295>
+  <name>Flèche de Recul</name>
+  <descr>Repousse une invocation adverse de 5 cases.</descr>
+</Card>
+<Card cardid=242>
+  <name>Flèche Destructrice</name>
+  <descr>Détruit une invocation blessée.</descr>
+</Card>
+<Card cardid=210>
+  <name>Flèche Explosive</name>
+  <descr>Inflige 5 dégâts.</descr>
+</Card>
+<Card cardid=281>
+  <name>Flèche perçante</name>
+  <descr><b>PERCE ARMURE :</b>
+Inflige 2 dégâts. </descr>
+</Card>
+<Card cardid=508>
+  <name>Flèche tempête</name>
+  <descr>Inflige 2 dégâts et repousse de 2 cases toutes les invocations adverses.</descr>
+</Card>
+<Card cardid=146>
+  <name>Flopin</name>
+  <descr><b>PORTÉE :</b> 1-2
+<b>APPARITION :</b>
+Inflige 2 dégâts à une invocation.</descr>
+</Card>
+<Card cardid=131>
+  <name>Fosscheur</name>
+  <descr>Déplace les cartes de la défausse de votre adversaire dans la votre.</descr>
+</Card>
+<Card cardid=46>
+  <name>Fripon</name>
+  <descr><b>MORT :</b>
+Récupérez 1 carte aléatoire de la défausse adverse.</descr>
+</Card>
+<Card cardid=423>
+  <name>Fulgurance</name>
+  <descr>Echange la position d'une de vos invocations avec celle d'une autre.</descr>
+</Card>
+<Card cardid=206>
+  <name>Fumfamfim</name>
+  <descr><b>APPARITION :</b>
+Echange sa place
+avec celle d'un allié.</descr>
+</Card>
+<Card cardid=1477>
+  <name>Funérailles</name>
+  <descr>Défausse 3 Srams
+de votre pioche.</descr>
+</Card>
+<Card cardid=468>
+  <name>Garde Temps</name>
+  <descr>Détruit un Dofus.</descr>
+</Card>
+<Card cardid=258>
+  <name>Gelatine</name>
+  <descr></descr>
+</Card>
+<Card cardid=241>
+  <name>Gelée Citron</name>
+  <descr><b>APPARITION :</b>
+Vos autres Gelées <b>chargent</b>.</descr>
+</Card>
+<Card cardid=317>
+  <name>Gelée Encre</name>
+  <descr><b>MORT :</b>
+Donne +1 <b>AT</b> et +1 <b>AR</b>
+à vos autres Gelées.</descr>
+</Card>
+<Card cardid=201>
+  <name>Gelée Fraise</name>
+  <descr><b>APPARITION :</b>
+Invoquez une Gelatine.</descr>
+</Card>
+<Card cardid=418>
+  <name>Gelée Framboise</name>
+  <descr>Gagne +1 <b>AT</b> et +1 <b>AR</b> chaque fois que vous invoquez une Gelée.</descr>
+</Card>
+<Card cardid=458>
+  <name>Gelée Menthe</name>
+  <descr><b>APPARITION :</b>
+Donne +1 <b>PM</b> à vos
+autres Gelées.</descr>
+</Card>
+<Card cardid=362>
+  <name>Gelure</name>
+  <descr>Transfère vos <b>PA</b> vers votre <b>réserve</b>.</descr>
+</Card>
+<Card cardid=37>
+  <name>Glaie</name>
+  <descr><b>APPARITION :</b>
+Donne +1 <b>PM</b> à une
+autre invocation.</descr>
+</Card>
+<Card cardid=355>
+  <name>Gligli</name>
+  <descr><b>CHARGE</b></descr>
+</Card>
+<Card cardid=526>
+  <name>Gligli Agressif</name>
+  <descr><b>CHEF :</b>
++1 <b>PM</b> à vos autres Gliglis.</descr>
+</Card>
+<Card cardid=269>
+  <name>Gligli Ancestral</name>
+  <descr><b>FIN DU TOUR :</b>
+Vos autres invocations <b>chargent</b> de 2 cases.</descr>
+</Card>
+<Card cardid=70>
+  <name>Gligli Royal</name>
+  <descr><b>APPARITION :</b>
+Vos autres Gliglis <b>chargent</b>.</descr>
+</Card>
+<Card cardid=163>
+  <name>Globule la Crapule</name>
+  <descr><b>CONTRE COUP :</b>
+Gagne +1 <b>PM</b>.</descr>
+</Card>
+<Card cardid=301>
+  <name>Gloutoblop</name>
+  <descr><b>APPARITION :</b>
+Donne +2 <b>AR</b> à une invocation.</descr>
+</Card>
+<Card cardid=158>
+  <name>Goule</name>
+  <descr><b>CONTRE COUP :</b>
+Se <b>téléporte</b> de 3 cases vers l'avant.</descr>
+</Card>
+<Card cardid=7>
+  <name>Gouloutony</name>
+  <descr>Se <b>téléporte</b> de 2 cases vers l'avant quand une autre invocation alliée subit des dégâts.</descr>
+</Card>
+<Card cardid=185>
+  <name>Goultard</name>
+  <descr><b>INITIATIVE</b>
+<b>COUP DE GRÂCE :</b>
+<b>Charge</b>.</descr>
+</Card>
+<Card cardid=425>
+  <name>Goultard</name>
+  <descr><b>INITIATIVE</b>
+<b>MORT :</b> Se transforme en Dark Vlad.</descr>
+</Card>
+<Card cardid=139>
+  <name>Goultard le Barbare</name>
+  <descr><b>INITIATIVE</b>
+<b>CHEF :</b> +2 <b>AT</b> et +1 <b>PM</b> à vos autres invocations.</descr>
+</Card>
+<Card cardid=391>
+  <name>Grainaille</name>
+  <descr>Confère à une invocation autant d'<b>AT</b> et d'<b>AR</b> que de Graines alliés en jeu.</descr>
+</Card>
+<Card cardid=537>
+  <name>Graine</name>
+  <descr>Placez cette graine dans votre camp.</descr>
+</Card>
+<Card cardid=543>
+  <name>Graines de Folie</name>
+  <descr>Transforme toutes vos <b>Graines</b> en Poupées Folles.</descr>
+</Card>
+<Card cardid=449>
+  <name>Graines de Sacrifice</name>
+  <descr>Transforme toutes vos <b>Graines</b> en Poupées Sacrifiées.</descr>
+</Card>
+<Card cardid=218>
+  <name>Grand Craqueleur Chuchoté</name>
+  <descr><b>PORTÉE :</b> 1-2
+<b>RÉSISTANCE :</b> 1
+<b>MORT :</b> Invoque des Chuchoteurs Arbalétriers.</descr>
+</Card>
+<Card cardid=374>
+  <name>Grany</name>
+  <descr>Vos autres Chachas gagnent +1 <b>AR</b> lorsqu'ils entrent en jeu.</descr>
+</Card>
+<Card cardid=495>
+  <name>Grimm Beurguen</name>
+  <descr><b>CHEF :</b> +1 <b>AT</b> à vos autres invocations.</descr>
+</Card>
+<Card cardid=327>
+  <name>Grinch</name>
+  <descr><b>APPARITION :</b>
+Réduit une invocation
+au <b>silence</b>.</descr>
+</Card>
+<Card cardid=359>
+  <name>Grine Piz</name>
+  <descr><b>CONTRE COUP :</b>
+Ajoute une <b>Graine</b>
+à votre main.</descr>
+</Card>
+<Card cardid=284>
+  <name>Gros Nambourg</name>
+  <descr>Gagne +1 <b>AT</b> quand une invocation alliée meurt.</descr>
+</Card>
+<Card cardid=157>
+  <name>Grougaloragran</name>
+  <descr><b>DÉBUT DU TOUR :</b>
+Vos Dofus récupèrent 1 <b>PV</b>. </descr>
+</Card>
+<Card cardid=135>
+  <name>Grougaloragran</name>
+  <descr>Remonte dans votre main s'il tombe a 3 <b>PV</b> ou moins.</descr>
+</Card>
+<Card cardid=104>
+  <name>Grougaloragran</name>
+  <descr>Tant qu'il est en jeu, vos Dofus ne peuvent pas être détruits.</descr>
+</Card>
+<Card cardid=179>
+  <name>Grouilleux</name>
+  <descr><b>BLESSÉ :</b>
+Gagne +1 <b>AT</b> et <b>initiative</b>.</descr>
+</Card>
+<Card cardid=474>
+  <name>Gruffon</name>
+  <descr><b>APPARITION :</b>
+50% de chances de dévoiler tous les dofus adverses.</descr>
+</Card>
+<Card cardid=373>
+  <name>Guy</name>
+  <descr><b>APPARITION :</b>
+Echange au hasard les emplacements des Dofus pour chaque joueur.</descr>
+</Card>
+<Card cardid=494>
+  <name>Guy Yomtella</name>
+  <descr><b>PORTÉE :</b> 1-6</descr>
+</Card>
+<Card cardid=566>
+  <name>Gwanpa Wabbit </name>
+  <descr><b>APPARITION :</b>
+Placez une Cawotte
+dans votre camp.</descr>
+</Card>
+<Card cardid=441>
+  <name>Gzenah</name>
+  <descr><b>APPARITION :</b>
+Gagne +1 <b>AT</b> et +1 <b>AR</b>
+par Iop allié en jeu.</descr>
+</Card>
+<Card cardid=341>
+  <name>Harcèlement</name>
+  <descr>Inflige 1 dégât à tous les Dofus adverses.</descr>
+</Card>
+<Card cardid=27>
+  <name>Heure de Gloire</name>
+  <descr>Dépensez vos <b>PA</b>
+restants pour donner à une invocation +1 <b>AT</b> et +1 <b>AR</b> par <b>PA</b> utilisé.</descr>
+</Card>
+<Card cardid=12>
+  <name>Horloge</name>
+  <descr>Récupérez un sort Sinistro de votre défausse.</descr>
+</Card>
+<Card cardid=580>
+  <name>Indie</name>
+  <descr><b>MORT :</b> Piochez la première carte Infinite de votre deck. Elle coûte 1 <b>PA</b> de moins.</descr>
+</Card>
+<Card cardid=440>
+  <name>Indie</name>
+  <descr><b>MORT :</b> Récupérez une carte Infinite aléatoire de votre défausse. Elle coûte 1 <b>PA</b> de moins.</descr>
+</Card>
+<Card cardid=557>
+  <name>Indie</name>
+  <descr><b>MORT :</b>
+Récupère les cartes Infinite de votre défausse et les place sur votre deck.</descr>
+</Card>
+<Card cardid=94>
+  <name>Initiative</name>
+  <descr>Confère <b>initiative</b>
+à une invocation.</descr>
+</Card>
+<Card cardid=209>
+  <name>Instantina</name>
+  <descr><b>APPARITION :</b>
+Inflige autant de dégâts que vous avez de <b>PA</b> dans votre <b>réserve</b>. </descr>
+</Card>
+<Card cardid=451>
+  <name>Intimidation</name>
+  <descr>Vos invocations <b>chargent</b> de 2 cases.</descr>
+</Card>
+<Card cardid=353>
+  <name>Jabs</name>
+  <descr>Confère +2 <b>AT</b>
+à une invocation.</descr>
+</Card>
+<Card cardid=294>
+  <name>Jèms Blond</name>
+  <descr><b>PORTÉE :</b> 1-3
+<b>COUP DE GRÂCE :</b> Inflige 1 dégât au Dofus adverse.</descr>
+</Card>
+<Card cardid=434>
+  <name>Jet le Pied Volant</name>
+  <descr><b>APPARITION :</b>
+Echange sa place avec celle d'un allié.</descr>
+</Card>
+<Card cardid=498>
+  <name>Jice Aouaire</name>
+  <descr><b>APPARITION :</b>
+Vos autres invocations <b>chargent</b> de 1 case.</descr>
+</Card>
+<Card cardid=127>
+  <name>Jiji</name>
+  <descr><b>FIN DU TOUR :</b>
+Perd ses poils...
+(ajoute 2 Poils dans la main adverse)</descr>
+</Card>
+<Card cardid=288>
+  <name>Joris</name>
+  <descr><b>CHEF :</b>
+Donne <b>inciblable</b> à vos
+autres invocations.</descr>
+</Card>
+<Card cardid=480>
+  <name>Joris</name>
+  <descr>Réduit de 2 les dégâts des sorts adverses.</descr>
+</Card>
+<Card cardid=545>
+  <name>Maître Joris</name>
+  <descr>Empêche votre adversaire de lancer des sorts.</descr>
+</Card>
+<Card cardid=420>
+  <name>Julith Jurgen</name>
+  <descr>Inflige 1 dégât à chaque invocation adverse qui entre en jeu.</descr>
+</Card>
+<Card cardid=124>
+  <name>Julith Jurgen</name>
+  <descr><b>MORT :</b> Remonte dans votre main si aucun de vos Dofus n'a été détruit.</descr>
+</Card>
+<Card cardid=431>
+  <name>Julith Jurgen</name>
+  <descr>Inflige 1 dégâts aux invocations adverses lorsqu'un Dofus allié subit des dégâts.</descr>
+</Card>
+<Card cardid=87>
+  <name>Justice</name>
+  <descr><b>APPARITION :</b>
+Réduit une invocation
+au <b>silence</b>.</descr>
+</Card>
+<Card cardid=345>
+  <name>Justice</name>
+  <descr><b>APPARITION :</b>
+Réduit une invocation
+au <b>silence</b> et passe son <b>AT</b> à 3.</descr>
+</Card>
+<Card cardid=520>
+  <name>Justice</name>
+  <descr><b>APPARITION :</b>
+Passe l'<b>AT</b> d'une invocation à 3 et la fait <b>charger</b>.</descr>
+</Card>
+<Card cardid=311>
+  <name>Kabrok</name>
+  <descr><b>APPARITION :</b>
+Ajoute 3 Corbacs à votre main.</descr>
+</Card>
+<Card cardid=310>
+  <name>Kabrok</name>
+  <descr><b>APPARITION :</b>
+Remplit de Corbacs votre main et celle de votre adversaire.</descr>
+</Card>
+<Card cardid=111>
+  <name>Corbeau Noir</name>
+  <descr><b>APPARITION :</b> Transforme vos invocations en Corbacs puis gagne +1 <b>AT</b> et +1 <b>AR</b> par Corbac allié en jeu.</descr>
+</Card>
+<Card cardid=568>
+  <name>Kam Erlite</name>
+  <descr>Gagne +1 <b>AR</b> quand une invocation alliée meurt.</descr>
+</Card>
+<Card cardid=532>
+  <name>Kamasutar</name>
+  <descr><b>APPARITION :</b>
+Récupérez les 5 dernières cartes parties dans votre défausse si votre main est vide.</descr>
+</Card>
+<Card cardid=101>
+  <name>Karla Blondie</name>
+  <descr><b>APPARITION :</b>
+Gagne 1d6 <b>AT</b>.</descr>
+</Card>
+<Card cardid=207>
+  <name>Katar</name>
+  <descr><b>APPARITION :</b>
+<b>Attire</b> la première invocation adverse située devant lui puis <b>charge</b>.</descr>
+</Card>
+<Card cardid=369>
+  <name>Katar</name>
+  <descr><b>INITIATIVE</b>
+<b>DÉBUT DU TOUR :</b>
+<b>Attire</b> la première invocation adverse située devant lui.</descr>
+</Card>
+<Card cardid=289>
+  <name>Katar</name>
+  <descr><b>INITIATIVE</b>
+<b>DÉBUT DU TOUR :</b>
+<b>Attire</b> la première invocation adverse située devant lui.</descr>
+</Card>
+<Card cardid=233>
+  <name>Katsou Mee</name>
+  <descr><b>APPARITION :</b>
+Donne +3 <b>AT</b> à une invocation.</descr>
+</Card>
+<Card cardid=234>
+  <name>Kerubim l'Aventurier</name>
+  <descr><b>APPARITION :</b>
+Dévoilez un Dofus adverse.</descr>
+</Card>
+<Card cardid=363>
+  <name>Kerubim le Brocanteur</name>
+  <descr><b>APPARITION :</b>
+Détruit le prisme adverse de sa ligne puis dévoilez un Dofus adverse.</descr>
+</Card>
+<Card cardid=453>
+  <name>Kerubim le Nunchakeur</name>
+  <descr>Gagne +1 <b>AT</b> et + 1 <b>AR</b> quand une invocation alliée meurt.</descr>
+</Card>
+<Card cardid=161>
+  <name>Khan Karkass</name>
+  <descr><b>APPARITION :</b>
+Ajoute 1 Fan à  votre main.</descr>
+</Card>
+<Card cardid=240>
+  <name>Khan Karkass</name>
+  <descr><b>CONTRE COUP :</b>
+Ajoute 1 Fan à votre main.</descr>
+</Card>
+<Card cardid=390>
+  <name>Khan Karkass</name>
+  <descr><b>APPARITION :</b>
+Invoque 3 Fans devant lui.</descr>
+</Card>
+<Card cardid=212>
+  <name>Klore Ofil</name>
+  <descr><b>MORT :</b>
+Ajoute une <b>Graine</b>
+à votre main.</descr>
+</Card>
+<Card cardid=243>
+  <name>Kokoko</name>
+  <descr><b>PORTÉE : 1-3</b>
+<b>APPARITION :</b>
+Repousse de 1 cases les invocations adverses.</descr>
+</Card>
+<Card cardid=562>
+  <name>Kolo Kolko</name>
+  <descr>Gagne <b>initiative</b> et <b>inciblable</b> tant que vous avez une Graine en jeu.</descr>
+</Card>
+<Card cardid=371>
+  <name>Korbax</name>
+  <descr>Gagne <b>initiative</b> et <b>inciblable</b> tant que vous avez un autre justicier en jeu.</descr>
+</Card>
+<Card cardid=447>
+  <name>Kralamor</name>
+  <descr>Soigne vos autres invocations de 2 <b>PV</b> quand une de vos invocations meurt.</descr>
+</Card>
+<Card cardid=487>
+  <name>Kralamour</name>
+  <descr><b>APPARITION :</b>
+Soigne une invocation
+de 2 <b>PV</b>.</descr>
+</Card>
+<Card cardid=300>
+  <name>L'Enklarveur</name>
+  <descr><b>GARDE DU CORPS</b></descr>
+</Card>
+<Card cardid=22>
+  <name>La Folle</name>
+  <descr>Réduit le coût de vos sorts de 1 <b>PA</b>.</descr>
+</Card>
+<Card cardid=92>
+  <name>La Gerbouille</name>
+  <descr>Confère +2 <b>AT</b> et <b>charge</b> à vos invocations blessées.</descr>
+</Card>
+<Card cardid=183>
+  <name>La Gonflable</name>
+  <descr><b>FIN DU TOUR :</b>
+Soigne de 2 <b>PV</b> vos autres invocations.</descr>
+</Card>
+<Card cardid=522>
+  <name>La Sacrifiée</name>
+  <descr><b>MORT :</b> Inflige 2 dégâts supplémentaires à l'invocation qui l'a détuit.</descr>
+</Card>
+<Card cardid=17>
+  <name>Lait de Bambou</name>
+  <descr>L'invocation ciblée <b>charge</b>.</descr>
+</Card>
+<Card cardid=567>
+  <name>Lame Ourduvis</name>
+  <descr>Se <b>téléporte</b> derrière son adversaire après un combat.</descr>
+</Card>
+<Card cardid=171>
+  <name>Laon Epée Filante</name>
+  <descr><b>CONTRE COUP :</b>
+Gagne +1 <b>AT</b> et +1 <b>AR</b>.</descr>
+</Card>
+<Card cardid=536>
+  <name>Lapino</name>
+  <descr><b>FIN DU TOUR :</b>
+Soigne de 1 <b>PV</b> les invocations alliées de sa ligne.</descr>
+</Card>
+<Card cardid=559>
+  <name>Lapinos</name>
+  <descr>Invoque des Lapinos sur vos cases de départ.</descr>
+</Card>
+<Card cardid=330>
+  <name>Larmes de Sang</name>
+  <descr>Confère <b>bouclier</b> et <b>charge</b> à une invocation.</descr>
+</Card>
+<Card cardid=538>
+  <name>Larve Bleue</name>
+  <descr><b>APPARITION :</b>
+Chaque joueur pioche 2 cartes.</descr>
+</Card>
+<Card cardid=415>
+  <name>Larve Orange</name>
+  <descr><b>APPARITION :</b>
+Détruit l'<b>AR</b> d'une invocation.</descr>
+</Card>
+<Card cardid=99>
+  <name>Larve Verte</name>
+  <descr><b>APPARITION :</b>
+Sa cible change aléatoirement de ligne.</descr>
+</Card>
+<Card cardid=28>
+  <name>Larve Violette</name>
+  <descr><b>APPARITION :</b>
+Repousse une invocation
+de 2 cases.</descr>
+</Card>
+<Card cardid=334>
+  <name>Lebolas</name>
+  <descr><b>PORTÉE :</b> 1-3</descr>
+</Card>
+<Card cardid=344>
+  <name>Leila</name>
+  <descr><b>APPARITION :</b>
+Donne +1 <b>AT</b> et +1 <b>AR</b> à une invocation.</descr>
+</Card>
+<Card cardid=188>
+  <name>Li Crounch</name>
+  <descr><b>APPARITION :</b>
+Transforme une de vos <b>Graines</b> en Poupée Sacrifiée.</descr>
+</Card>
+<Card cardid=563>
+  <name>Lilotte</name>
+  <descr><b>Charge</b> de 1 case lorsque votre adversaire joue une invocation.</descr>
+</Card>
+<Card cardid=249>
+  <name>Lilotte</name>
+  <descr><b>Charge</b> de 1 case lorsque vous jouez une invocation.</descr>
+</Card>
+<Card cardid=237>
+  <name>Lilotte</name>
+  <descr><b>Charge</b> de 1 case quand vous jouez une carte.</descr>
+</Card>
+<Card cardid=321>
+  <name>Lou</name>
+  <descr><b>APPARITION :</b>
+Récupérez un Prisme allié.</descr>
+</Card>
+<Card cardid=343>
+  <name>Lou</name>
+  <descr><b>APPARITION :</b>
+Récupérez un prisme.</descr>
+</Card>
+<Card cardid=142>
+  <name>Lou</name>
+  <descr><b>APPARITION :</b>
+Fait à nouveau apparaitre tous les Prismes.</descr>
+</Card>
+<Card cardid=98>
+  <name>Lucie Fhair</name>
+  <descr><b>PORTÉE</b> : 1-3
+<b>COUP DE GRÂCE</b> :
+Récupérez le dernier sort parti dans votre défausse.</descr>
+</Card>
+<Card cardid=82>
+  <name>Lumino</name>
+  <descr><b>FIN DU TOUR :</b>
+Inflige 1 dégât au Dofus adverse de sa ligne si vous avez un autre Justicier en jeu.</descr>
+</Card>
+<Card cardid=347>
+  <name>Magislek</name>
+  <descr>Inflige 1 dégât aux invocations adverses quand votre adversaire joue un sort.</descr>
+</Card>
+<Card cardid=38>
+  <name>Magmog le Boufrog</name>
+  <descr><b>APPARITION :</b>
+Transforme une invocation en Boufton Blanc. </descr>
+</Card>
+<Card cardid=862>
+  <name>Maine Cooyne</name>
+  <descr><b>CHEF :</b> +1 <b>AT</b> à
+vos autres Chachas.</descr>
+</Card>
+<Card cardid=552>
+  <name>Maitre Chuchoku</name>
+  <descr><b>APPARITION :</b>
+Donne <b>bouclier</b> à une invocation.</descr>
+</Card>
+<Card cardid=3>
+  <name>Maître des Ombres</name>
+  <descr>Confère à vos invocations +2 <b>AT</b> et <b>inciblable</b>.</descr>
+</Card>
+<Card cardid=427>
+  <name>Maloboss</name>
+  <descr><b>MORT :</b> Ajoute 3 autres Bandits à votre main.</descr>
+</Card>
+<Card cardid=366>
+  <name>Malobouc</name>
+  <descr><b>MORT :</b>
+Détruit tous les prismes adverses.</descr>
+</Card>
+<Card cardid=560>
+  <name>Malocac</name>
+  <descr><b>APPARITION :</b>
+Récupérez un prisme adverse.</descr>
+</Card>
+<Card cardid=264>
+  <name>Malopo</name>
+  <descr><b>PORTÉE :</b> 1-2
+<b>FIN DU TOUR :</b>
+Détruit le prisme adverse de sa ligne.</descr>
+</Card>
+<Card cardid=2>
+  <name>Malox Makugen</name>
+  <descr>Inflige 1 dégât au Dofus adverse de sa ligne à chaque invocation soignée.</descr>
+</Card>
+<Card cardid=349>
+  <name>Maluss</name>
+  <descr>Inflige 1 dégât au Dofus adverse de sa ligne quand vous volez ou détruisez un prisme adverse.</descr>
+</Card>
+<Card cardid=370>
+  <name>Mandale</name>
+  <descr><b>CONTRE COUP :</b>
+Gagne +3 <b>AT</b>.</descr>
+</Card>
+<Card cardid=256>
+  <name>Many de Brakmar</name>
+  <descr><b>APPARITION :</b>
+Détruit 2 <b>PA</b> de la
+<b>réserve</b> adverse. </descr>
+</Card>
+<Card cardid=467>
+  <name>Marcassin Or</name>
+  <descr><b>APPARITION :</b>
+Transforme toutes les autres invocations en Marcassinet.</descr>
+</Card>
+<Card cardid=287>
+  <name>Marcassinet </name>
+  <descr>Gagne +1 <b>PM</b> tant que vous avez une Glaie en jeu.</descr>
+</Card>
+<Card cardid=320>
+  <name>Marline</name>
+  <descr><b>APPARITION : </b>
+Échange son corps avec une invocation adverse ayant 2 <b>AT</b> ou moins.</descr>
+</Card>
+<Card cardid=31>
+  <name>Marline</name>
+  <descr><b>APPARITION : </b>
+Échange son corps avec une invocation adverse ayant 3 <b>AT</b> ou moins.</descr>
+</Card>
+<Card cardid=308>
+  <name>Marline</name>
+  <descr><b>APPARITION : </b>
+Échange son corps avec une invocation adverse ayant 5 <b>AT</b> ou moins.</descr>
+</Card>
+<Card cardid=378>
+  <name>Maskemane Pleutre</name>
+  <descr><b>PORTÉE :</b> 1-3
+Recule de 2 cases quand une invocation adverse apparaît sur sa ligne.</descr>
+</Card>
+<Card cardid=214>
+  <name>Maskemane Classe</name>
+  <descr><b>INITIATIVE</b>
+<b>COUP DE GRÂCE :</b>
+Gagne +2 <b>AT</b>.</descr>
+</Card>
+<Card cardid=454>
+  <name>Maskemane Psycho</name>
+  <descr><b>APPARITION :</b>
+Défausse votre main et celle de votre adversaire puis chaque joueur pioche 5 cartes.</descr>
+</Card>
+<Card cardid=421>
+  <name>Masse</name>
+  <descr>Les invocations qu'il blesse meurent si vous avez un autre Justicier en jeu.</descr>
+</Card>
+<Card cardid=478>
+  <name>Megathon</name>
+  <descr><b>CONTRE COUP :</b>
+Votre adversaire pioche 1 carte.</descr>
+</Card>
+<Card cardid=76>
+  <name>Merkator</name>
+  <descr><b>CONTRE COUP :</b>
+Inflige 1 dégât au Dofus adverse de la ligne.</descr>
+</Card>
+<Card cardid=516>
+  <name>Milimulou</name>
+  <descr><b>COUP DE GRÂCE :</b>
+Se transforme en
+Milimulou Garou.</descr>
+</Card>
+<Card cardid=274>
+  <name>Milimulou Garou</name>
+  <descr><b>COUP DE GRÂCE :</b>
+Se transforme en Mulou.</descr>
+</Card>
+<Card cardid=384>
+  <name>Milkar</name>
+  <descr><b>CHARGE</b>
+<b>COUP DE GRÂCE :</b>
+Vos Mulous <b>chargent</b>.</descr>
+</Card>
+<Card cardid=153>
+  <name>Miranda</name>
+  <descr><b>APPARITION :</b>
+Prend le contrôle des invocations adverses autour d'elle jusqu'à sa mort.</descr>
+</Card>
+<Card cardid=570>
+  <name>Miss Nuit</name>
+  <descr>Ajoute 1 <b>PA</b> à votre <b>réserve</b> chaque fois que votre adversaire joue une carte.</descr>
+</Card>
+<Card cardid=484>
+  <name>Missiz Frizz</name>
+  <descr><b>MORT :</b>
+Remonte dans votre main
+si vous avez au moins 5 <b>PA</b>
+dans votre <b>réserve</b>.</descr>
+</Card>
+<Card cardid=96>
+  <name>Mitaine</name>
+  <descr><b>APPARITION :</b>
+Gagne autant d'<b>AT</b> que vous avez de cartes en main.</descr>
+</Card>
+<Card cardid=530>
+  <name>Momie</name>
+  <descr>Ajoute 1 <b>PA</b> à votre <b>réserve</b> quand il subit des dégâts.</descr>
+</Card>
+<Card cardid=123>
+  <name>Moogrr</name>
+  <descr><b>CONTRE COUP :</b>
+Gagne +1 <b>PM</b>.</descr>
+</Card>
+<Card cardid=196>
+  <name>Moogrr Dominant</name>
+  <descr>Gagne +1 <b>AT</b> puis <b>charge</b> de 1 case quand une autre de vos Moogrrs entre en jeu.</descr>
+</Card>
+<Card cardid=367>
+  <name>Moogrr Royale</name>
+  <descr><b>CHARGE</b></descr>
+</Card>
+<Card cardid=429>
+  <name>Moogrron</name>
+  <descr><b>CHARGE</b></descr>
+</Card>
+<Card cardid=465>
+  <name>Mort Proche</name>
+  <descr>Confère +3 <b>AT</b> et +2 <b>AR</b>
+à une invocation. Elle meurt à la fin de son tour.</descr>
+</Card>
+<Card cardid=466>
+  <name>Moskito</name>
+  <descr><b>APPARITION :</b>
+Echange sa place avec une de vos invocations.</descr>
+</Card>
+<Card cardid=126>
+  <name>Mot de Silence</name>
+  <descr>Réduit toutes les invocations au <b>silence</b>.</descr>
+</Card>
+<Card cardid=128>
+  <name>Mot Reconstituant</name>
+  <descr>Soigne une invocation ou un Dofus de 3 <b>PV</b>.</descr>
+</Card>
+<Card cardid=9>
+  <name>Mot Rétablissant</name>
+  <descr>Confère +3 <b>AR</b> à vos invocations.</descr>
+</Card>
+<Card cardid=521>
+  <name>Mot Soignant</name>
+  <descr>L'invocation ciblée récupère tous ses <b>PV</b>.</descr>
+</Card>
+<Card cardid=129>
+  <name>Mulou</name>
+  <descr><b>COUP DE GRÂCE :</b>
+Se transforme en
+Mulou Garou.</descr>
+</Card>
+<Card cardid=30>
+  <name>Mulou garou</name>
+  <descr><b>COUP DE GRÂCE :</b>
+Gagne +2 <b>AT</b>.</descr>
+</Card>
+<Card cardid=203>
+  <name>Muloune</name>
+  <descr><b>COUP DE GRÂCE :</b>
+Soigne vos autres Mulous de 2 <b>PV</b>.</descr>
+</Card>
+<Card cardid=354>
+  <name>Murmures Sauvages</name>
+  <descr>Transforme vos <b>Buissons</b> en Polters.</descr>
+</Card>
+<Card cardid=473>
+  <name>Necrom L'Ancien</name>
+  <descr>Lorsqu'un de vos Sadida meurt, il retourne dans votre main.</descr>
+</Card>
+<Card cardid=228>
+  <name>Nomekop le Crapoteur</name>
+  <descr><b>APPARITION :</b>
+Invoque 3 Chachas
+autour de lui.</descr>
+</Card>
+<Card cardid=332>
+  <name>Noximilien l'Horloger</name>
+  <descr><b>MORT :</b> Ajoute 2 <b>PA</b>
+à votre <b>réserve</b>.</descr>
+</Card>
+<Card cardid=141>
+  <name>Nox</name>
+  <descr><b>MORT :</b> Inflige aux invocations adverses autant de dégâts que vous avez de <b>PA</b> dans votre <b>réserve</b>.
+Vide votre <b>réserve</b>.</descr>
+</Card>
+<Card cardid=285>
+  <name>Nox</name>
+  <descr>Tant que Nox est en jeu,
+le coût de vos invocations est de 4 <b>PA</b>.</descr>
+</Card>
+<Card cardid=305>
+  <name>Noxine</name>
+  <descr><b>APPARITION :</b>
+Vole un <b>PA</b> de la <b>réserve</b> adverse et l'ajoute à la votre.</descr>
+</Card>
+<Card cardid=51>
+  <name>Oeil de lynx</name>
+  <descr>Augmente de 2 la <b>portée</b> existante d’une invocation.</descr>
+</Card>
+<Card cardid=306>
+  <name>Ogivol Scalarcin</name>
+  <descr>Bannit 3 cartes de votre défausse pour l'invoquer.</descr>
+</Card>
+<Card cardid=66>
+  <name>Ombre</name>
+  <descr><b>FIN DU TOUR :</b>
+Échange une des cartes de votre main contre une de la main adverse.</descr>
+</Card>
+<Card cardid=437>
+  <name>Orma</name>
+  <descr><b>APPARITION :</b>
+Gagne +1 <b>AT</b> et +1 <b>AR</b>
+par Graine alliée en jeu.</descr>
+</Card>
+<Card cardid=549>
+  <name>Oscar Nak</name>
+  <descr>Coûte 1 <b>PA</b> de moins par carte dans votre défausse.</descr>
+</Card>
+<Card cardid=457>
+  <name>Otomaï</name>
+  <descr>Se transforme en invocation aléatoire coutant 4 <b>PA</b> s'il survit à une attaque.</descr>
+</Card>
+<Card cardid=426>
+  <name>Otomaï</name>
+  <descr>Se transforme en invocation aléatoire coutant 6 <b>PA</b> s'il survit à une attaque.</descr>
+</Card>
+<Card cardid=205>
+  <name>Otomaï</name>
+  <descr><b>MORT :</b> Toutes les autres invocations se transforment en invocations aléatoires coûtant 5 <b>PA</b>.</descr>
+</Card>
+<Card cardid=62>
+  <name>Pacte de Sang</name>
+  <descr>Inflige 1 dégât aux invocations alliées puis leur confère +1 <b>AT</b>.</descr>
+</Card>
+<Card cardid=80>
+  <name>Padgref Demouelle</name>
+  <descr><b>APPARITION</b> :
+Infligez 1 dégât à
+un de vos Dofus.</descr>
+</Card>
+<Card cardid=181>
+  <name>Pampactus</name>
+  <descr><b>APPARITION :</b>
+Infligez 1 dégât à une invocation alliée.</descr>
+</Card>
+<Card cardid=276>
+  <name>Patek Tag </name>
+  <descr><b>APPARITION :</b>
+Détruisez un prisme.</descr>
+</Card>
+<Card cardid=270>
+  <name>Patty Ceriz</name>
+  <descr><b>PORTÉE :</b> 1-3
+Repousse de 1 case.</descr>
+</Card>
+<Card cardid=392>
+  <name>Peur</name>
+  <descr>Repousse les invocations adverses de 4 cases.</descr>
+</Card>
+<Card cardid=34>
+  <name>Phorreur</name>
+  <descr><b>MORT :</b> Votre adversaire pioche 1 carte.</descr>
+</Card>
+<Card cardid=448>
+  <name>Phorreur Domestique</name>
+  <descr><b>APPARITION :</b>
+Récupérez 1 carte aléatoire de votre défausse.</descr>
+</Card>
+<Card cardid=314>
+  <name>Phorzerker</name>
+  <descr><b>APPARITION :</b>
+Défaussez une carte de votre main au hasard.</descr>
+</Card>
+<Card cardid=561>
+  <name>Pied du Sacrieur</name>
+  <descr>Inflige 3 dégâts à une invocation et 1 dégât aux autres.</descr>
+</Card>
+<Card cardid=283>
+  <name>Pierre Tombale</name>
+  <descr><b>MUR</b>
+<b>APPARITION :</b>
+Défausse les 3 premières cartes de votre pioche.</descr>
+</Card>
+<Card cardid=293>
+  <name>Piou aux Oeufs d'or</name>
+  <descr>Piochez 1 carte quand
+une invocation alliée entre en jeu.</descr>
+</Card>
+<Card cardid=432>
+  <name>Piou Bleu</name>
+  <descr><b>APPARITION :</b>
+Donne +1 <b>AR</b> à une autre invocation.</descr>
+</Card>
+<Card cardid=145>
+  <name>Piou Rouge</name>
+  <descr><b>APPARITION :</b>
+Donne +1 <b>AT</b> à une autre invocation.</descr>
+</Card>
+<Card cardid=52>
+  <name>Piou Royal</name>
+  <descr>Vos Pious coûtent
+2 <b>PA</b> de moins.
+<b>CHEF  : </b> +1 <b>AT</b> à vos
+autres Pious.</descr>
+</Card>
+<Card cardid=257>
+  <name>Piou Vert</name>
+  <descr><b>APPARITION :</b>
+<b>Charge</b> de 1 case.</descr>
+</Card>
+<Card cardid=380>
+  <name>Piou Violet</name>
+  <descr><b>APPARITION :</b>
+Donne +1 <b>AT</b> et +1 <b>AR</b>
+à vos autres Pious.</descr>
+</Card>
+<Card cardid=235>
+  <name>Pioussin</name>
+  <descr></descr>
+</Card>
+<Card cardid=709>
+  <name>Plante Kanniboul</name>
+  <descr><b>FIN DU TOUR :</b>
+Détruit les invocations ayant 2 <b>AT</b> ou moins.</descr>
+</Card>
+<Card cardid=528>
+  <name>Poêle</name>
+  <descr>Inflige 3 dégâts.</descr>
+</Card>
+<Card cardid=39>
+  <name>Poils de Jiji</name>
+  <descr>Jouez cette carte pour vous en débarasser.</descr>
+</Card>
+<Card cardid=553>
+  <name>Pollinisation</name>
+  <descr>Inflige 3 dégâts aux invocations adverses, transforme en <b>Graines</b> alliées celles qui meurent.</descr>
+</Card>
+<Card cardid=49>
+  <name>Polter</name>
+  <descr><b>CONTRE COUP :</b>
+Transforme son adversaire en <b>Buisson</b>.</descr>
+</Card>
+<Card cardid=346>
+  <name>Polter Tofu</name>
+  <descr><b>MORT :</b>
+Retourne dans votre main.
+Il coûte 1 <b>PA</b> de plus.</descr>
+</Card>
+<Card cardid=393>
+  <name>Poussière Temporelle</name>
+  <descr>Inflige 2 dégâts.
+Ajoute 5 <b>PA</b> à votre <b>réserve</b> si l'invocation meurt.</descr>
+</Card>
+<Card cardid=115>
+  <name>Premier Sang</name>
+  <descr>Bannit 1 carte de votre défausse pour infliger 2 dégâts.</descr>
+</Card>
+<Card cardid=180>
+  <name>Prespic</name>
+  <descr><b> CONTRE COUP :</b>
+Inflige 1 dégât autour de lui.</descr>
+</Card>
+<Card cardid=513>
+  <name>Protoflex</name>
+  <descr><b>CHARGE</b></descr>
+</Card>
+<Card cardid=217>
+  <name>Puissance Sylvestre</name>
+  <descr>Vos invocations gagnent +2 <b>AT</b> et +2 <b>AR</b>.</descr>
+</Card>
+<Card cardid=56>
+  <name>Punition</name>
+  <descr>Sacrifiez un de vos Dofus pour infliger 3 dégâts à un Dofus adverse.</descr>
+</Card>
+<Card cardid=502>
+  <name>Pupuce</name>
+  <descr><b>APPARITION :</b>
+Devient de la famille
+de l'invocation ciblée.</descr>
+</Card>
+<Card cardid=223>
+  <name>Purpuce</name>
+  <descr><b>APPARITION :</b>
+<b>Charge</b> jusqu'au Dofus adverse puis meurt à la fin du tour.</descr>
+</Card>
+<Card cardid=579>
+  <name>Qilby</name>
+  <descr><b>COUP DE GRÂCE :</b>
+Remonte l'invocation adverse dans votre main.</descr>
+</Card>
+<Card cardid=394>
+  <name>Qilby</name>
+  <descr><b>COUP DE GRÂCE :</b>
+Remonte l'invocation adverse dans votre main.</descr>
+</Card>
+<Card cardid=389>
+  <name>Qilby</name>
+  <descr><b>COUP DE GRÂCE :</b>
+Remonte l'invocation adverse dans votre main.</descr>
+</Card>
+<Card cardid=118>
+  <name>Quartz</name>
+  <descr><b>MORT :</b>
+Invoque une Momie.</descr>
+</Card>
+<Card cardid=219>
+  <name>Rabet</name>
+  <descr><b>CONTRE COUP :</b>
+Piochez 1 carte.</descr>
+</Card>
+<Card cardid=463>
+  <name>Radoris Montrouge</name>
+  <descr><b>APPARITION :</b>
+Dépense les <b>PA</b> de votre
+<b>réserve</b> pour gagner autant
+en <b>AT</b> et <b>AR</b>.</descr>
+</Card>
+<Card cardid=299>
+  <name>Ragnagna</name>
+  <descr><b>CHEF :</b> +1 <b>AT</b> et +1 <b>PM</b>
+à vos autres Rats.</descr>
+</Card>
+<Card cardid=271>
+  <name>Ralentissement</name>
+  <descr>Augmente de 1 <b>PA</b> le coût de la prochaine carte jouée par votre adversaire.</descr>
+</Card>
+<Card cardid=325>
+  <name>Rat Dechant</name>
+  <descr>Gagne +2 <b>AT</b> tant que vous avez un Rat Devil en jeu.</descr>
+</Card>
+<Card cardid=32>
+  <name>Rat Devil</name>
+  <descr>Gagne +2 <b>AR</b> tant que vous avez un Rat Dechant en jeu.</descr>
+</Card>
+<Card cardid=475>
+  <name>Rat Dominant</name>
+  <descr><b>MORT :</b>
+Invoque 1 Ratou.</descr>
+</Card>
+<Card cardid=117>
+  <name>Rat Tiboiseur</name>
+  <descr>Revient de votre défausse dans votre main lorsqu’un de vos Rats meurt.</descr>
+</Card>
+<Card cardid=312>
+  <name>Ratou</name>
+  <descr><b>APPARITION :</b>
+<b>Charge</b> d'autant de cases que vous avez d'autres Rats alliés en jeu.</descr>
+</Card>
+<Card cardid=410>
+  <name>Ravage</name>
+  <descr>Confère +2 <b>AT</b> et <b>initiative</b> à une invocation.</descr>
+</Card>
+<Card cardid=14>
+  <name>Raymond Garden</name>
+  <descr><b>APPARITION :</b>
+Donne +1 <b>AR</b> à vos autres invocations.</descr>
+</Card>
+<Card cardid=224>
+  <name>Razortemps</name>
+  <descr><b>APPARITION :</b>
+Vos autres invocations gagnent autant d'<b>AT</b> qu'elles ont d'<b>AR</b>.</descr>
+</Card>
+<Card cardid=328>
+  <name>Refus de Mort</name>
+  <descr>Sacrifiez un de vos Dofus pour piocher 4 cartes.</descr>
+</Card>
+<Card cardid=169>
+  <name>Relance</name>
+  <descr>Piochez 2 cartes
+<b>OU</b> ce sort se place sur
+la pioche adverse.</descr>
+</Card>
+<Card cardid=472>
+  <name>Remington Smisse</name>
+  <descr><b>PORTÉE :</b> 1-3
+<b>MORT :</b> Dépose une Bombe sur sa case.</descr>
+</Card>
+<Card cardid=396>
+  <name>Remington Smisse</name>
+  <descr><b>PORTÉE :</b> 1-3
+<b>MORT :</b> Dépose une bombe sur les cases à sa droite et à sa gauche.</descr>
+</Card>
+<Card cardid=74>
+  <name>Remington Smisse</name>
+  <descr><b>PORTÉE :</b> 1-3
+<b>APPARITION :</b> Transformez un prisme en Bombe.</descr>
+</Card>
+<Card cardid=323>
+  <name>Renisurrection</name>
+  <descr>Confère <b>résurrection</b>
+à une invocation.</descr>
+</Card>
+<Card cardid=173>
+  <name>Repos Éternel</name>
+  <descr>Durant ce tour,
+ne dépensez pas de <b>PA</b> pour jouer vos cartes. A la place bannissez des cartes de votre défausse.</descr>
+</Card>
+<Card cardid=79>
+  <name>Requin Lancier</name>
+  <descr>Gagne +1 <b>AT</b> lorsqu'une autre invocation est blessée.</descr>
+</Card>
+<Card cardid=197>
+  <name>Requin Marteau</name>
+  <descr><b>APPARITION :</b>
+Gagne +1 <b>AT</b> par invocation blessée en jeu.</descr>
+</Card>
+<Card cardid=260>
+  <name>Requinou</name>
+  <descr>Gagne +1 <b>AT</b> si une autre invocation est blessée.</descr>
+</Card>
+<Card cardid=211>
+  <name>Rituel Sram</name>
+  <descr>Chaque joueur défausse
+les 5 premières cartes de sa pioche.</descr>
+</Card>
+<Card cardid=350>
+  <name>Robin des Landes</name>
+  <descr><b>PORTÉE :</b> 1-4</descr>
+</Card>
+<Card cardid=44>
+  <name>Rocknocerok</name>
+  <descr>Inflige 2 dégâts et
+repousse les invocations adverses de 1 case.</descr>
+</Card>
+<Card cardid=266>
+  <name>Roi Chafer</name>
+  <descr>Vos invocations ont 50% de chances de revenir à la vie.
+<b>MORT  :</b> 50% de chances d'invoquer un Chaferfu.</descr>
+</Card>
+<Card cardid=50>
+  <name>Roi des Bouftous</name>
+  <descr><b>APPARITION :</b>
+Gagne +1 <b>AT</b> et +1 <b>AR</b> par autre Bouftou allié en jeu.</descr>
+</Card>
+<Card cardid=246>
+  <name>Roi des Truches</name>
+  <descr>Annule les compétences de changement de ligne et de camp de vos truches.</descr>
+</Card>
+<Card cardid=438>
+  <name>Roi Gelax</name>
+  <descr><b>FIN DU TOUR :</b>
+Récupérez une Gelée aléatoire de votre défausse.</descr>
+</Card>
+<Card cardid=315>
+  <name>Rollback</name>
+  <descr>Dépense tous les <b>PA</b>
+de votre <b>réserve</b>. Vos invocations <b>chargent</b> d'autant de cases.</descr>
+</Card>
+<Card cardid=316>
+  <name>Ronce</name>
+  <descr>Inflige 2 dégâts.
+Ajoute une <b>Graine</b> à votre main si l'invocation meurt.</descr>
+</Card>
+<Card cardid=93>
+  <name>Ronces Agressives</name>
+  <descr>Inflige 4 dégâts à toutes les invocations d'une ligne.</descr>
+</Card>
+<Card cardid=442>
+  <name>Ronces Multiples</name>
+  <descr>Réduit les invocations adverses au <b>silence</b> et soigne de 3 <b>PV</b> vos invocations.</descr>
+</Card>
+<Card cardid=280>
+  <name>Rose Démoniaque</name>
+  <descr><b>APPARITION :</b>
+<b>Assomme</b> une invocation.</descr>
+</Card>
+<Card cardid=401>
+  <name>Roulette Ecaflip</name>
+  <descr>Confère 1d6 <b>AR</b> à une invocation. Elle est détruite si vous faites 6.</descr>
+</Card>
+<Card cardid=100>
+  <name>Ruel Stroud</name>
+  <descr>Coûte 3 <b>PA</b> de moins
+par autre membre de la Confrérie du Tofu que vous avez en jeu.</descr>
+</Card>
+<Card cardid=147>
+  <name>Ruel Stroud</name>
+  <descr>Coûte 3 <b>PA</b> de moins
+par autre membre de la Confrérie du Tofu que vous avez en jeu.</descr>
+</Card>
+<Card cardid=450>
+  <name>Ruel Stroud</name>
+  <descr>Coûte 3 <b>PA</b> de moins
+par autre membre de la Confrérie du Tofu que vous avez en jeu.</descr>
+</Card>
+<Card cardid=462>
+  <name>Rupuce</name>
+  <descr>Ne subit jamais plus
+de 1 dégât à la fois.</descr>
+</Card>
+<Card cardid=130>
+  <name>Sablier de Xélor</name>
+  <descr>Détruit 1 <b>PA</b> de la
+<b>réserve</b> adverse et ajoute 1 <b>PA</b> à la votre.</descr>
+</Card>
+<Card cardid=71>
+  <name>Sac De Graines</name>
+  <descr>Ajoute 2 <b>Graines</b>
+à votre main.</descr>
+</Card>
+<Card cardid=304>
+  <name>Sacrifice</name>
+  <descr>Sacrifiez une invocation alliée, vos sacrieurs gagnent +2 <b>AT</b> et +1 <b>AR</b>.</descr>
+</Card>
+<Card cardid=510>
+  <name>Sacrifice Poupesque</name>
+  <descr>Sacrifiez toutes vos Poupées. Elles infligent chacune 1 dégât au Dofus adverse de leur ligne.</descr>
+</Card>
+<Card cardid=443>
+  <name>Saignée Mortelle</name>
+  <descr>Fait chuter à 1 les <b>PV</b>
+des invocations.</descr>
+</Card>
+<Card cardid=381>
+  <name>Saizan Zen</name>
+  <descr><b>APPARITION :</b>
+Donne +2 <b>AR</b> à une invocation ou +4 <b>AR</b> si
+elle est blessée.</descr>
+</Card>
+<Card cardid=364>
+  <name>Salbatroce</name>
+  <descr><b>APPARITION :</b>
+Dévoile les Dofus de sa ligne.</descr>
+</Card>
+<Card cardid=400>
+  <name>Sanction</name>
+  <descr>Bannit 10 cartes de votre défausse pour faire chuter les <b>PV</b> d'un Dofus à 1.</descr>
+</Card>
+<Card cardid=527>
+  <name>Sang Brulant</name>
+  <descr>Inflige 1 dégât
+aux invocations.</descr>
+</Card>
+<Card cardid=277>
+  <name>Sang Méprise</name>
+  <descr>Dévoile vos Dofus pour dévoiler ceux de votre adversaire.</descr>
+</Card>
+<Card cardid=424>
+  <name>Sang Tatoué</name>
+  <descr>Piochez une carte
+pour chacune de vos invocations blessées.</descr>
+</Card>
+<Card cardid=382>
+  <name>Sangsuce Tsu Tsu</name>
+  <descr>Tous les soins deviennent des dégâts.</descr>
+</Card>
+<Card cardid=154>
+  <name>Sarcophage</name>
+  <descr>Ajoute 2 Momies
+à votre main.</descr>
+</Card>
+<Card cardid=166>
+  <name>Savoir Sadida</name>
+  <descr>Transforme une invocation en <b>Graine</b> alliée.</descr>
+</Card>
+<Card cardid=187>
+  <name>Scarador</name>
+  <descr><b>DÉBUT DU TOUR :</b>
+Donne +1 <b>AR</b> à vos autres invocations.</descr>
+</Card>
+<Card cardid=236>
+  <name>Scoreur</name>
+  <descr><b>APPARITION :</b>
+Ajoute 5 <b>PA</b> à votre <b>réserve</b> si vous avez un autre Justicier en jeu.</descr>
+</Card>
+<Card cardid=1288>
+  <name>Second Souffle</name>
+  <descr>Récupérez 2 cartes de votre défausse et défaussez les 4 premières cartes de votre pioche.</descr>
+</Card>
+<Card cardid=573>
+  <name>Séduction</name>
+  <descr>Prenez le contrôle d'une invocation adverse.</descr>
+</Card>
+<Card cardid=150>
+  <name>Selk Ator</name>
+  <descr><b>APPARITION :</b>
+Transforme une <b>Graine</b> alliée en <b>Buisson</b>.</descr>
+</Card>
+<Card cardid=503>
+  <name>Sellor Noob</name>
+  <descr><b>APPARITION :</b>
+Fait chuter à 1 les <b>PV</b> d'une invocation.</descr>
+</Card>
+<Card cardid=164>
+  <name>Sergent Poiscaille</name>
+  <descr></descr>
+</Card>
+<Card cardid=149>
+  <name>Shafouine</name>
+  <descr><b>APPARITION :</b>
+Ajoute 1 Chacha
+ à votre main.</descr>
+</Card>
+<Card cardid=192>
+  <name>Shava Shavien</name>
+  <descr><b>MORT :</b> Remonte dans
+votre main <b>OU</b> dans celle
+de votre adversaire.</descr>
+</Card>
+<Card cardid=54>
+  <name>Shin Larve</name>
+  <descr>Vos larves gagnent +1 <b>AT</b> et <b>chargent</b> lorsqu'elles entrent en jeu.</descr>
+</Card>
+<Card cardid=307>
+  <name>Silas Le Solitaire</name>
+  <descr><b>GARDE DU CORPS</b></descr>
+</Card>
+<Card cardid=357>
+  <name>Sinistro</name>
+  <descr>(Se place sur un Dofus.)
+<b>FIN DU TOUR :</b> Inflige 1 dégât à l'adversaire ou
+au Dofus devant lui.
+Il est détruit si blessé.</descr>
+</Card>
+<Card cardid=576>
+  <name>Sir Comte Flex</name>
+  <descr>Vos Dofus renvoient
+les dégâts qu'ils subissent à la première invocation adverse de leur ligne.</descr>
+</Card>
+<Card cardid=72>
+  <name>Skale</name>
+  <descr>Gagne +3 <b>PM</b> tant que vous avez un autre Justicier en jeu.</descr>
+</Card>
+<Card cardid=263>
+  <name>Sono Sino</name>
+  <descr><b>APPARITION :</b>
+L’invocation ciblée <b>charge</b> de 2 cases.</descr>
+</Card>
+<Card cardid=754>
+  <name>Sournoiserie</name>
+  <descr>Bannit 3 cartes de votre défausse pour faire <b>charger</b> une invocation.</descr>
+</Card>
+<Card cardid=20>
+  <name>Sphincter Cell</name>
+  <descr><b>COUP DE GRÂCE :</b>
+Récupérez le dernier Rat parti dans votre défausse.</descr>
+</Card>
+<Card cardid=160>
+  <name>Sufod</name>
+  <descr>Bannit 1 carte de votre défausse pour l'invoquer.</descr>
+</Card>
+<Card cardid=309>
+  <name>Sylvine Folherbe</name>
+  <descr>Vos <b>Graines</b> infligent 2 dégâts aux invocations adverses qui leur marchent dessus.</descr>
+</Card>
+<Card cardid=313>
+  <name>Tartanque</name>
+  <descr><b>APPARITION :</b>
+Sacrifiez une de vos invocations pour gagner +4 <b>AT</b> et +4 <b>AR</b>.</descr>
+</Card>
+<Card cardid=546>
+  <name>Taure</name>
+  <descr></descr>
+</Card>
+<Card cardid=488>
+  <name>Téléportation</name>
+  <descr><b>Téléporte</b> une invocation sur une case de votre camp.</descr>
+</Card>
+<Card cardid=365>
+  <name>Tireur d'élite</name>
+  <descr>Vos Crâs infligent 1 dégât aux Dofus adverse de leur ligne.</descr>
+</Card>
+<Card cardid=499>
+  <name>Tiwabbit Kiafin</name>
+  <descr><b>APPARITION :</b>
+Gagne +1 <b>AT</b> et +1 <b>AR</b>
+si vous avez une Cawotte en jeu.</descr>
+</Card>
+<Card cardid=500>
+  <name>Tiwabbit Tados</name>
+  <descr><b>APPARITION :</b>
+<b>Charge</b> de 1 case si vous avez une Cawotte en jeu.</descr>
+</Card>
+<Card cardid=105>
+  <name>Tofoune</name>
+  <descr><b>APPARITION :</b>
+Piochez 1 carte.
+Si ce n'est pas un Tofu défaussez-la.</descr>
+</Card>
+<Card cardid=408>
+  <name>Tofu Céleste</name>
+  <descr><b>APPARITON :</b> Piochez 3 cartes. Gardez les Tofus, défaussez les autres.</descr>
+</Card>
+<Card cardid=156>
+  <name>Tofu Dominant</name>
+  <descr><b>APPARITION :</b>
+Gagne +1 <b>AT</b> par Tofu allié en jeu.</descr>
+</Card>
+<Card cardid=398>
+  <name>Tofu Enragé</name>
+  <descr><b>APPARITION :</b>
+<b>Charge</b> d'autant de cases que vous avez de Tofus
+en jeu.</descr>
+</Card>
+<Card cardid=136>
+  <name>Tofu Explosif</name>
+  <descr><b>MORT :</b>
+Inflige aux invocations adverses 1 dégât par Tofu allié en jeu.</descr>
+</Card>
+<Card cardid=67>
+  <name>Tofu Male</name>
+  <descr></descr>
+</Card>
+<Card cardid=286>
+  <name>Tofu Mutant</name>
+  <descr><b>APPARITION :</b>
+Sacrifie un Tofu allié pour gagner son <b>AT</b> et ses <b>PM</b>.</descr>
+</Card>
+<Card cardid=231>
+  <name>Tofu Noir</name>
+  <descr><b>APPARITION :</b>
+<b>Charge</b> de 1 case.</descr>
+</Card>
+<Card cardid=18>
+  <name>Tofu Royal</name>
+  <descr><b>CHEF :</b>
++1 <b>AT</b> et +1 <b>PM</b> à vos autres Tofus.</descr>
+</Card>
+<Card cardid=95>
+  <name>Tofu Ventripotent</name>
+  <descr>Gagne +1 <b>AR</b> lorsqu'un de vos Tofus est invoqué.</descr>
+</Card>
+<Card cardid=148>
+  <name>Tofukaz</name>
+  <descr>Gagne +2 <b>AT</b> et +1 <b>PM</b> lorsqu’un de vos Tofus meurt.</descr>
+</Card>
+<Card cardid=103>
+  <name>Tomla Klass</name>
+  <descr><b>APPARITION :</b>
+Donne +2 <b>AT</b> à une invocation.</descr>
+</Card>
+<Card cardid=547>
+  <name>Tout ou Rien</name>
+  <descr>Vos invocations <b>chargent</b> <b>OU</b> sont repoussées de 3 cases.</descr>
+</Card>
+<Card cardid=26>
+  <name>Transchamation</name>
+  <descr>Toutes vos invocations sont transformées en Chachas.</descr>
+</Card>
+<Card cardid=577>
+  <name>Transformatose</name>
+  <descr>Transforme une invocation en Lapino allié.</descr>
+</Card>
+<Card cardid=222>
+  <name>Tremblement de Terre</name>
+  <descr>Inflige 4 dégâts à une invocation ainsi qu'à toutes celles autour.</descr>
+</Card>
+<Card cardid=191>
+  <name>Tristecoeur</name>
+  <descr><b>CONTRE COUP :</b>
+Gagne +2 <b>AT</b> et +1 <b>PM</b>.</descr>
+</Card>
+<Card cardid=8>
+  <name>Tristepin</name>
+  <descr><b>CHARGE</b>
+Gagne <b>initiative</b> tant
+que vous avez un autre membre de la Confrérie du Tofu en jeu.</descr>
+</Card>
+<Card cardid=77>
+  <name>Tristepin</name>
+  <descr><b>CHARGE</b>
+Gagne <b>initiative</b> tant
+que vous avez un autre membre de la Confrérie du Tofu en jeu.</descr>
+</Card>
+<Card cardid=109>
+  <name>Tristepin</name>
+  <descr><b>CHARGE</b>
+Gagne <b>initiative</b> tant
+que vous avez un autre membre de la Confrérie du Tofu en jeu.</descr>
+</Card>
+<Card cardid=433>
+  <name>Tronknyde </name>
+  <descr></descr>
+</Card>
+<Card cardid=21>
+  <name>Trool</name>
+  <descr><b>APPARITION :</b>
+Repousse une invocation
+de 2 cases.</descr>
+</Card>
+<Card cardid=125>
+  <name>Truche </name>
+  <descr>Change de ligne
+lorsqu’une invocation
+adverse entre en jeu.</descr>
+</Card>
+<Card cardid=199>
+  <name>Truche Foldingue </name>
+  <descr><b>COUP DE GRACE :</b>
+50% de chances de
+changer de camp.</descr>
+</Card>
+<Card cardid=4>
+  <name>Truchemuche </name>
+  <descr>Change de ligne
+lorsqu’une invocation
+adverse entre en jeu.</descr>
+</Card>
+<Card cardid=162>
+  <name>Truchideur </name>
+  <descr>Change de ligne
+lorsqu’une invocation
+adverse entre en jeu.</descr>
+</Card>
+<Card cardid=208>
+  <name>Truchon </name>
+  <descr>Change de ligne
+lorsqu’une invocation
+adverse entre en jeu.</descr>
+</Card>
+<Card cardid=255>
+  <name>Tsar Tsu Tsu</name>
+  <descr><b>COUP DE GRÂCE :</b>
+Gagne +2 <b>AT</b> et +<b>2 AR</b>.</descr>
+</Card>
+<Card cardid=90>
+  <name>Uppercut</name>
+  <descr>Inflige 2 dégâts et
+repousse de 1 case.</descr>
+</Card>
+<Card cardid=132>
+  <name>Ush</name>
+  <descr><b>APPARITION :</b>
+Déplace le Dofus allié de
+sa ligne sur l'emplacement d'un Dofus détruit.</descr>
+</Card>
+<Card cardid=168>
+  <name>Ush</name>
+  <descr><b>APPARITION :</b>
+Echange la position du Dofus allié de sa ligne avec un autre.</descr>
+</Card>
+<Card cardid=335>
+  <name>Ush</name>
+  <descr><b>APPARITION :</b>
+Echange la position du Dofus adverse de sa ligne avec un autre.</descr>
+</Card>
+<Card cardid=64>
+  <name>Veuve Noire</name>
+  <descr><b>APPARITION :</b>
+Remonte toutes les autres invocations dans la main de leur propriétaire. </descr>
+</Card>
+<Card cardid=194>
+  <name>Virilité</name>
+  <descr>Confère +2 <b>AT</b> et +1 <b>AR</b> à vos invocations.</descr>
+</Card>
+<Card cardid=524>
+  <name>Wa Wabbit</name>
+  <descr><b>APPARITION :</b>
+Transforme un de vos Wabbits en Wobot 02.</descr>
+</Card>
+<Card cardid=195>
+  <name>Wabbit</name>
+  <descr></descr>
+</Card>
+<Card cardid=297>
+  <name>Wabbit GM</name>
+  <descr>Ajoute un Tiwabbit Tados à votre main quand un de vos Wabbit meurt.</descr>
+</Card>
+<Card cardid=230>
+  <name>Wabbit Infernal</name>
+  <descr><b>MORT :</b>
+Inflige 1 dégât à toutes
+les invocations. </descr>
+</Card>
+<Card cardid=275>
+  <name>Wabbit Tados</name>
+  <descr><b>APPARITION :</b> 
+<b>Charge</b> de 2 case par Cawotte alliée en jeu.</descr>
+</Card>
+<Card cardid=403>
+  <name>Welsh</name>
+  <descr>Gagne +1 <b>AT</b> et +1 <b>AR</b> lorsque votre adversaire joue une carte.</descr>
+</Card>
+<Card cardid=5>
+  <name>Will Skass</name>
+  <descr><b>APPARITION :</b>
+Vos Chachas et vos autres Ecaflips gagnent +2 <b>AT</b>.</descr>
+</Card>
+<Card cardid=85>
+  <name>Wo Wabbit</name>
+  <descr><b>APPARITION :</b>
+Donne  à vos autres Wabbits  +1 <b>AT</b> et +1 <b>AR</b> par Cawotte alliée en jeu.</descr>
+</Card>
+<Card cardid=428>
+  <name>Wobot 01</name>
+  <descr><b>CHEF :</b> +1 <b>AT</b> à vos autres Wabbits.</descr>
+</Card>
+<Card cardid=265>
+  <name>Wobot 02</name>
+  <descr><b>MORT :</b>
+Invoque un Wabbit.</descr>
+</Card>
+<Card cardid=282>
+  <name>Xélorium</name>
+  <descr>Vole tous les <b>PA</b> de la <b>réserve</b> adverse pour les ajouter à la votre.</descr>
+</Card>
+<Card cardid=134>
+  <name>Yugo</name>
+  <descr><b>CONTRE COUP :</b>
+Place un membre de la Confrérie du Tofu de votre pioche dans votre main.</descr>
+</Card>
+<Card cardid=525>
+  <name>Yugo</name>
+  <descr><b>CONTRE COUP :</b>
+Place un membre de la Confrérie du Tofu de votre pioche dans votre main.</descr>
+</Card>
+<Card cardid=356>
+  <name>Yugo</name>
+  <descr><b>CONTRE COUP :</b>
+Place un membre de la Confrérie du Tofu de votre pioche dans votre main.</descr>
+</Card>
+<Card cardid=48>
+  <name>Zaldior</name>
+  <descr><b>APPARITION :</b>
+Remontez dans votre main une invocation ayant 4 <b>AT</b> ou moins.</descr>
+</Card>
+<Card cardid=460>
+  <name>Zespadon</name>
+  <descr><b>APPARITION :</b>
+Inflige 1 dégât
+à la première invocation devant lui.</descr>
+</Card>
+<Card cardid=799>
+  <name>Zespadon Noir</name>
+  <descr><b>FIN DU TOUR :</b>
+Inflige 1 dégât
+à la première invocation devant lui.</descr>
+</Card>

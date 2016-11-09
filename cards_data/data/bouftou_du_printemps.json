@@ -1,0 +1,18 @@
+{
+  "$type": "Assets.Code.Editor.Helpers.SimpleCardDataExporter+SimpleData, Assembly-CSharp-Editor",
+  "Id": 159,
+  "Name": "bouftou_du_printemps",
+  "CardType": "Summon",
+  "CostAP": 5,
+  "Life": 3,
+  "Attack": 6,
+  "MovementPoint": 2,
+  "Families": [
+    14
+  ],
+  "IsToken": false,
+  "Rarity": 1,
+  "GodType": 0,
+  "Extension": 1,
+  "LinkedCards": []
+}

@@ -1,0 +1,2567 @@
+<Card cardid=539>
+  <name>Abrakllota</name>
+  <descr><b>APARICIÓN:</b>
+Gana +1 <b>AT</b> por cada arakna
+en juego.
+</descr>
+</Card>
+<Card cardid=106>
+  <name>Abráknido</name>
+  <descr><b>MUERTE:</b>
+Invoca 2 araknas
+a su alrededor.</descr>
+</Card>
+<Card cardid=298>
+  <name>Abráknido Ancestral</name>
+  <descr><b>MUERTE:</b> Invoca 2 cuerboks a su alrededor.</descr>
+</Card>
+<Card cardid=529>
+  <name>Abraxana</name>
+  <descr><b>APARICIÓN:</b>
+Cura 2 <b>PdV</b>
+a una invocación.</descr>
+</Card>
+<Card cardid=73>
+  <name>Acida Licílica</name>
+  <descr>Robas 1 carta cuando se cura una invocación.
+</descr>
+</Card>
+<Card cardid=446>
+  <name>Adamai</name>
+  <descr><b>APARICIÓN:</b>
+Una invocación que tenga
+3 <b>AT</b> o menos
+vuelve a la mano de su propietario.</descr>
+</Card>
+<Card cardid=329>
+  <name>Adamai</name>
+  <descr><b>APARICIÓN:</b>
+Una invocación que tenga
+5 <b>AT</b> o menos
+vuelve a la mano de su propietario.</descr>
+</Card>
+<Card cardid=61>
+  <name>Adamai</name>
+  <descr><b>APARICIÓN:</b>
+Una invocación vuelve a la mano de su propietario.</descr>
+</Card>
+<Card cardid=1440>
+  <name>Debilitamiento</name>
+  <descr>Reduce a 1 el <b>AT</b> de una invocación.</descr>
+</Card>
+<Card cardid=505>
+  <name>Aguja</name>
+  <descr>Inflige 2 de daño
+o 5 de daño si tienes
+al menos <b>PA</b> en
+tu <b>reserva</b>.</descr>
+</Card>
+<Card cardid=492>
+  <name>Alargix</name>
+  <descr><b>PRINCIPIO DEL TURNO:</b>
+Recupera todos sus <b>PdV</b>.</descr>
+</Card>
+<Card cardid=395>
+  <name>Álibert</name>
+  <descr><b>APARICIÓN:</b>
+Añade una sartén
+a tu mano.</descr>
+</Card>
+<Card cardid=53>
+  <name>Álibert</name>
+  <descr><b>APARICIÓN:</b>
+Añade una chuleta
+a tu mano.</descr>
+</Card>
+<Card cardid=221>
+  <name>Álibert</name>
+  <descr><b>APARICIÓN:</b>
+Añade una leche de bambú
+a tu mano.</descr>
+</Card>
+<Card cardid=351>
+  <name>Amalia</name>
+  <descr><b>APARICIÓN:</b>
+Invoca 1 muñeca hinchable.</descr>
+</Card>
+<Card cardid=215>
+  <name>Amalia</name>
+  <descr><b>APARICIÓN:</b>
+Invoca 1 muñeca loca.</descr>
+</Card>
+<Card cardid=459>
+  <name>Amalia</name>
+  <descr><b>APARICIÓN:</b>
+Inflige 4 de daño a las invocaciones enemigas
+de su hilera.</descr>
+</Card>
+<Card cardid=113>
+  <name>Amstrad Cepecé</name>
+  <descr>Elimina 5 cartas de tu descarte para invocarla.</descr>
+</Card>
+<Card cardid=89>
+  <name>Anathar</name>
+  <descr><b>VENGANZA:</b>
+Mientras esté vivo, Anathar toma el control de su contrincante.</descr>
+</Card>
+<Card cardid=137>
+  <name>Toque de Refriega</name>
+  <descr>Robas 4 cartas.
+Conservas las invocaciones y descartas las otras.</descr>
+</Card>
+<Card cardid=165>
+  <name>Arakna</name>
+  <descr><b>SANGRANTE</b>:
+Gana +1 <b>PM</b>.</descr>
+</Card>
+<Card cardid=496>
+  <name>Arakna albina</name>
+  <descr><b>APARICIÓN:</b>
+Una de tus invocaciones vuelve a tu mano.</descr>
+</Card>
+<Card cardid=497>
+  <name>Arakna tejedora</name>
+  <descr><b>APARICIÓN:</b>
+Una invocación con 2 <b>AT</b> o menos pasa a la mano del contrincante.</descr>
+</Card>
+<Card cardid=404>
+  <name>Arakna mayor</name>
+  <descr><b>APARICIÓN:</b>
+Una invocación vuelve a la mano de su propietario.</descr>
+</Card>
+<Card cardid=40>
+  <name>Arakna espectral</name>
+  <descr>Vuelve a tu mano
+si le queda 1 <b>PdV</b>.</descr>
+</Card>
+<Card cardid=175>
+  <name>Araknoplasma</name>
+  <descr>Da +1 <b>AT</b> y +1 <b>AR</b> a tus demás araknas cuando una invocación vuelve a la mano de su propietario.</descr>
+</Card>
+<Card cardid=383>
+  <name>Árbol para miaumiaus</name>
+  <descr><b>MURO</b>
+<b>VENGANZA:</b> Introduce 1 miaumiau en tu mano.</descr>
+</Card>
+<Card cardid=504>
+  <name>Arquiles</name>
+  <descr><b>INICIATIVA</b>
+</descr>
+</Card>
+<Card cardid=512>
+  <name>Ejército de las Sombras</name>
+  <descr>Recuperas los srams de tu descarte.</descr>
+</Card>
+<Card cardid=225>
+  <name>Armadura Sanguínea</name>
+  <descr>Da +5 <b>AR</b>
+a una invocación.</descr>
+</Card>
+<Card cardid=184>
+  <name>Aroma Boma</name>
+  <descr>Gana +1 <b>AT</b> y +1 <b>AR</b>
+cuando se cura
+una invocación.</descr>
+</Card>
+<Card cardid=377>
+  <name>Asprogik Mils</name>
+  <descr><b>APARICIÓN:</b>
+Intercambia su <b>AT</b> con otra invocación.</descr>
+</Card>
+<Card cardid=1>
+  <name>Sediento</name>
+  <descr>Elimina 4 cartas de tu descarte para infligir 5 de daño.</descr>
+</Card>
+<Card cardid=143>
+  <name>Atcham</name>
+  <descr>50% de probabilidades de no sufrir los daños que se le infligen.</descr>
+</Card>
+<Card cardid=268>
+  <name>Atcham</name>
+  <descr>50% de probabilidades de no sufrir los daños que se le infligen.</descr>
+</Card>
+<Card cardid=239>
+  <name>Atcham</name>
+  <descr>50% de probabilidades de no sufrir los daños que se le infligen.</descr>
+</Card>
+<Card cardid=292>
+  <name>Atracción</name>
+  <descr><b>Atrae</b> una invocación enemiga 7 casillas.</descr>
+</Card>
+<Card cardid=485>
+  <name>Autoridad</name>
+  <descr>La invocación seleccionada <b>carga</b> hasta el dofus enemigo.
+</descr>
+</Card>
+<Card cardid=544>
+  <name>Az</name>
+  <descr><b>LÍDER:</b>
+Las invocaciones aliadas reciben +2 <b>AT</b>.</descr>
+</Card>
+<Card cardid=84>
+  <name>Azraúl</name>
+  <descr>Se <b>teletransporta</b> detrás de su contrincante después de un combate.</descr>
+</Card>
+<Card cardid=409>
+  <name>Bakara</name>
+  <descr><b>APARICIÓN:</b>
+Recuperas el primer hechizo de tu descarte.</descr>
+</Card>
+<Card cardid=523>
+  <name>Bakara</name>
+  <descr><b>APARICIÓN:</b>
+Recuperas los 2 primeros hechizos de tu descarte.</descr>
+</Card>
+<Card cardid=251>
+  <name>Bakara</name>
+  <descr><b>APARICIÓN:</b>
+Recuperas el primer hechizo de tu descarte y el primero del descarte del contrincante.</descr>
+</Card>
+<Card cardid=361>
+  <name>Baraklud</name>
+  <descr><b>APARICIÓN:</b>
+Cura 2 <b>PdV</b> a una invocación o un dofus.</descr>
+</Card>
+<Card cardid=385>
+  <name>Barón Sramedi</name>
+  <descr><b>MUERTE:</b> Vuelve a tu mano si tienes al menos 10 cartas en tu descarte.</descr>
+</Card>
+<Card cardid=189>
+  <name>Zarpas Quietas</name>
+  <descr>Añades una invocación al mazo de su propietario.
+</descr>
+</Card>
+<Card cardid=69>
+  <name>Bebé perforatroz</name>
+  <descr><b>MUERTE:</b> Robas 1 carta.</descr>
+</Card>
+<Card cardid=531>
+  <name>Bebé tofu</name>
+  <descr><b>MUERTE:</b> Tus tofus
+<b>cargan</b> 1 casilla.</descr>
+</Card>
+<Card cardid=456>
+  <name>Belíade</name>
+  <descr><b>MUERTE:</b>
+La invocación que ha eliminado a la belíade pasa a tu mano.</descr>
+</Card>
+<Card cardid=489>
+  <name>Den Frítico</name>
+  <descr><b>APARICIÓN:</b>
+Cura 3 <b>PdV</b> a todas tus invocaciones.</descr>
+</Card>
+<Card cardid=229>
+  <name>Pez alfombra</name>
+  <descr><b>ESCURRIDIZO</b></descr>
+</Card>
+<Card cardid=572>
+  <name>Betty Boubz</name>
+  <descr><b>ALCANCE:</b> 1-3
+<b>VENGANZA:</b>
+Retrocede 2 casillas.</descr>
+</Card>
+<Card cardid=322>
+  <name>Black pekewabbit</name>
+  <descr><b>APARICIÓN:</b>
+Inflige 1 de daño.</descr>
+</Card>
+<Card cardid=110>
+  <name>Black wabbit</name>
+  <descr><b>APARICIÓN:</b>
+Inflige 2 de daño.</descr>
+</Card>
+<Card cardid=220>
+  <name>Chuleta</name>
+  <descr>Devuelve todos los <b>PdV</b> a una invocación.</descr>
+</Card>
+<Card cardid=16>
+  <name>Farol</name>
+  <descr>Intercambias la posición
+de 2 de tus dofus.
+</descr>
+</Card>
+<Card cardid=407>
+  <name>Bomba</name>
+  <descr>Inflige 2 de daño.</descr>
+</Card>
+<Card cardid=416>
+  <name>Salto</name>
+  <descr><b>Teletransporta</b> una invocación
+3 casillas.
+</descr>
+</Card>
+<Card cardid=245>
+  <name>Salto del Felino</name>
+  <descr><b>Teletransporta</b> una invocación
+1d6 casilla(s).
+</descr>
+</Card>
+<Card cardid=471>
+  <name>Boo</name>
+  <descr>Invoca 1 boo
+a su alrededor si sobrevive
+a un ataque.</descr>
+</Card>
+<Card cardid=29>
+  <name>Jalalínea</name>
+  <descr><b>APARICIÓN:</b>
+Cura 2 <b>PdV</b> a tus demás jalatós.</descr>
+</Card>
+<Card cardid=376>
+  <name>Jalatín blanco</name>
+  <descr>Gana +1 <b>AT</b> mientras
+tengas otro jalató en juego.
+</descr>
+</Card>
+<Card cardid=556>
+  <name>Jalatín negro</name>
+  <descr>Gana +1 <b>AR</b> mientras
+tengas otro jalató en juego.
+</descr>
+</Card>
+<Card cardid=119>
+  <name>Jalató Celestial</name>
+  <descr><b>ESCURRIDIZO</b>
+<b>APARICIÓN:</b>
+Recuperas el primer jalató de tu descarte.</descr>
+</Card>
+<Card cardid=178>
+  <name>Jalató dominante</name>
+  <descr><b>APARICIÓN:</b>
+Da +1 <b>AR</b> a tus demás jalatós.</descr>
+</Card>
+<Card cardid=159>
+  <name>Jalató de primavera</name>
+  <descr><b>FIN DEL TURNO:</b>
+Gana +1 <b>AR</b>.</descr>
+</Card>
+<Card cardid=33>
+  <name>Jalató macho</name>
+  <descr><b>MUERTE:</b>
+Vuelve a aparecer el prisma aliado de su hilera.</descr>
+</Card>
+<Card cardid=36>
+  <name>Jalató negro</name>
+  <descr></descr>
+</Card>
+<Card cardid=372>
+  <name>Jalató Real</name>
+  <descr><b>APARICIÓN:</b>
+Inflige 2 de daño a todas las invocaciones de su hilera.</descr>
+</Card>
+<Card cardid=486>
+  <name>Jalató salvaje</name>
+  <descr></descr>
+</Card>
+<Card cardid=470>
+  <name>Doulder Bash</name>
+  <descr><b>GUARDAESPALDAS</b></descr>
+</Card>
+<Card cardid=177>
+  <name>Bwen Man</name>
+  <descr><b>APARICIÓN:</b>
+Cada jugador roba 1 carta del mazo del contrincante.</descr>
+</Card>
+<Card cardid=477>
+  <name>Quemadura Temporal</name>
+  <descr>Inflige 2 de daño.
+Añade 1 <b>PA</b> a tu <b>reserva</b>.</descr>
+</Card>
+<Card cardid=152>
+  <name>Arbusto</name>
+  <descr>Transforma una <b>semilla</b> aliada en <b>arbusto</b>.</descr>
+</Card>
+<Card cardid=507>
+  <name>Arbusto</name>
+  <descr>Puedes invocar un aliado sobre un <b>arbusto</b>.</descr>
+</Card>
+<Card cardid=200>
+  <name>Bwork cabalgador</name>
+  <descr><b>GOLPE DE GRACIA:</b>
+Cambia de hilera.</descr>
+</Card>
+<Card cardid=452>
+  <name>Cactoblongo</name>
+  <descr><b>APARICIÓN:</b>
+Inflige 2 de daño.</descr>
+</Card>
+<Card cardid=174>
+  <name>Patuso</name>
+  <descr><b>MUERTE:</b>
+Añade un hechizo krósmico de tu mazo a tu mano.</descr>
+</Card>
+<Card cardid=326>
+  <name>Zanahowia</name>
+  <descr><b>MURO</b>
+<b>FIN DEL TURNO:</b>
+Cura 1 <b>PdV</b>
+a tus wabbits.</descr>
+</Card>
+<Card cardid=6>
+  <name>Miaumiau</name>
+  <descr>Transforma una invocación en miaumiau aliado.
+</descr>
+</Card>
+<Card cardid=151>
+  <name>Miaumiau</name>
+  <descr></descr>
+</Card>
+<Card cardid=368>
+  <name>Miaumiau dorado</name>
+  <descr>Sustituye tus
+demás miaumiaus por miaumiaus dorados.</descr>
+</Card>
+<Card cardid=198>
+  <name>Chafer arquero </name>
+  <descr><b>ALCANCE:</b> 1-3
+<b>MUERTE:</b> 50% de probabilidades de invocar 1 chafer.</descr>
+</Card>
+<Card cardid=97>
+  <name>Chafer de élite </name>
+  <descr><b>MUERTE:</b>
+50% de probabilidades de invocar 1 chafer lancero.</descr>
+</Card>
+<Card cardid=238>
+  <name>Chafer lancero</name>
+  <descr><b>MUERTE:</b>
+50% de probabilidades de invocar 1 chafer.</descr>
+</Card>
+<Card cardid=533>
+  <name>Chafer</name>
+  <descr></descr>
+</Card>
+<Card cardid=360>
+  <name>Chafer translúcido</name>
+  <descr><b>ESCURRIDIZO</b>
+<b>MUERTE:</b> 50% de probabilidades de invocar 1 chafer de élite.</descr>
+</Card>
+<Card cardid=386>
+  <name>Chaferloko</name>
+  <descr>Se <b>teletransporta</b> 2 casillas por cada aliado eliminado.
+<b>MUERTE:</b> 50% de probabilidades de invocar 1 chafer de élite.</descr>
+</Card>
+<Card cardid=379>
+  <name>Carga</name>
+  <descr>La invocación seleccionada
+<b>carga</b> 2 casillas.</descr>
+</Card>
+<Card cardid=19>
+  <name>Cazador</name>
+  <descr>Robas 1 carta.
+Cuesta 0 <b>PA</b> si es
+una invocación. Si no lo es, descártala.
+</descr>
+</Card>
+<Card cardid=476>
+  <name>Gatar</name>
+  <descr><b>APARICIÓN:</b>
+Gana +2 <b>AT O</b> pasa
+a la mano del contrincante.</descr>
+</Card>
+<Card cardid=336>
+  <name>Murciego</name>
+  <descr><b>APARICIÓN:</b>
+Descarta 1 carta aleatoria de tu mano.</descr>
+</Card>
+<Card cardid=436>
+  <name>Murciego rechoncho</name>
+  <descr>Cura 1 <b>PdV</b> a tus demás invocaciones cuando hiere a un contrincante.</descr>
+</Card>
+<Card cardid=296>
+  <name>Jefe de guerra jalató</name>
+  <descr><b>LÍDER:</b>
+Da +1 <b>AT</b> a tus demás jalatós.</descr>
+</Card>
+<Card cardid=133>
+  <name>Jefe esbirrio</name>
+  <descr><b>LÍDER:</b>
+Da +1 <b>PM</b> a tus demás invocaciones.</descr>
+</Card>
+<Card cardid=279>
+  <name>Susurradores ballesteros</name>
+  <descr><b>ALCANCE:</b> 1-2</descr>
+</Card>
+<Card cardid=319>
+  <name>Susurradores de infantería</name>
+  <descr></descr>
+</Card>
+<Card cardid=324>
+  <name>Susurradores abanderados</name>
+  <descr><b>LÍDER:</b>
+Da +1 <b>AT</b> a tus demás susurradores.</descr>
+</Card>
+<Card cardid=78>
+  <name>Chuck Maurice</name>
+  <descr><b>INICIATIVA</b></descr>
+</Card>
+<Card cardid=35>
+  <name>Clara Byne</name>
+  <descr><b>ALCANCE:</b> 1-2
+<b>APARICIÓN:</b>
+Inflige 1 de daño.</descr>
+</Card>
+<Card cardid=60>
+  <name>Cerdo</name>
+  <descr><b>MUERTE:</b>
+Tus invocaciones recuperan 1<b>PdV</b>.</descr>
+</Card>
+<Card cardid=247>
+  <name>Compulsión</name>
+  <descr>Da +2 <b>AT</b> y +2 <b>AR</b>
+a una invocación.</descr>
+</Card>
+<Card cardid=461>
+  <name>Conde Kontatrás</name>
+  <descr>Mientras esté en juego,
+dobla los <b>PA</b> que obtienen tus prismas.</descr>
+</Card>
+<Card cardid=511>
+  <name>Conde Kontatrás</name>
+  <descr><b>APARICIÓN:</b>
+Consigue los prismas <b>PA</b> enemigos.</descr>
+</Card>
+<Card cardid=574>
+  <name>Conde Kontatrás</name>
+  <descr><b>APARICIÓN:</b>
+Destruye todos los prismas.</descr>
+</Card>
+<Card cardid=445>
+  <name>Jefe cuerbok</name>
+  <descr><b>LÍDER:</b> Da +1 <b>PM</b> a tus
+demás cuerboks.</descr>
+</Card>
+<Card cardid=144>
+  <name>Cuerbok</name>
+  <descr></descr>
+</Card>
+<Card cardid=63>
+  <name>Cuerbakesino</name>
+  <descr><b>MUERTE:</b>
+Inflige 1 de daño a su alrededor.</descr>
+</Card>
+<Card cardid=259>
+  <name>Corum</name>
+  <descr><b>MUERTE:</b>
+Invoca una momia.</descr>
+</Card>
+<Card cardid=213>
+  <name>Golpe Sangriento</name>
+  <descr>Da a una invocación tanto <b>AT</b> como <b>PdV</b> tenga.</descr>
+</Card>
+<Card cardid=479>
+  <name>Sapomorros</name>
+  <descr>Gana +1 <b>AT</b> y +1 <b>AR</b> cada vez que utilizas un hechizo.</descr>
+</Card>
+<Card cardid=482>
+  <name>Craps</name>
+  <descr>Inflige 7 de daño
+repartido aleatoriamente
+entre todos los dofus.</descr>
+</Card>
+<Card cardid=176>
+  <name>Crujibola</name>
+  <descr><b>RESISTENCIA:</b> 1
+</descr>
+</Card>
+<Card cardid=262>
+  <name>Crujibola susurrado</name>
+  <descr><b>RESISTENCIA:</b> 1
+<b>MUERTE:</b> Invoca 1 susurrador abanderado.</descr>
+</Card>
+<Card cardid=412>
+  <name>Crujibola dorado</name>
+  <descr><b>LÍDER:</b> Aumenta en 1 la <b>resistencia</b> de tus demás crujidores.</descr>
+</Card>
+<Card cardid=540>
+  <name>Crujidor</name>
+  <descr><b>RESISTENCIA:</b> 1
+</descr>
+</Card>
+<Card cardid=290>
+  <name>Crujidor ancestral</name>
+  <descr><b>RESISTENCIA:</b> 1
+<b>MUERTE:</b> Invoca 1 crujibola.</descr>
+</Card>
+<Card cardid=291>
+  <name>Crujidor susurrado</name>
+  <descr><b>RESISTENCIA:</b> 1
+<b>MUERTE:</b> Invoca susurradores de infantería.</descr>
+</Card>
+<Card cardid=501>
+  <name>Crujidor Real</name>
+  <descr><b>RESISTENCIA:</b> 1
+<b>LÍDER:</b> Da +1 <b>AT</b> a tus demás crujidores.</descr>
+</Card>
+<Card cardid=519>
+  <name>Acribillador</name>
+  <descr>Inflige a un dofus
+tantos daños como número de ocras tengas en juego.</descr>
+</Card>
+<Card cardid=435>
+  <name>Dark Vlad</name>
+  <descr>Inflige sus daños en cada una de las casillas de su alrededor cada vez que ataca.</descr>
+</Card>
+<Card cardid=509>
+  <name>Dado del Miaumiau</name>
+  <descr>Añades 1d6 miaumiau(s)
+ a tu mano.
+</descr>
+</Card>
+<Card cardid=278>
+  <name>Dado Gatuno</name>
+  <descr>Inflige 1d6 de daño(s).
+Descubre el dofus enemigo de la hilera con un 3 o menos.</descr>
+</Card>
+<Card cardid=414>
+  <name>Dado de Zurcarák</name>
+  <descr>Inflige 1d6 de daño(s). Recuperas este hechizo
+con un 3 o menos.
+</descr>
+</Card>
+<Card cardid=41>
+  <name>Dado Rebotado</name>
+  <descr>Inflige 1d6 de daño a las invocaciones enemigas.
+(Cuesta 1 <b>PA</b> menos por cada miaumiau en juego.)
+</descr>
+</Card>
+<Card cardid=515>
+  <name>Dephi Croquets</name>
+  <descr><b>INICIATIVA</b>
+<b>APARICIÓN:</b>
+<b>Carga</b> 1d6 casilla(s).</descr>
+</Card>
+<Card cardid=1545>
+  <name>Desenmascarado</name>
+  <descr>Descubre un dofus.</descr>
+</Card>
+<Card cardid=226>
+  <name>Dente, el Remontador</name>
+  <descr>Se pone gratuitamente si tienes al menos 5 <b>PA</b> de tu <b>reserva</b>.</descr>
+</Card>
+<Card cardid=227>
+  <name>Desfase</name>
+  <descr>Otorga <b>escurridizo</b>
+a una invocación.
+</descr>
+</Card>
+<Card cardid=42>
+  <name>Último Recurso</name>
+  <descr>Elimina el alcance
+de una invocación y dobla su ataque.</descr>
+</Card>
+<Card cardid=65>
+  <name>Herbibóss</name>
+  <descr><b>APARICIÓN:</b>
+Inflige 1 de daño a todas las invocaciones situadas en el lado enemigo.</descr>
+</Card>
+<Card cardid=68>
+  <name>Desincronización</name>
+  <descr>Gastas tus <b>PA</b> restantes para infligir
+los daños equivalentes.</descr>
+</Card>
+<Card cardid=267>
+  <name>Corrupción</name>
+  <descr>La invocación seleccionada
+cambia de hilera.</descr>
+</Card>
+<Card cardid=216>
+  <name>Devoción</name>
+  <descr>Transforma una invocación en momia aliada.</descr>
+</Card>
+<Card cardid=248>
+  <name>Diodo Docho</name>
+  <descr><b>APARICIÓN:</b>
+Coloca un siniestro
+en un dofus.</descr>
+</Card>
+<Card cardid=551>
+  <name>Do</name>
+  <descr></descr>
+</Card>
+<Card cardid=302>
+  <name>Choncho</name>
+  <descr><b>APARICIÓN:</b>
+Transforma una de tus <b>semillas</b> en muñeca loca.</descr>
+</Card>
+<Card cardid=402>
+  <name>Chusmerluza</name>
+  <descr><b>ALCANCE:</b> 1-3
+<b>APARICIÓN:</b>
+Destruyes un prisma.</descr>
+</Card>
+<Card cardid=81>
+  <name>Dragocerdo</name>
+  <descr></descr>
+</Card>
+<Card cardid=469>
+  <name>Dragocerdo</name>
+  <descr></descr>
+</Card>
+<Card cardid=565>
+  <name>Dragocerdo</name>
+  <descr></descr>
+</Card>
+<Card cardid=411>
+  <name>Dureden Pellar</name>
+  <descr><b>SANGRANTE:</b>
+Da +2 <b>AT</b> y +1 <b>PM</b>.</descr>
+</Card>
+<Card cardid=575>
+  <name>Sacudida</name>
+  <descr><b>Aturde</b> una invocación durante 1 turno.</descr>
+</Card>
+<Card cardid=550>
+  <name>Gato por Liebre</name>
+  <descr>Cada jugador roba 1 carta de su contrincante.</descr>
+</Card>
+<Card cardid=338>
+  <name>Edass, el Aguafiestas</name>
+  <descr><b>SANGRANTE:</b>
+Gana +2 <b>AT</b> e <b>iniciativa</b>.
+</descr>
+</Card>
+<Card cardid=155>
+  <name>Ejip</name>
+  <descr>Se <b>teletransporta</b> detrás de su contrincante tras ser atacado en cuerpo a cuerpo.</descr>
+</Card>
+<Card cardid=55>
+  <name>Data Vid</name>
+  <descr><b>ALCANCE:</b> 1-3
+<b>GOLPE DE GRACIA:</b>
+Robas 1 carta.</descr>
+</Card>
+<Card cardid=417>
+  <name>Elely</name>
+  <descr><b>APARICIÓN:</b>
+<b>Carga</b> tantas casillas
+como invocaciones enemigas haya en juego.</descr>
+</Card>
+<Card cardid=483>
+  <name>Selacubo</name>
+  <descr><b>MURO</b>
+Añade 1 <b>PA</b> a tu
+ <b>reserva</b> cuando una invocación muere</descr>
+</Card>
+<Card cardid=15>
+  <name>Emperador Gelax</name>
+  <descr>Invoca 1 gelatina aleatoria a su alrededor cada vez que sufre daños.</descr>
+</Card>
+<Card cardid=120>
+  <name>Abono</name>
+  <descr>Tus sadidas y tus muñecas <b>cargan</b>.</descr>
+</Card>
+<Card cardid=107>
+  <name>Espadantájaro</name>
+  <descr><b>MURO</b></descr>
+</Card>
+<Card cardid=375>
+  <name>Igualdad</name>
+  <descr>El <b>AT</b> de las invocaciones
+en juego pasa a 1.</descr>
+</Card>
+<Card cardid=439>
+  <name>Eratz, el Reivindicador</name>
+  <descr><b>APARICIÓN:</b>
+Da <b>iniciativa</b> a una invocación.</descr>
+</Card>
+<Card cardid=481>
+  <name>Esquiva</name>
+  <descr>Empuja una invocación aliada 4 casillas.</descr>
+</Card>
+<Card cardid=444>
+  <name>Evangelyne</name>
+  <descr><b>ALCANCE:</b> 1-3
+Gana +2 de <b>alcance</b> si tienes otro miembro de la Hermandad del Tofu en juego.</descr>
+</Card>
+<Card cardid=493>
+  <name>Evangelyne</name>
+  <descr><b>ALCANCE:</b> 1-4
+Gana +2 de <b>alcance</b> si tienes otro miembro de la Hermandad del Tofu en juego.</descr>
+</Card>
+<Card cardid=340>
+  <name>Evangelyne</name>
+  <descr><b>ALCANCE:</b> 1-5
+Gana +2 de <b>alcance</b> si tienes otro miembro de la Hermandad del Tofu en juego.</descr>
+</Card>
+<Card cardid=86>
+  <name>Borrasca</name>
+  <descr>Inflige 3 de daño
+a las invocaciones enemigas de una hilera.</descr>
+</Card>
+<Card cardid=517>
+  <name>Excarnus</name>
+  <descr>Tus demás jalatós vuelven a tu mano cuando mueren. </descr>
+</Card>
+<Card cardid=23>
+  <name>Fan</name>
+  <descr><b>APARICIÓN:</b>
+<b>Carga</b> si Khan Karkasa está en juego.</descr>
+</Card>
+<Card cardid=11>
+  <name>Fantasma ocra</name>
+  <descr><b>ALCANCE:</b> 1-2
+<b>ESCURRIDIZO</b></descr>
+</Card>
+<Card cardid=121>
+  <name>Felida</name>
+  <descr><b>GOLPE DE GRACIA:</b>
+Añade un hechizo Salto
+a tu mano.</descr>
+</Card>
+<Card cardid=422>
+  <name>Matraz de Dolor</name>
+  <descr>Inflige 2 de daño.</descr>
+</Card>
+<Card cardid=250>
+  <name>Matraz de Espanto</name>
+  <descr>Inflige <b>silencio</b> a una invocación y la empuja 3 casillas.</descr>
+</Card>
+<Card cardid=518>
+  <name>Matraz de Sáikoz</name>
+  <descr>Tomas el control de una invocación enemiga que tenga 3 <b>AT</b> o menos hasta el final del turno.</descr>
+</Card>
+<Card cardid=348>
+  <name>Matraz de Aletargamiento</name>
+  <descr><b>Aturde</b> una invocación durante 1 turno.</descr>
+</Card>
+<Card cardid=167>
+  <name>Matraz Infectado</name>
+  <descr>Intercambias el <b>AT</b>
+de 2 invocaciones.</descr>
+</Card>
+<Card cardid=358>
+  <name>Charcoso</name>
+  <descr><b>ALCANCE:</b> 1-2</descr>
+</Card>
+<Card cardid=318>
+  <name>Flecha Buscadora</name>
+  <descr>Inflige 1 de daño.1
+Si la invocación muere, recuperas este hechizo.</descr>
+</Card>
+<Card cardid=10>
+  <name>Flecha Perforante</name>
+  <descr>Inflige 3 de daño a una invocación y 1 de daño al dofus enemigo.</descr>
+</Card>
+<Card cardid=337>
+  <name>Flecha de Inmolación</name>
+  <descr>Inflige 2 de daño.1
+Si la invocación muere, robas 1 carta. </descr>
+</Card>
+<Card cardid=295>
+  <name>Flecha de Retroceso</name>
+  <descr>Empuja una invocación enemiga 5 casillas.</descr>
+</Card>
+<Card cardid=242>
+  <name>Flecha Destructiva</name>
+  <descr>Elimina una invocación herida.</descr>
+</Card>
+<Card cardid=210>
+  <name>Flecha Explosiva</name>
+  <descr>Inflige 5 de daño.</descr>
+</Card>
+<Card cardid=281>
+  <name>Flecha Atravesadora</name>
+  <descr><b>PERFORADOR:</b> Inflige 2 de daño. </descr>
+</Card>
+<Card cardid=508>
+  <name>Flecha de Tempestad</name>
+  <descr>Inflige 2 de daño y empuja 2 casillas todas las invocaciones enemigas.</descr>
+</Card>
+<Card cardid=146>
+  <name>Flopin</name>
+  <descr><b>ALCANCE:</b> 1-2
+<b>APARICIÓN:</b>
+Inflige 3 de daño a una invocación.</descr>
+</Card>
+<Card cardid=131>
+  <name>Sepulturaña</name>
+  <descr>Mueve las cartas del descarte de tu contrincante al tuyo.</descr>
+</Card>
+<Card cardid=46>
+  <name>Perfowarrior</name>
+  <descr><b>MUERTE:</b>
+Recuperas 1 carta aleatoria del descarte de tu contrincante.</descr>
+</Card>
+<Card cardid=423>
+  <name>Fulgor</name>
+  <descr>Una de tus invocaciones y una invocación enemiga intercambian su posición.</descr>
+</Card>
+<Card cardid=206>
+  <name>Funfanfín</name>
+  <descr><b>APARICIÓN:</b>
+Intercambia su posición
+con un aliado.
+</descr>
+</Card>
+<Card cardid=1477>
+  <name>Funeral</name>
+  <descr>Descarta 3 srams
+de tu mazo.</descr>
+</Card>
+<Card cardid=468>
+  <name>Guarda Tiempo</name>
+  <descr>Destruye un dofus.</descr>
+</Card>
+<Card cardid=258>
+  <name>Gelatina</name>
+  <descr></descr>
+</Card>
+<Card cardid=241>
+  <name>Gelatina de limón</name>
+  <descr><b>APARICIÓN:</b>
+Tus demás gelatinas <b>cargan</b>.
+</descr>
+</Card>
+<Card cardid=317>
+  <name>Gelatina de tinta</name>
+  <descr><b>MUERTE:</b>
+Da +1 <b>AT</b> y +1 <b>AR</b>
+a tus demás gelatinas.
+</descr>
+</Card>
+<Card cardid=201>
+  <name>Gelatina de fresa</name>
+  <descr><b>APARICIÓN:</b>
+Invocas una gelatina.</descr>
+</Card>
+<Card cardid=418>
+  <name>Gelatina de frambuesa</name>
+  <descr>Gana +1 <b>AT</b> y +1 <b>AR</b> cada vez que invocas una gelatina.</descr>
+</Card>
+<Card cardid=458>
+  <name>Gelatina de menta</name>
+  <descr><b>APARICIÓN:</b>
+Da +1 <b>PM</b> a tus
+demás gelatinas.
+</descr>
+</Card>
+<Card cardid=362>
+  <name>Congelación</name>
+  <descr>Transfiere tus <b>PA</b> en tu <b>reserva</b>.</descr>
+</Card>
+<Card cardid=37>
+  <name>Jabalina</name>
+  <descr><b>APARICIÓN:</b>
+Da +1 <b>PM</b>
+a otra invocación.</descr>
+</Card>
+<Card cardid=355>
+  <name>Balí</name>
+  <descr><b>CARGA</b></descr>
+</Card>
+<Card cardid=526>
+  <name>Balí agresivo</name>
+  <descr><b>LÍDER:</b>
+Da +1 <b>PM</b> a tus demás balíes.</descr>
+</Card>
+<Card cardid=269>
+  <name>Balí Ancestral</name>
+  <descr><b>FIN DEL TURNO:</b>
+Tus demás invocaciones <b>cargan</b> 2  casillas.</descr>
+</Card>
+<Card cardid=70>
+  <name>Balí Real</name>
+  <descr><b>APARICIÓN:</b>
+Tus demás balíes <b>cargan</b>.</descr>
+</Card>
+<Card cardid=163>
+  <name>Glóbulo, la Crápula</name>
+  <descr><b>VENGANZA:</b>
+Gana +1 <b>PM</b>.</descr>
+</Card>
+<Card cardid=301>
+  <name>Bloponcio</name>
+  <descr><b>APARICIÓN:</b>
+Da +2 <b>AR</b> a una invocación.</descr>
+</Card>
+<Card cardid=158>
+  <name>Ghul</name>
+  <descr><b>VENGANZA:</b>
+Se <b>teletransporta</b> 3 casillas hacia delante.</descr>
+</Card>
+<Card cardid=7>
+  <name>Ghulotony</name>
+  <descr>Se <b>teletransporta</b> 2 casillas hacia delante
+cuando otra invocación aliada sufre daños.</descr>
+</Card>
+<Card cardid=185>
+  <name>Gúltar</name>
+  <descr><b>INICIATIVA</b>
+<b>GOLPE DE GRACIA:</b>
+<b>Carga</b>.</descr>
+</Card>
+<Card cardid=425>
+  <name>Gúltar</name>
+  <descr><b>INICIATIVA</b>
+<b>MUERTE:</b> Se transforma en Dark Vlad.</descr>
+</Card>
+<Card cardid=139>
+  <name>Gúltar, el Bárbaro</name>
+  <descr><b>INICIATIVA</b>
+<b>LÍDER:</b> Da +2 <b>AT</b> y +1 <b>PM</b> a tus demás invocaciones.</descr>
+</Card>
+<Card cardid=391>
+  <name>Granolla</name>
+  <descr>Da a una invocación tanto <b>AT</b> y <b>AR</b> como semillas aliadas haya en juego.</descr>
+</Card>
+<Card cardid=537>
+  <name>Semilla</name>
+  <descr>Coloca esta semilla en tu lado del tablero.</descr>
+</Card>
+<Card cardid=543>
+  <name>Semillas de Locura</name>
+  <descr>Todas tus <b>semillas</b> se transforman en muñecas locas.</descr>
+</Card>
+<Card cardid=449>
+  <name>Semillas de Sacrificio</name>
+  <descr>Todas tus <b>semillas</b> se transforman en muñecas sacrificadas.</descr>
+</Card>
+<Card cardid=218>
+  <name>Gran crujidor susurrado</name>
+  <descr><b>ALCANCE:</b> 1-2
+<b>RESISTENCIA:</b> 1
+<b>MUERTE:</b> Invoca susurradores ballesteros.</descr>
+</Card>
+<Card cardid=374>
+  <name>Grany</name>
+  <descr>Tus demás miaumiaus ganan +1 <b>AR</b> cuando entran en juego.</descr>
+</Card>
+<Card cardid=495>
+  <name>Grimm Berruguen</name>
+  <descr><b>LÍDER:</b>
+Da +1 <b>AT</b> a tus demás invocaciones.
+</descr>
+</Card>
+<Card cardid=327>
+  <name>Grinch</name>
+  <descr><b>APARICIÓN:</b>
+Inflige <b>silencio</b>
+a una invocación.</descr>
+</Card>
+<Card cardid=359>
+  <name>Grin Piz</name>
+  <descr><b>VENGANZA:</b>
+Añade una <b>semilla</b>
+a tu mano.</descr>
+</Card>
+<Card cardid=284>
+  <name>Gran Bayotoro</name>
+  <descr>Gana +1 <b>AT</b> por cada invocación eliminada.</descr>
+</Card>
+<Card cardid=157>
+  <name>Grugaloragrán</name>
+  <descr><b>INICIO DEL TURNO:</b>
+Tus dofus recuperan 1 <b>PdV</b>.</descr>
+</Card>
+<Card cardid=135>
+  <name>Grugaloragrán</name>
+  <descr>Pasa a tu mano si tiene 3 <b>PdV</b> o menos.</descr>
+</Card>
+<Card cardid=104>
+  <name>Grugaloragrán</name>
+  <descr>Mientras esté en juego, tus dofus no pueden ser destruidos.</descr>
+</Card>
+<Card cardid=179>
+  <name>Esbirrios</name>
+  <descr><b>SANGRANTE:</b>
+Gana +1 <b>AT</b> e <b>iniciativa</b>.</descr>
+</Card>
+<Card cardid=474>
+  <name>Garabato</name>
+  <descr><b>APARICIÓN:</b>
+50% de probabilidades de descubrir todos los dofus enemigos.</descr>
+</Card>
+<Card cardid=373>
+  <name>Guiller</name>
+  <descr><b>APARICIÓN:</b>
+Los dofus de cada jugador intercambian sus posiciones al azar.</descr>
+</Card>
+<Card cardid=494>
+  <name>Guiller Motel</name>
+  <descr><b>ALCANCE:</b> 1-6</descr>
+</Card>
+<Card cardid=566>
+  <name>Abuwabbit </name>
+  <descr><b>APARICIÓN:</b>
+Coloca una zanahowia
+en una casilla vacía de tu lado del tablero.
+</descr>
+</Card>
+<Card cardid=441>
+  <name>Gzenah</name>
+  <descr><b>APARICIÓN:</b>
+Gana +1 <b>AT</b> y +1 <b>AR</b>
+por cada yopuka aliado en juego.</descr>
+</Card>
+<Card cardid=341>
+  <name>Hostigamiento</name>
+  <descr>Inflige 1 de daño a todos los dofus enemigos.</descr>
+</Card>
+<Card cardid=27>
+  <name>Hora de Gloria</name>
+  <descr>Gasta tus <b>PA</b>
+restantes para darle a una invocación +1 <b>AT</b> y +1 <b>AR</b> por cada <b>PA</b> utilizado.</descr>
+</Card>
+<Card cardid=12>
+  <name>Reloj</name>
+  <descr>Recuperas un hechizo Siniestro de tu descarte.</descr>
+</Card>
+<Card cardid=580>
+  <name>Indi</name>
+  <descr><b>MUERTE:</b> Robas la primera carta infinita de tu mazo. Cuesta 1 <b>PA</b> menos.</descr>
+</Card>
+<Card cardid=440>
+  <name>Indi</name>
+  <descr><b>MUERTE:</b> Recuperas una carta infinita aleatoria de tu descarte. Cuesta 1 <b>PA</b> menos.</descr>
+</Card>
+<Card cardid=557>
+  <name>Indi</name>
+  <descr><b>MUERTE:</b>
+Recuperas las cartas infinitas de tu descarte y las incorporas a tu mazo.</descr>
+</Card>
+<Card cardid=94>
+  <name>Iniciativa</name>
+  <descr>Otorga <b>iniciativa</b>
+a una invocación.</descr>
+</Card>
+<Card cardid=209>
+  <name>Instantina</name>
+  <descr><b>APARICIÓN:</b>
+Inflige tantos daños como <b>PA</b> tengas en tu <b>reserva</b>. </descr>
+</Card>
+<Card cardid=451>
+  <name>Intimidación</name>
+  <descr>Tus invocaciones <b>cargan</b> 2 casillas.</descr>
+</Card>
+<Card cardid=353>
+  <name>Jabs</name>
+  <descr>Da +2 <b>AT</b>
+a una invocación.</descr>
+</Card>
+<Card cardid=294>
+  <name>Jeins Bon</name>
+  <descr><b>ALCANCE:</b> 1-3
+<b>GOLPE DE GRACIA:</b> Inflige 1 de daño a un dofus enemigo.</descr>
+</Card>
+<Card cardid=434>
+  <name>Chan Jicky</name>
+  <descr><b>APARICIÓN:</b>
+Intercambia su posición con un aliado.</descr>
+</Card>
+<Card cardid=498>
+  <name>Yanklod Vandán</name>
+  <descr><b>APARICIÓN:</b>
+Tus invocaciones <b>cargan</b> 1 casilla.</descr>
+</Card>
+<Card cardid=127>
+  <name>Yiyi</name>
+  <descr><b>FIN DEL TURNO:</b>
+Pierde su pelaje...
+(añade 2 pelos a la mano de tu contrincante.).</descr>
+</Card>
+<Card cardid=288>
+  <name>Joris</name>
+  <descr><b>APARICIÓN:</b>
+Otorga <b>escurridizo</b> a tus
+demás invocaciones.</descr>
+</Card>
+<Card cardid=480>
+  <name>Joris</name>
+  <descr>Reduce en 2 los daños de los hechizos enemigos.</descr>
+</Card>
+<Card cardid=545>
+  <name>Maestro Joris</name>
+  <descr>Impide a tu contrincante lanzar hechizos.</descr>
+</Card>
+<Card cardid=420>
+  <name>Julith Jurgen</name>
+  <descr>Inflige 1 de daño cada invocación enemiga que entra en juego.</descr>
+</Card>
+<Card cardid=124>
+  <name>Julith Jurgen</name>
+  <descr><b>MUERTE:</b>
+Vuelve a tu mano si ninguno de tus dofus ha sido destruido.</descr>
+</Card>
+<Card cardid=431>
+  <name>Julith Jurgen</name>
+  <descr>Inflige 1 de daño a las invocaciones enemigas cuando un dofus aliado sufre daños.</descr>
+</Card>
+<Card cardid=87>
+  <name>Justicia</name>
+  <descr><b>APARICIÓN:</b>
+Inflige <b>silencio</b>
+a una invocación.</descr>
+</Card>
+<Card cardid=345>
+  <name>Justicia</name>
+  <descr><b>APARICIÓN:</b>
+Inflige <b>silencio</b>
+a una invocación y hace que su <b>AT</b> pase a 3.</descr>
+</Card>
+<Card cardid=520>
+  <name>Justicia</name>
+  <descr><b>APARICIÓN:</b>
+Pasa a 3 el<b>AT</b> de una invocación y la hace <b>cargar</b>.</descr>
+</Card>
+<Card cardid=311>
+  <name>Kabrok</name>
+  <descr><b>APARICIÓN:</b>
+Añade 3 cuerboks a tu mano.</descr>
+</Card>
+<Card cardid=310>
+  <name>Kabrok</name>
+  <descr><b>APARICIÓN:</b>
+Llena de cuerboks tu mano y la de tu contrincante.</descr>
+</Card>
+<Card cardid=111>
+  <name>Cuervo Negro</name>
+  <descr><b>APARICIÓN:</b>
+Transforma tus invocaciones en cuerboks y luego gana +1 <b>AT</b> y +1 <b>AR</b> por cada cuerbok aliado en juego.</descr>
+</Card>
+<Card cardid=568>
+  <name>Bud Bueyser</name>
+  <descr>Gana +1 <b>AR</b> con cada invocación eliminada.
+</descr>
+</Card>
+<Card cardid=532>
+  <name>Kamasutar</name>
+  <descr><b>APARICIÓN:</b>
+Recuperas las 5 primeras cartas de tu descarte si tu mano se encuentra vacía.
+</descr>
+</Card>
+<Card cardid=101>
+  <name>Karla Blondie</name>
+  <descr><b>APARICIÓN:</b>
+Gana 1d6 <b>AT</b>.
+</descr>
+</Card>
+<Card cardid=207>
+  <name>Katar</name>
+  <descr><b>APARICIÓN:</b>
+<b>Atrae</b> hasta él la primera invocación enemiga de su hilera y <b>carga</b>.</descr>
+</Card>
+<Card cardid=369>
+  <name>Katar</name>
+  <descr><b>INICIATIVA</b>
+<b>PRINCIPIO DE TUNO:</b>
+<b>Atrae</b> hasta él la primera invocación enemiga de su hilera.</descr>
+</Card>
+<Card cardid=289>
+  <name>Katar</name>
+  <descr><b>INICIATIVA</b>
+<b>PRINCIPIO DE TUNO:</b>
+<b>Atrae</b> hasta él la primera invocación enemiga de su hilera.</descr>
+</Card>
+<Card cardid=233>
+  <name>Katsou Mee</name>
+  <descr><b>APARICIÓN:</b>
+Da +3 <b>AT</b> a una invocación.</descr>
+</Card>
+<Card cardid=234>
+  <name>Kerubim Aventurero</name>
+  <descr><b>APARICIÓN:</b>
+Descubres un dofus enemigo.</descr>
+</Card>
+<Card cardid=363>
+  <name>Kerubim Anticuario</name>
+  <descr><b>APARICIÓN:</b>
+Destruye el prisma enemigo de su hilera y descubres un dofus del contrincante.</descr>
+</Card>
+<Card cardid=453>
+  <name>Kerubim</name>
+  <descr>Gana +1 <b>AT</b> y +1 <b>AR</b> cada vez que una invocación aliada muere.</descr>
+</Card>
+<Card cardid=161>
+  <name>Khan Karkasa</name>
+  <descr><b>APARICIÓN:</b>
+Añade 1 fan a tu mano.</descr>
+</Card>
+<Card cardid=240>
+  <name>Khan Karkasa</name>
+  <descr><b>VENGANZA:</b>
+Añade 1 fan a tu mano.</descr>
+</Card>
+<Card cardid=390>
+  <name>Khan Karkasa</name>
+  <descr><b>APARICIÓN:</b>
+Invoca 3 fans delante de él.</descr>
+</Card>
+<Card cardid=212>
+  <name>Klor Ofila</name>
+  <descr><b>APARICIÓN:</b>
+Añade <b>una semilla</b>
+a tu mano.</descr>
+</Card>
+<Card cardid=243>
+  <name>Kokoko</name>
+  <descr><b>ALCANCE: 1-3</b>
+<b>APARICIÓN:</b>
+Empuja las invocaciones enemigas 1 casilla.</descr>
+</Card>
+<Card cardid=562>
+  <name>Kolo Kolko</name>
+  <descr>Gana <b>iniciativa</b> y <b>escurridizo</b> mientras tengas una <b>semilla</b> en juego.
+</descr>
+</Card>
+<Card cardid=371>
+  <name>Cuerbax</name>
+  <descr>Gana <b>iniciativa</b> y <b>escurridizo</b> mientras tengas otro justiciero en juego.</descr>
+</Card>
+<Card cardid=447>
+  <name>Kralamor</name>
+  <descr>Cura 2 <b>PdV</b> a tus demás invocaciones cuando una de tus invocaciones muere.</descr>
+</Card>
+<Card cardid=487>
+  <name>Kralamar</name>
+  <descr><b>APARICIÓN:</b>
+Cura 2 <b>PdV</b>
+a una invocación.</descr>
+</Card>
+<Card cardid=300>
+  <name>El Enklarvador</name>
+  <descr><b>GUARDAESPALDAS</b></descr>
+</Card>
+<Card cardid=22>
+  <name>La loca</name>
+  <descr>Todos tus hechizos cuestan 1 <b>PA</b> menos.</descr>
+</Card>
+<Card cardid=92>
+  <name>Gerbilinda</name>
+  <descr>Da +2 <b>AT</b> y <b>carga</b> a todas tus invocaciones heridas.
+</descr>
+</Card>
+<Card cardid=183>
+  <name>La hinchable</name>
+  <descr><b>FIN DEL TURNO:</b>
+Cura 2 <b>PdV</b> a todas tus demás invocaciones.</descr>
+</Card>
+<Card cardid=522>
+  <name>La sacrificada</name>
+  <descr><b>MUERTE:</b> Inflige 2 de daño adicional a la invocación que ha destruido.</descr>
+</Card>
+<Card cardid=17>
+  <name>Leche de bambú</name>
+  <descr>La invocación seleccionada <b>carga</b>.</descr>
+</Card>
+<Card cardid=567>
+  <name>Lamor Alvizo</name>
+  <descr>Se <b>teletransporta</b> detrás de su contrincante después de un combate.</descr>
+</Card>
+<Card cardid=171>
+  <name>Gades Espada Fugaz</name>
+  <descr><b>VENGANZA:</b>
+Gana +1 <b>AT</b> y +1 <b>AR</b>.</descr>
+</Card>
+<Card cardid=536>
+  <name>Cunejo</name>
+  <descr><b>FIN DEL TURNO:</b>
+Cura 1 <b>PdV</b> a las invocaciones aliadas de su hilera.</descr>
+</Card>
+<Card cardid=559>
+  <name>Cunejos</name>
+  <descr>Invoca cunejos en todas tus casillas de inicio.
+</descr>
+</Card>
+<Card cardid=330>
+  <name>Lágrimas de Sangre</name>
+  <descr>Otorga <b>escudo</b> y <b>carga</b> a una invocación.</descr>
+</Card>
+<Card cardid=538>
+  <name>Larva azul</name>
+  <descr><b>APARICIÓN:</b>
+Cada jugador roba 2 cartas.
+</descr>
+</Card>
+<Card cardid=415>
+  <name>Larva naranja</name>
+  <descr><b>APARICIÓN:</b>
+Destruye la <b>AR</b> de una invocación.</descr>
+</Card>
+<Card cardid=99>
+  <name>Larva verde</name>
+  <descr><b>APARICIÓN:</b>
+Su objetivo cambia aleatoriamente de hilera.</descr>
+</Card>
+<Card cardid=28>
+  <name>Larva violeta</name>
+  <descr><b>APARICIÓN:</b>
+Empuja una invocación 
+2 casillas.</descr>
+</Card>
+<Card cardid=334>
+  <name>Lebolas</name>
+  <descr><b>ALCANCE:</b> 1-3</descr>
+</Card>
+<Card cardid=344>
+  <name>Leila</name>
+  <descr><b>APARICIÓN:</b>
+Da +1 <b>AT</b> y +1 <b>AR</b> a una invocación.
+</descr>
+</Card>
+<Card cardid=188>
+  <name>Li Crounch</name>
+  <descr><b>APARICIÓN:</b>
+Transforma una de tus <b>semillas</b> en muñeca sacrificada.</descr>
+</Card>
+<Card cardid=563>
+  <name>Lilota</name>
+  <descr><b>Carga</b> 1 casilla cuando tu contrincante utiliza una carta de invocación.</descr>
+</Card>
+<Card cardid=249>
+  <name>Lilota</name>
+  <descr><b>Carga</b> 1 casilla cada vez que utilizas una carta de invocación.</descr>
+</Card>
+<Card cardid=237>
+  <name>Lilota</name>
+  <descr><b>Carga</b> 1 casilla cada vez que utilizas una carta.</descr>
+</Card>
+<Card cardid=321>
+  <name>Lu</name>
+  <descr><b>APARICIÓN:</b>
+Consigues un prisma aliado.</descr>
+</Card>
+<Card cardid=343>
+  <name>Lu</name>
+  <descr><b>APARICIÓN:</b>
+Consigues un prisma.</descr>
+</Card>
+<Card cardid=142>
+  <name>Lu</name>
+  <descr><b>APARICIÓN:</b>
+Hace que aparezcan de nuevo todos los prismas.</descr>
+</Card>
+<Card cardid=98>
+  <name>Lucy Fher</name>
+  <descr><b>ALCANCE</b>: 1-3
+<b>GOLPE DE GRACIA</b>:
+Recuperas el primer hechizo de tu descarte.</descr>
+</Card>
+<Card cardid=82>
+  <name>Lúmino</name>
+  <descr><b>FIN DEL TURNO:</b>
+Inflige 1 de daño a un dofus enemigo de su hilera si tienes otro justiciero en juego.
+</descr>
+</Card>
+<Card cardid=347>
+  <name>Brizlón mágico</name>
+  <descr>Inflige 1 de daño a las invocaciones enemigas cuando un contrincante utiliza una carta de hechizo.</descr>
+</Card>
+<Card cardid=38>
+  <name>Magmog, el Jálrog</name>
+  <descr><b>APARICIÓN:</b>
+Transforma una invocación en jalatín blanco. </descr>
+</Card>
+<Card cardid=862>
+  <name>Mein Kuyn</name>
+  <descr><b>LÍDER:</b> Da +1 <b>AT</b>
+ a tus demás miaumiaus.</descr>
+</Card>
+<Card cardid=552>
+  <name>Susurrón</name>
+  <descr><b>APARICIÓN:</b>
+Da un <b>escudo</b> a una invocación.</descr>
+</Card>
+<Card cardid=3>
+  <name>Maestro de las Sombras</name>
+  <descr>Da a tus invocaciones +2 <b>AT</b> y otorga <b>escurridizo</b>.</descr>
+</Card>
+<Card cardid=427>
+  <name>Maloboss</name>
+  <descr><b>MUERTE:</b> Añade 3 otros bandidos a tu mano.</descr>
+</Card>
+<Card cardid=366>
+  <name>Malajeta</name>
+  <descr><b>MUERTE:</b>
+Destruye todos los prismas enemigos.</descr>
+</Card>
+<Card cardid=560>
+  <name>Malcac</name>
+  <descr><b>APARICIÓN:</b>
+Consigues un prisma enemigo.</descr>
+</Card>
+<Card cardid=264>
+  <name>Malapiel</name>
+  <descr><b>ALCANCE:</b> 1-2
+<b>FIN DEL TURNO:</b>
+Destruye el prisma enemigo de su hilera.</descr>
+</Card>
+<Card cardid=2>
+  <name>Malox Makugen</name>
+  <descr>Inflige 1 de daño al dofus enemigo por cada invocación curada.</descr>
+</Card>
+<Card cardid=349>
+  <name>Maltrahzero</name>
+  <descr>Inflige 1 de daño a un dofus enemigo de su hilera cuando robas o destruyes un prisma enemigo.</descr>
+</Card>
+<Card cardid=370>
+  <name>Bofetada</name>
+  <descr><b>VENGANZA:</b>
+Gana +3 <b>AT</b>.</descr>
+</Card>
+<Card cardid=256>
+  <name>Many de Brakmar</name>
+  <descr><b>APARICIÓN:</b>
+Reduce en 2 <b>PA</b> la 
+<b>reserva</b> del contrincante. </descr>
+</Card>
+<Card cardid=467>
+  <name>Jabato dorado</name>
+  <descr><b>APARICIÓN:</b>
+Transforma todas las demás invocaciones en jabatillo.</descr>
+</Card>
+<Card cardid=287>
+  <name>Jabatillo </name>
+  <descr>Gana +1 <b>PM</b> mientras tengas una jabalina en juego.
+</descr>
+</Card>
+<Card cardid=320>
+  <name>Marline</name>
+  <descr><b>APARICIÓN:</b>
+Intercambia su cuerpo con una invocación enemiga que tenga 2 <b>AT</b> o menos.</descr>
+</Card>
+<Card cardid=31>
+  <name>Marline</name>
+  <descr><b>APARICIÓN:</b>
+Intercambia su cuerpo con una invocación enemiga que tenga 3 <b>AT</b> o menos.</descr>
+</Card>
+<Card cardid=308>
+  <name>Marline</name>
+  <descr><b>APARICIÓN:</b>
+Intercambia su cuerpo con una invocación enemiga que tenga 5 <b>AT</b> o menos.</descr>
+</Card>
+<Card cardid=378>
+  <name>Maskeman - Eskérdikat</name>
+  <descr><b>ALCANCE:</b> 1-3
+Retrocede 2 casillas cuando una invocación enemiga aparece en su hilera.</descr>
+</Card>
+<Card cardid=214>
+  <name>Maskeman - Zobal</name>
+  <descr><b>INICIATIVA</b>
+<b>GOLPE DE GRACIA:</b>
+Gana +2 <b>AT</b>.</descr>
+</Card>
+<Card cardid=454>
+  <name>Maskeman - Sáikopat</name>
+  <descr><b>APARICIÓN:</b>
+Descarta tu mano y la de tu contrincante, y cada jugador roba 5 cartas.</descr>
+</Card>
+<Card cardid=421>
+  <name>Zíar</name>
+  <descr>Las invocaciones heridas por Zíar mueren si tienes otro justiciero en juego.</descr>
+</Card>
+<Card cardid=478>
+  <name>Megatún</name>
+  <descr><b>VENGANZA:</b>
+Tu contrincante roba 1 carta.</descr>
+</Card>
+<Card cardid=76>
+  <name>Merkator</name>
+  <descr><b>VENGANZA:</b>
+Inflige 1 de daño al dofus enemigo de la hilera.
+</descr>
+</Card>
+<Card cardid=516>
+  <name>Minilubo</name>
+  <descr><b>GOLPE DE GRACIA:</b>
+Se transforma en
+hombre minilubo.
+</descr>
+</Card>
+<Card cardid=274>
+  <name>Hombre minilubo</name>
+  <descr><b>GOLPE DE GRACIA:</b>
+Se transforma en mediulubo.
+</descr>
+</Card>
+<Card cardid=384>
+  <name>Milkar</name>
+  <descr><b>CARGA</b>
+<b>GOLPE DE GRACIA:</b>
+Tus mediulubos <b>cargan</b>.</descr>
+</Card>
+<Card cardid=153>
+  <name>Miranda</name>
+  <descr><b>APARICIÓN: </b>
+Toma el control de las invocaciones enemigas que estén a su alrededor hasta su muerte.</descr>
+</Card>
+<Card cardid=570>
+  <name>Medi Noch</name>
+  <descr>Añade 1 <b>PA</b> a tu <b>reserva</b> cada vez que tu contrincante juega una carta.</descr>
+</Card>
+<Card cardid=484>
+  <name>Mizz Frizz</name>
+  <descr><b>MUERTE:</b>
+Vuelve a tu mano
+si tienes al menos 5 <b>PA</b>
+en tu <b>reserva</b>.</descr>
+</Card>
+<Card cardid=96>
+  <name>Mitania</name>
+  <descr><b>APARICIÓN:</b>
+Gana tanto <b>AT</b> como cartas tengas en mano.</descr>
+</Card>
+<Card cardid=530>
+  <name>Momia</name>
+  <descr>Aumenta en 1 tu <b>reserva</b> de <b>PA</b> cuando sufre daños.</descr>
+</Card>
+<Card cardid=123>
+  <name>Muuugresa</name>
+  <descr><b>VENGANZA:</b>
+Gana +1 <b>PM</b>.</descr>
+</Card>
+<Card cardid=196>
+  <name>Muuugresa dominante</name>
+  <descr>Gana +1 <b>AT</b> y <b>carga</b> 1 casilla cuando otra de tus muuugresas entra en juego.</descr>
+</Card>
+<Card cardid=367>
+  <name>Muuugresa Real</name>
+  <descr><b>CARGA</b></descr>
+</Card>
+<Card cardid=429>
+  <name>Muuugritón</name>
+  <descr><b>CARGA</b></descr>
+</Card>
+<Card cardid=465>
+  <name>Muerte Cercana</name>
+  <descr>Da +3 <b>AT</b> y +2 <b>AR</b>
+a una invocación. Al final de su turno muere.
+</descr>
+</Card>
+<Card cardid=466>
+  <name>Moskito</name>
+  <descr><b>APARICIÓN:</b>
+Intercambia su posición con una de tus invocaciones.</descr>
+</Card>
+<Card cardid=126>
+  <name>Palabra de Silencio</name>
+  <descr>Inflige <b>silencio</b> a todas las invocaciones.</descr>
+</Card>
+<Card cardid=128>
+  <name>Palabra Reconstituyente</name>
+  <descr>Cura 3 <b>PdV</b> a una invocación o un dofus.</descr>
+</Card>
+<Card cardid=9>
+  <name>Palabra Restablecedora</name>
+  <descr>Da +3 <b>AR</b> a todas tus invocaciones.</descr>
+</Card>
+<Card cardid=521>
+  <name>Palabra Sanadora</name>
+  <descr>La invocación seleccionada recupera todos sus <b>PdV</b>.</descr>
+</Card>
+<Card cardid=129>
+  <name>Mediulubo</name>
+  <descr><b>GOLPE DE GRACIA:</b>
+Se transforma en
+hombre mediulubo.
+</descr>
+</Card>
+<Card cardid=30>
+  <name>Hombre mediulubo</name>
+  <descr><b>GOLPE DE GRACIA:</b>
+Gana +2 <b>AT</b>.</descr>
+</Card>
+<Card cardid=203>
+  <name>Mediuluba</name>
+  <descr><b>GOLPE DE GRACIA:</b>
+Cura 2 <b>PdV</b> a tus demás mediulubos.
+
+</descr>
+</Card>
+<Card cardid=354>
+  <name>Murmullos Salvajes</name>
+  <descr>Transforma todos tus <b>arbustos</b> en polters.</descr>
+</Card>
+<Card cardid=473>
+  <name>Nigro Mantesalén</name>
+  <descr>Cuando uno de tus sadidas muere, vuelve a tu mano.</descr>
+</Card>
+<Card cardid=228>
+  <name>Nomekop, el Crío</name>
+  <descr><b>APARICIÓN:</b>
+Invoca 3 miaumiaus
+a su alrededor.</descr>
+</Card>
+<Card cardid=332>
+  <name>Noximiliano, el Relojero</name>
+  <descr><b>MUERTE:</b> Añade 2 <b>PA</b>
+a tu <b>reserva</b>.</descr>
+</Card>
+<Card cardid=141>
+  <name>Nox</name>
+  <descr><b>MUERTE:</b>
+Inflige a las invocaciones enemigas tantos daños como <b>PA</b> tengas en tu <b>reserva</b>.
+Vacía tu <b>reserva</b>.</descr>
+</Card>
+<Card cardid=285>
+  <name>Nox</name>
+  <descr>Mientras Nox esté en juego,
+el coste de tus invocaciones es de 4 <b>PA</b>.</descr>
+</Card>
+<Card cardid=305>
+  <name>Noxina</name>
+  <descr><b>APARICIÓN:</b>
+Roba un <b>PA</b> de la <b>reserva</b> enemiga y lo añade a la tuya.</descr>
+</Card>
+<Card cardid=51>
+  <name>Ojo de Lince</name>
+  <descr>Aumenta en 2 el <b>alcance</b> de una invocación.</descr>
+</Card>
+<Card cardid=306>
+  <name>Ogivol Scarratero</name>
+  <descr>Elimina 3 cartas de tu descarte para invocarla.</descr>
+</Card>
+<Card cardid=66>
+  <name>Sombra</name>
+  <descr><b>FIN DEL TURNO:</b>
+Intercambia una de las cartas de tu mano con una de la mano del contrincante.</descr>
+</Card>
+<Card cardid=437>
+  <name>Ormo</name>
+  <descr><b>APARICIÓN:</b>
+Gana +1 <b>AT</b> y +1 <b>AR</b>
+por cada <b>semilla</b> aliada en juego.</descr>
+</Card>
+<Card cardid=549>
+  <name>Constantimo</name>
+  <descr>Cuesta 1 <b>PA</b> menos por cada carta que se encuentre en tu descarte.</descr>
+</Card>
+<Card cardid=457>
+  <name>Otomai</name>
+  <descr><b>VENGANZA:</b>
+Se transforma, de manera aleatoria,
+en una invocación que cueste 4 <b>PA</b>.</descr>
+</Card>
+<Card cardid=426>
+  <name>Otomai</name>
+  <descr><b>VENGANZA:</b>
+Se transforma, de manera aleatoria,
+en una invocación que cueste 6 <b>PA</b>.</descr>
+</Card>
+<Card cardid=205>
+  <name>Otomai</name>
+  <descr><b>MUERTE:</b> Todas las demás invocaciones se transforman en invocaciones aleatorias que cuestan 5 <b>PA</b>.</descr>
+</Card>
+<Card cardid=62>
+  <name>Pacto de Sangre</name>
+  <descr>Inflige 1 de daños a las invocaciones aliadas y les da +1 <b>AT</b>.</descr>
+</Card>
+<Card cardid=80>
+  <name>Noai Aludem</name>
+  <descr><b>APARICIÓN</b>:
+Inflige 1 de daño
+a uno tus dofus.</descr>
+</Card>
+<Card cardid=181>
+  <name>Pampactus</name>
+  <descr><b>APARICIÓN:</b>
+Inflige 1 de daño a una invocación aliada.
+</descr>
+</Card>
+<Card cardid=276>
+  <name>Patek Tag </name>
+  <descr><b>APARICIÓN:</b>
+Destruyes un prisma.</descr>
+</Card>
+<Card cardid=270>
+  <name>Pasty Leria</name>
+  <descr><b>ALCANCE:</b> 1-3
+Empuja 1 casilla.</descr>
+</Card>
+<Card cardid=392>
+  <name>Miedo</name>
+  <descr>Empuja las invocaciones enemigas 4 casillas.</descr>
+</Card>
+<Card cardid=34>
+  <name>Perforatroz</name>
+  <descr><b>MUERTE:</b> Tu contrincante roba 1 carta.</descr>
+</Card>
+<Card cardid=448>
+  <name>Perforatroz doméstico</name>
+  <descr><b>APARICIÓN:</b>
+Recuperas 1 carta aleatoria de tu descarte.</descr>
+</Card>
+<Card cardid=314>
+  <name>Perfórserker</name>
+  <descr><b>APARICIÓN:</b>
+Descartas 1 carta de tu mano al azar.</descr>
+</Card>
+<Card cardid=561>
+  <name>Pie de Sacrógrito</name>
+  <descr>Inflige 3 de daño a una invocación y 1 de daño a las demás.</descr>
+</Card>
+<Card cardid=283>
+  <name>Lápida</name>
+  <descr><b>MURO</b>
+<b>APARICIÓN:</b>
+Descarta las 3 primeras cartas de tu mazo.</descr>
+</Card>
+<Card cardid=293>
+  <name>Pío de los huevos de oro</name>
+  <descr>Robas 1 carta cuando
+una invocación aliada entra en juego.</descr>
+</Card>
+<Card cardid=432>
+  <name>Pío azul</name>
+  <descr><b>APARICIÓN:</b>
+Da +1 <b>AR</b> a otra invocación.
+</descr>
+</Card>
+<Card cardid=145>
+  <name>Pío rojo</name>
+  <descr><b>APARICIÓN:</b>
+Da +1 <b>AT</b> a otra invocación.
+</descr>
+</Card>
+<Card cardid=52>
+  <name>Pío Real</name>
+  <descr>El coste de tus píos
+se reduce en 2 <b>PA</b>.
+<b>LÍDER:</b> Da +1 <b>AT</b> a tus
+demás píos.
+</descr>
+</Card>
+<Card cardid=257>
+  <name>Pío verde</name>
+  <descr><b>APARICIÓN:</b>
+<b>Carga</b> 1 casilla.
+</descr>
+</Card>
+<Card cardid=380>
+  <name>Pío violeta</name>
+  <descr><b>APARICIÓN:</b>
+Da +1 <b>AT</b> y +1 <b>AR</b>
+ a tus demás píos.</descr>
+</Card>
+<Card cardid=235>
+  <name>Piollito</name>
+  <descr></descr>
+</Card>
+<Card cardid=709>
+  <name>Planta kaníbola</name>
+  <descr><b>FIN DEL TURNO:</b>
+Destruye las invocaciones que tengan 2 <b>AT</b> o menos.</descr>
+</Card>
+<Card cardid=528>
+  <name>Sartén</name>
+  <descr>Inflige 3 de daño.</descr>
+</Card>
+<Card cardid=39>
+  <name>Pelos de Yiyi</name>
+  <descr>Juega esta carta para deshacerte de ella.</descr>
+</Card>
+<Card cardid=553>
+  <name>Polinización</name>
+  <descr>Inflige 3 de daño a todas las invocaciones enemigas y transforma las que mueren en <b>semillas</b> aliadas.</descr>
+</Card>
+<Card cardid=49>
+  <name>Polter</name>
+  <descr><b>VENGANZA:</b>
+Transforma a su contrincante en <b>arbusto</b>.</descr>
+</Card>
+<Card cardid=346>
+  <name>Polter tofu</name>
+  <descr><b>MUERTE:</b>
+Vuelve a tu mano.
+Cuesta 1 <b>PA</b> más.</descr>
+</Card>
+<Card cardid=393>
+  <name>Polvo Temporal</name>
+  <descr>Inflige 2 de daño.
+Añade 5 <b>PA</b> a tu <b>reserva</b> si la invocación muere.</descr>
+</Card>
+<Card cardid=115>
+  <name>Primer Sangrado</name>
+  <descr>Elimina 1 carta de tu descarte para infligir 2 de daño.</descr>
+</Card>
+<Card cardid=180>
+  <name>Prespics</name>
+  <descr><b>VENGANZA:</b>
+Inflige 1 de daño a su alrededor.</descr>
+</Card>
+<Card cardid=513>
+  <name>Protoflex</name>
+  <descr><b>CARGA</b>
+</descr>
+</Card>
+<Card cardid=217>
+  <name>Potencia Silvestre</name>
+  <descr>Tus invocaciones ganan +2 <b>AT</b> y +2 <b>AR</b>.
+</descr>
+</Card>
+<Card cardid=56>
+  <name>Castigo</name>
+  <descr>Sacrificas uno de tus dofus para infligir 3 de daño a un dofus enemigo.
+</descr>
+</Card>
+<Card cardid=502>
+  <name>Pulguita</name>
+  <descr><b>APARICIÓN:</b>
+Entra en la familia
+de la invocación seleccionada.</descr>
+</Card>
+<Card cardid=223>
+  <name>Purpulguita</name>
+  <descr><b>APARICIÓN:</b>
+<b>Carga</b> hasta el dofus enemigo y muere al final del turno.</descr>
+</Card>
+<Card cardid=579>
+  <name>Qilby</name>
+  <descr><b>GOLPE DE GRACIA:</b>
+La invocación enemiga vuelve a tu mano.</descr>
+</Card>
+<Card cardid=394>
+  <name>Qilby</name>
+  <descr><b>GOLPE DE GRACIA:</b>
+La invocación enemiga vuelve a tu mano.</descr>
+</Card>
+<Card cardid=389>
+  <name>Qilby</name>
+  <descr><b>GOLPE DE GRACIA:</b>
+La invocación enemiga vuelve a tu mano.</descr>
+</Card>
+<Card cardid=118>
+  <name>Quartz</name>
+  <descr><b>MUERTE:</b>
+Invoca 1 momia.</descr>
+</Card>
+<Card cardid=219>
+  <name>Rabet</name>
+  <descr><b>VENGANZA:</b>
+Robas 1 carta.
+</descr>
+</Card>
+<Card cardid=463>
+  <name>Radoris Montrouge</name>
+  <descr><b>APARICIÓN :</b>
+Gasta todos los <b>PA</b> de tu
+<b>reserva</b> para ganar la misma cantidad
+de <b>AT</b> y de <b>AR</b>.</descr>
+</Card>
+<Card cardid=299>
+  <name>Ratocina</name>
+  <descr><b>LÍDER:</b>
+Da +1 <b>AT</b> y +1 <b>PM</b>
+a tus demás ratas.</descr>
+</Card>
+<Card cardid=271>
+  <name>Ralentización</name>
+  <descr>El coste de la próxima carta que juegue tu contrincante aumenta en 1 <b>PA</b>.</descr>
+</Card>
+<Card cardid=325>
+  <name>Rata silvestrada</name>
+  <descr>Gana +2 <b>AT</b> mientras tengas una rata devil en juego.
+</descr>
+</Card>
+<Card cardid=32>
+  <name>Rata devil</name>
+  <descr>Gana +2
+<b>AR</b> mientras tengas otra una silvestrada en juego.</descr>
+</Card>
+<Card cardid=475>
+  <name>Rata dominante</name>
+  <descr><b>MUERTE:</b>
+Invoca 1 ratató.</descr>
+</Card>
+<Card cardid=117>
+  <name>Rata surada</name>
+  <descr>Vuelve de tu descarte a tu mano cuando una de tus ratas muere.</descr>
+</Card>
+<Card cardid=312>
+  <name>Ratató</name>
+  <descr><b>APARICIÓN:</b>
+<b>Carga</b> tantas casillas como otras ratas aliadas tengas en juego.</descr>
+</Card>
+<Card cardid=410>
+  <name>Estragos</name>
+  <descr>Da +2 <b>AT</b> y otorga <b>iniciativa</b> a una invocación.
+</descr>
+</Card>
+<Card cardid=14>
+  <name>Juanpi Ylsen</name>
+  <descr><b>APARICIÓN:</b>
+Da +1 <b>AT</b> a tus demás invocaciones.
+</descr>
+</Card>
+<Card cardid=224>
+  <name>Cortatiempos</name>
+  <descr><b>APARICIÓN:</b>
+Tus demás invocaciones ganan tanto <b>AT</b> como <b>AR</b> tengan.</descr>
+</Card>
+<Card cardid=328>
+  <name>Rechazo a la Muerte</name>
+  <descr>Sacrificas uno de tus dofus para robar 4 cartas.</descr>
+</Card>
+<Card cardid=169>
+  <name>Re-tirada</name>
+  <descr>Robas 2 cartas
+<b>O</b> este hechizo pasa
+al mazo del contrincante.</descr>
+</Card>
+<Card cardid=472>
+  <name>Remington Smis</name>
+  <descr><b>ALCANCE:</b> 1-3
+<b>MUERTE:</b> Coloca 1 bomba en su casilla.</descr>
+</Card>
+<Card cardid=396>
+  <name>Remington Smis</name>
+  <descr><b>ALCANCE:</b> 1-3
+<b>MUERTE:</b> Coloca 1 bomba en las casillas de su izquierda y de su derecha.</descr>
+</Card>
+<Card cardid=74>
+  <name>Remington Smis</name>
+  <descr><b>ALCANCE:</b> 1-3
+<b>APARICIÓN:</b> Transformas un prisma en bomba.</descr>
+</Card>
+<Card cardid=323>
+  <name>Renisurrección</name>
+  <descr>Otorga <b>resurrección</b>
+a una invocación.</descr>
+</Card>
+<Card cardid=173>
+  <name>Descanso Eterno</name>
+  <descr>En este turno,
+no gastes <b>PA</b>para jugar tus cartas. En su lugar, elimina cartas de tu descarte.</descr>
+</Card>
+<Card cardid=79>
+  <name>Tiburón lancero</name>
+  <descr>Gana +1 <b>AT</b> cuando otra invocación está herida.</descr>
+</Card>
+<Card cardid=197>
+  <name>Tiburón martillo</name>
+  <descr><b>APARICIÓN:</b>
+Gana +1 <b>AT</b> por cada invocación herida en juego.</descr>
+</Card>
+<Card cardid=260>
+  <name>Tim burón</name>
+  <descr>Gana +1 <b>AT</b> si otra invocación está herida.</descr>
+</Card>
+<Card cardid=211>
+  <name>Ritual de Sram</name>
+  <descr>Cada jugador descarta
+las 5 primeras cartas de su mazo.</descr>
+</Card>
+<Card cardid=350>
+  <name>Robin de las Landas</name>
+  <descr><b>ALCANCE:</b> 1-4</descr>
+</Card>
+<Card cardid=44>
+  <name>Rocaceronte</name>
+  <descr>Inflige 2 de daño y
+empuja 1 casilla todas las invocaciones enemigas.</descr>
+</Card>
+<Card cardid=266>
+  <name>Rey Chafer</name>
+  <descr>Tus invocaciones tienen un 50% de probabilidades de volver a la vida.
+<b>MUERTE:</b> 50% de probabilidades de invocar 1 charfeloko.
+</descr>
+</Card>
+<Card cardid=50>
+  <name>Rey de los jalatós</name>
+  <descr><b>APARICIÓN:</b>
+Gana +1 <b>AT</b> y +1 <b>AR</b> por cada otro jalató aliado en juego.</descr>
+</Card>
+<Card cardid=246>
+  <name>Rey de las pestruces</name>
+  <descr>Anula las habilidades de cambio de hilera y cambio de lado de tus pestruces.</descr>
+</Card>
+<Card cardid=438>
+  <name>Rey Gelax</name>
+  <descr><b>FIN DEL TURNO:</b>
+Recuperas una gelatina aleatoria de tu descarte.</descr>
+</Card>
+<Card cardid=315>
+  <name>Rolbac</name>
+  <descr>Gasta todos los <b>PA</b>
+de tu <b>reserva</b>. Tus invocaciones <b>cargan</b> el número de casillas equivalente.</descr>
+</Card>
+<Card cardid=316>
+  <name>Zarza</name>
+  <descr>Inflige 2 de daño.
+Añade una <b>semilla</b> a tu mano si la invocación muere.</descr>
+</Card>
+<Card cardid=93>
+  <name>Zarzas Agresivas</name>
+  <descr>Inflige 4 de daño a todas las invocaciones de una hilera.</descr>
+</Card>
+<Card cardid=442>
+  <name>Zarzas Múltiples</name>
+  <descr>Inflige <b>silencio</b> a las invocaciones enemigas y cura 3 <b>PdV</b> a tus invocaciones.</descr>
+</Card>
+<Card cardid=280>
+  <name>Rosa demoníaca</name>
+  <descr><b>APARICIÓN:</b>
+<b>Aturde</b> una invocación.</descr>
+</Card>
+<Card cardid=401>
+  <name>Ruleta de Zurcarák</name>
+  <descr>Da 1d6 <b>AR</b> a una invocación. Se destruye si son 6.</descr>
+</Card>
+<Card cardid=100>
+  <name>Ruel Stroud</name>
+  <descr>Cuesta 3 <b>PA</b> menos
+por otro miembro de la Hermandad del Tofu que tengas en juego.</descr>
+</Card>
+<Card cardid=147>
+  <name>Ruel Stroud</name>
+  <descr>Cuesta 3 <b>PA</b> menos
+por otro miembro de la Hermandad del Tofu que tengas en juego.</descr>
+</Card>
+<Card cardid=450>
+  <name>Ruel Stroud</name>
+  <descr>Cuesta 3 <b>PA</b> menos
+por otro miembro de la Hermandad del Tofu que tengas en juego.</descr>
+</Card>
+<Card cardid=462>
+  <name>Rupulguita</name>
+  <descr>No sufre nunca más de
+1 de daño a la vez.</descr>
+</Card>
+<Card cardid=130>
+  <name>Reloj de Arena de Xelor</name>
+  <descr>Reduce en 1 <b>PA</b> la <b>reserva</b>
+del contrincante y aumenta en 1 <b>PA</b> la tuya.</descr>
+</Card>
+<Card cardid=71>
+  <name>Bolsa de semillas</name>
+  <descr>Añade 2 <b>semillas</b>
+a tu mano.</descr>
+</Card>
+<Card cardid=304>
+  <name>Sacrificio</name>
+  <descr>Sacrificas una invocación aliada, tus sacrógritos ganan +2 <b>AT</b> y +1 <b>AR</b>.</descr>
+</Card>
+<Card cardid=510>
+  <name>Sacrificio Muñequero</name>
+  <descr>Sacrifica todas tus tus muñecas. Cada muñeca inflige 1 de daño al dofus enemigo de su hilera.</descr>
+</Card>
+<Card cardid=443>
+  <name>Sangría Mortal</name>
+  <descr>Reduce a 1 los <b>PdV</b>
+de las invocaciones.</descr>
+</Card>
+<Card cardid=381>
+  <name>Saizan Zen</name>
+  <descr><b>APARICIÓN:</b>
+Da +2 <b>AR</b> a una invocación o +4 <b>AR</b> si
+está herida.</descr>
+</Card>
+<Card cardid=364>
+  <name>Albatroz</name>
+  <descr><b>APARICIÓN:</b>
+Descubre los dofus de su hilera.</descr>
+</Card>
+<Card cardid=400>
+  <name>Sanción</name>
+  <descr>Elimina 10 cartas de tu descarte para reducir a 1 los <b>PdV</b> de un dofus.</descr>
+</Card>
+<Card cardid=527>
+  <name>Sangre Ardiente</name>
+  <descr>Inflige 1 de daño
+a las invocaciones.</descr>
+</Card>
+<Card cardid=277>
+  <name>Sangre Nueva</name>
+  <descr>Descubre los dofus para descubrir también los del contrincante.</descr>
+</Card>
+<Card cardid=424>
+  <name>Sangre Tatuada</name>
+  <descr>Robas 1 carta
+por cada una de tus invocaciones heridas.</descr>
+</Card>
+<Card cardid=382>
+  <name>Sanguijuela Tsu Tsu</name>
+  <descr>Todas las curas se convierten en daños.
+</descr>
+</Card>
+<Card cardid=154>
+  <name>Sarcófago</name>
+  <descr>Añade 2 momias
+a tu mano.</descr>
+</Card>
+<Card cardid=166>
+  <name>Conocimiento Sadida</name>
+  <descr>Transforma una invocación en <b>semilla</b> aliada.</descr>
+</Card>
+<Card cardid=187>
+  <name>Escaradoro</name>
+  <descr><b>PRINCIPIO DE TURNO:</b>
+Da +1 <b>AR</b> a tus demás invocaciones.</descr>
+</Card>
+<Card cardid=236>
+  <name>Escario</name>
+  <descr><b>APARICIÓN:</b>
+Añade 5 <b>PA</b> a tu <b>reserva</b> si tienes otro justiciero en juego.</descr>
+</Card>
+<Card cardid=1288>
+  <name>Segundo Soplido</name>
+  <descr>Recuperas 2 cartas de tu descarte y descartas las 4 primeras cartas de tu mazo.</descr>
+</Card>
+<Card cardid=573>
+  <name>Atracción</name>
+  <descr>Toma el control de una invocación enemiga.</descr>
+</Card>
+<Card cardid=150>
+  <name>Selk Ator</name>
+  <descr><b>APARICIÓN:</b>
+Transforma una <b>semilla</b> aliada en <b>arbusto</b>.</descr>
+</Card>
+<Card cardid=503>
+  <name>Sellor Noob</name>
+  <descr><b>APARICIÓN:</b>
+Reduce a 1 los <b>PdV</b> de una invocación.</descr>
+</Card>
+<Card cardid=164>
+  <name>Pez muertambre</name>
+  <descr></descr>
+</Card>
+<Card cardid=149>
+  <name>Gatotilla</name>
+  <descr><b>APARICIÓN:</b>
+Introduce 1 miaumiau
+en tu mano.</descr>
+</Card>
+<Card cardid=192>
+  <name>Gaty Sakky</name>
+  <descr><b>MUERTE:</b>
+Vuelve a
+tu mano <b>O</b> a la del contrincante.</descr>
+</Card>
+<Card cardid=54>
+  <name>Shin Larva</name>
+  <descr>Tus larvas ganan +1 <b>AT</b> y <b>cargan</b> cuando entran en juego.</descr>
+</Card>
+<Card cardid=307>
+  <name>Silas, el Solitario</name>
+  <descr><b>GUARDAESPALDAS</b></descr>
+</Card>
+<Card cardid=357>
+  <name>Siniestro</name>
+  <descr>(Se coloca en un dofus.)
+<b>FIN DEL TURNO:</b> Inflige 1 de daño al adversario o
+al dofus delante de él.
+Se destruye si resulta herido.</descr>
+</Card>
+<Card cardid=576>
+  <name>Sir Kurn Flex</name>
+  <descr>Tus dofus devuelven
+los daños que sufren a la primera invocación enemiga de su hilera.</descr>
+</Card>
+<Card cardid=72>
+  <name>Skalo</name>
+  <descr>Gana +3 <b>PM</b> mientras tengas otro justiciero en juego.</descr>
+</Card>
+<Card cardid=263>
+  <name>Sono Sino</name>
+  <descr><b>APARICIÓN:</b>
+La invocación seleccionada <b>carga</b> 2 casillas.</descr>
+</Card>
+<Card cardid=754>
+  <name>Engaño</name>
+  <descr>Elimina 3 cartas de tu descarte para hacer que una invocación <b>cargue</b>.</descr>
+</Card>
+<Card cardid=20>
+  <name>Sfinter Cell</name>
+  <descr><b>GOLPE DE GRACIA:</b>
+Recuperas la primera rata de tu descarte.
+</descr>
+</Card>
+<Card cardid=160>
+  <name>Sufod</name>
+  <descr>Elimina 1 carta de tu descarte para invocarla.</descr>
+</Card>
+<Card cardid=309>
+  <name>Sylvina Hierbaloca</name>
+  <descr>Tus <b>semillas</b> infligen 2 de daño a las invocaciones enemigas que las pisan.</descr>
+</Card>
+<Card cardid=313>
+  <name>Slashand</name>
+  <descr><b>APARICIÓN:</b>
+Sacrificas a 1 de tus invocaciones para ganar +4 <b>AT</b> y +4 <b>AR</b>.
+</descr>
+</Card>
+<Card cardid=546>
+  <name>Toro</name>
+  <descr></descr>
+</Card>
+<Card cardid=488>
+  <name>Teletransportación</name>
+  <descr><b>Teletransporta</b> una invocación a una casilla de tu lado del tablero.</descr>
+</Card>
+<Card cardid=365>
+  <name>Tirador de élite</name>
+  <descr>Tus ocras infligen 1 de daño al dofus enemigo de su hilera.</descr>
+</Card>
+<Card cardid=499>
+  <name>Pekewabbit hambriento</name>
+  <descr><b>APARICIÓN:</b>
+Gana +1 <b>AT</b> y +1 <b>AR</b>
+si tienes una zanahowia en juego.
+</descr>
+</Card>
+<Card cardid=500>
+  <name>Pekewabbit huesudo</name>
+  <descr><b>APARICIÓN:</b>
+<b>Carga</b> 1 casilla si tienes una zanahowia en juego.
+</descr>
+</Card>
+<Card cardid=105>
+  <name>Tofona</name>
+  <descr><b>APARICIÓN:</b>
+Robas 1 carta.
+Si no es un tofu, descártala.</descr>
+</Card>
+<Card cardid=408>
+  <name>Tofu Celestial</name>
+  <descr><b>APARICIÓN:</b>
+Robas 3 cartas. Conservas los tofus y descartas las otras.</descr>
+</Card>
+<Card cardid=156>
+  <name>Tofu dominante</name>
+  <descr><b>APARICIÓN:</b>
+Gana +1 <b>AT</b> por tofu aliado en juego.</descr>
+</Card>
+<Card cardid=398>
+  <name>Tofu Rabioso</name>
+  <descr><b>APARICIÓN:</b>
+<b>Carga</b> tantas casillas como tofus tengas
+en juego.</descr>
+</Card>
+<Card cardid=136>
+  <name>Tofu explosivo</name>
+  <descr><b>MUERTE:</b>
+Inflige 1 de daño a las invocaciones enemigas por cada tofu aliado en juego.</descr>
+</Card>
+<Card cardid=67>
+  <name>Tofu macho</name>
+  <descr></descr>
+</Card>
+<Card cardid=286>
+  <name>Tofu mutante</name>
+  <descr><b>APARICIÓN:</b>
+Sacrifica a un tofu aliado para ganar su <b>AT</b> y sus <b>PM</b>.</descr>
+</Card>
+<Card cardid=231>
+  <name>Tofu negro</name>
+  <descr><b>APARICIÓN:</b>
+<b>Carga</b> 1 casilla.</descr>
+</Card>
+<Card cardid=18>
+  <name>Tofu Real</name>
+  <descr><b>LÍDER:</b> Da +1 <b>AT</b> y +1 <b>PM</b> a tus demás tofus.</descr>
+</Card>
+<Card cardid=95>
+  <name>Tofu gordinflón</name>
+  <descr>Gana +1 <b>AR</b> cuando invocas uno de tus tofus.</descr>
+</Card>
+<Card cardid=148>
+  <name>Tofukaz</name>
+  <descr>Gana +2 <b>AT</b> y +1 <b>PM</b> cuando uno de tus tofus muere.</descr>
+</Card>
+<Card cardid=103>
+  <name>Tomás Tiloso</name>
+  <descr><b>APARICIÓN:</b>
+Da +2 <b>AT</b> a una invocación.
+  
+</descr>
+</Card>
+<Card cardid=547>
+  <name>Todo o Nada</name>
+  <descr>Tus invocaciones <b>cargan</b> <b>O</b> son empujadas 3 casillas.</descr>
+</Card>
+<Card cardid=26>
+  <name>Transcharmación</name>
+  <descr>Todas tus invocaciones se transforman en miaumiaus.</descr>
+</Card>
+<Card cardid=577>
+  <name>Transformatosis</name>
+  <descr>Transforma una invocación en cunejo aliado.</descr>
+</Card>
+<Card cardid=222>
+  <name>Terremoto</name>
+  <descr>Inflige 4 de daño a una invocación y a todas las que estén a su alrededor.</descr>
+</Card>
+<Card cardid=191>
+  <name>Tristemonio</name>
+  <descr><b>VENGANZA:</b>
+Gana +2 <b>AT</b> y +1 <b>PM</b>.</descr>
+</Card>
+<Card cardid=8>
+  <name>Tristepin</name>
+  <descr><b>CARGA</b>
+Gana <b>iniciativa</b> mientras
+tengas otro miembro de la Hermandad del Tofu en juego.</descr>
+</Card>
+<Card cardid=77>
+  <name>Tristepin</name>
+  <descr><b>CARGA</b>
+Gana <b>iniciativa</b> mientras
+tengas otro miembro de la Hermandad del Tofu en juego.</descr>
+</Card>
+<Card cardid=109>
+  <name>Tristepin</name>
+  <descr><b>CARGA</b>
+Gana <b>iniciativa</b> mientras
+tengas otro miembro de la Hermandad del Tofu en juego.</descr>
+</Card>
+<Card cardid=433>
+  <name>Tronkónido </name>
+  <descr></descr>
+</Card>
+<Card cardid=21>
+  <name>Trool</name>
+  <descr><b>APARICIÓN:</b>
+Empuja una invocación 
+2 casillas.</descr>
+</Card>
+<Card cardid=125>
+  <name>Pestruz </name>
+  <descr>Cambia de hilera
+cuando una invocación
+enemiga entra en juego.</descr>
+</Card>
+<Card cardid=199>
+  <name>Pestruz locanática </name>
+  <descr><b>GOLPE DE GRACIA:</b>
+50% de probabilidades de
+cambiar de lado del tablero.</descr>
+</Card>
+<Card cardid=4>
+  <name>Pestruzkito </name>
+  <descr>Cambia de hilera
+cuando una invocación
+enemiga entra en juego.</descr>
+</Card>
+<Card cardid=162>
+  <name>Pestruzatón </name>
+  <descr>Cambia de hilera
+cuando una invocación
+enemiga entra en juego.</descr>
+</Card>
+<Card cardid=208>
+  <name>Pestruzillo </name>
+  <descr>Cambia de hilera
+cuando una invocación
+enemiga entra en juego.</descr>
+</Card>
+<Card cardid=255>
+  <name>Zar Tsu Tsu</name>
+  <descr><b>GOLPE DE GRACIA:</b>
+Gana +2 <b>AT</b> y +<b>2 AR</b>.</descr>
+</Card>
+<Card cardid=90>
+  <name>Uppercut</name>
+  <descr>Inflige 2 de daño y
+empuja 1 casilla.</descr>
+</Card>
+<Card cardid=132>
+  <name>Ush</name>
+  <descr><b>APARICIÓN:</b>
+Coloca el dofus aliado
+de su hilera en el lugar de un dofus destruido.</descr>
+</Card>
+<Card cardid=168>
+  <name>Ush</name>
+  <descr><b>APARICIÓN:</b>
+Intercambia la posición del dofus aliado de su hilera con la de otro.</descr>
+</Card>
+<Card cardid=335>
+  <name>Ush</name>
+  <descr><b>APARICIÓN:</b>
+Intercambia la posición del dofus enemigo de su hilera con la de otro.</descr>
+</Card>
+<Card cardid=64>
+  <name>Viuda Negra</name>
+  <descr><b>APARICIÓN:</b>
+Todas las demás invocaciones vuelven a la mano de su propietario. 
+</descr>
+</Card>
+<Card cardid=194>
+  <name>Virilidad</name>
+  <descr>Da +2 <b>AT</b> y +1 <b>AR</b> a tus invocaciones.</descr>
+</Card>
+<Card cardid=524>
+  <name>Wey Wabbit</name>
+  <descr><b>APARICIÓN:</b>
+Transforma uno de tus wabbits en wobot 02.
+</descr>
+</Card>
+<Card cardid=195>
+  <name>Wabbit</name>
+  <descr></descr>
+</Card>
+<Card cardid=297>
+  <name>Wabbit GM</name>
+  <descr>Cuando uno de tus wabbits muere, añade un pekewabbit huesudo a tu mano.</descr>
+</Card>
+<Card cardid=230>
+  <name>Wabbit infernal</name>
+  <descr><b>MUERTE:</b>
+Inflige 1 de daño a todas
+las invocaciones. </descr>
+</Card>
+<Card cardid=275>
+  <name>Wabbit huesudo</name>
+  <descr><b>APARICIÓN:</b>
+<b>Carga</b> 2 casillas si tienes una zanahowia aliada en juego.</descr>
+</Card>
+<Card cardid=403>
+  <name>Welsh</name>
+  <descr>Gana +1 <b>AT</b> y +1 <b>AR</b> cuando tu contrincante juega una carta.</descr>
+</Card>
+<Card cardid=5>
+  <name>Will Skass</name>
+  <descr><b>APARICIÓN:</b>
+Tus miaumiaus y zurcaráks ganan +2 <b>AT</b>.
+</descr>
+</Card>
+<Card cardid=85>
+  <name>Wabbit wodo</name>
+  <descr><b>APARICIÓN:</b>
+Da a tus wabbits +1 <b>AT</b> y +1 <b>AR</b> por cada zanahowia aliada en juego.</descr>
+</Card>
+<Card cardid=428>
+  <name>Wobot 01</name>
+  <descr><b>LÍDER:</b>
+Da +1 <b>AT</b> a tus demás wabbits.</descr>
+</Card>
+<Card cardid=265>
+  <name>Wobot 02</name>
+  <descr><b>MUERTE:</b>
+Invoca 1 wabbit.</descr>
+</Card>
+<Card cardid=282>
+  <name>Xelorium</name>
+  <descr>Roba todos los <b>PA</b> de la <b>reserva</b> enemiga para añadirlos a la tuya.</descr>
+</Card>
+<Card cardid=134>
+  <name>Yugo</name>
+  <descr><b>VENGANZA:</b>
+Coloca a un miembro de la Hermandad del Tofu de tu mazo en tu mano.</descr>
+</Card>
+<Card cardid=525>
+  <name>Yugo</name>
+  <descr><b>VENGANZA:</b>
+Coloca a un miembro de la Hermandad del Tofu de tu mazo en tu mano.</descr>
+</Card>
+<Card cardid=356>
+  <name>Yugo</name>
+  <descr><b>VENGANZA:</b>
+Coloca a un miembro de la Hermandad del Tofu de tu mazo en tu mano.</descr>
+</Card>
+<Card cardid=48>
+  <name>Zaldior</name>
+  <descr><b>APARICIÓN:</b>
+Una invocación que tenga 4 <b>AT</b> o menos vuelve a tu mano.</descr>
+</Card>
+<Card cardid=460>
+  <name>Pez zespadín</name>
+  <descr><b>APARICIÓN:</b>
+Inflige 1 de daño
+a la primera invocación delante de él.</descr>
+</Card>
+<Card cardid=799>
+  <name>Zespadín negro</name>
+  <descr><b>FIN DEL TURNO:</b>
+Inflige 1 de daño
+a la primera invocación delante de él.</descr>
+</Card>

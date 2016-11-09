@@ -1,0 +1,18 @@
+{
+  "$type": "Assets.Code.Editor.Helpers.SimpleCardDataExporter+SimpleData, Assembly-CSharp-Editor",
+  "Id": 415,
+  "Name": "larve_orange",
+  "CardType": "Summon",
+  "CostAP": 3,
+  "Life": 4,
+  "Attack": 1,
+  "MovementPoint": 2,
+  "Families": [
+    16
+  ],
+  "IsToken": false,
+  "Rarity": 1,
+  "GodType": 0,
+  "Extension": 1,
+  "LinkedCards": []
+}

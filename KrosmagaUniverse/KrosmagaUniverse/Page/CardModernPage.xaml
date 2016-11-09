@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage  Title="Krosmaga Universe"
+              xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:flv="clr-namespace:DLToolkit.Forms.Controls;assembly=DLToolkit.Forms.Controls.FlowListView"
+              xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             x:Class="KrosmagaUniverse.Page.CardModernPage">
+  <ContentPage.Content>
+    <flv:FlowListView SeparatorVisibility="None" HasUnevenRows="true"
+    FlowColumnMinWidth="110" FlowItemsSource="{Binding CardsModern}">
+
+      <flv:FlowListView.FlowColumnTemplate>
+        <DataTemplate>
+          <Grid Padding="1">
+            <Grid.RowDefinitions>
+              <RowDefinition Height="*" />
+              <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+              <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid>
+              <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+              </Grid.RowDefinitions>
+              <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+              </Grid.ColumnDefinitions>
+              <ffimageloading:CachedImage HeightRequest="100" Aspect="AspectFill"
+                    DownsampleHeight="200" DownsampleUseDipUnits="false"
+                    LoadingPlaceholder="icon.png" ErrorPlaceholder="splash.png"
+                    Source="{Binding ImagePath}"/>
+
+              <Label x:Name="NameToUpper" HorizontalOptions="Fill" HorizontalTextAlignment="Center" VerticalOptions="Start"
+                  BackgroundColor="Black" TextColor="White" Opacity="0.5" Text="{Binding NameToUpper}"/>
+
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="End"  BackgroundColor="Black" Opacity="0.5">
+                 
+                  <Label  x:Name="PA"    HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" BackgroundColor="Transparent" TextColor="White" Text="{Binding PA}" Opacity="0.5"    VerticalOptions="End"/>
+                  <Label  x:Name="ATQ"   HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" BackgroundColor="Transparent" TextColor="White" Text="{Binding ATQ}" Opacity="0.5" VerticalOptions="End"/>
+                  <Label  x:Name="PV"     HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" BackgroundColor="Transparent" TextColor="White" Text="{Binding PV}" Opacity="0.5"   VerticalOptions="End"/>
+                  <Label  x:Name="PM"     HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" BackgroundColor="Transparent" TextColor="White" Text="{Binding PM}" Opacity="0.5"   VerticalOptions="End"/>
+                </StackLayout>
+     
+
+
+            </Grid>
+            <Label Grid.Row="1" x:Name="Description" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"
+							BackgroundColor="Black" TextColor="White" Opacity="0.5" Text="{Binding Description}"/>
+          </Grid>
+        </DataTemplate>
+      </flv:FlowListView.FlowColumnTemplate>
+    </flv:FlowListView>
+  </ContentPage.Content>
+</ContentPage>
